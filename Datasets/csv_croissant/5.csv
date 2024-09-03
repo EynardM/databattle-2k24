@@ -1,0 +1,2110 @@
+Solution_ID,Text,Embedding
+2,"Installation frigorifique négative de type cascade utilisant du CO2, Centrale froid, Froid, Utilités","[ 1.5650488  -1.9883453  -0.4028725  ...  0.86886984 -1.7000755
+  0.9720257 ]"
+3,"Centrale négative en mode booster, Centrale froid, Froid, Utilités","[ 0.8010012  -2.3686848  -0.6936191  ... -0.36577547 -1.1703254
+  0.20590532]"
+4,"Arrêt des compresseurs le week end et lorsque le besoin de refroidissement est nul, Ajustement production/besoin, Froid, Utilités","[ 2.6358697  -1.9302568  -1.049745   ...  0.46845782 -0.440259
+  0.63775986]"
+5,"Régulation non électronique sur un compresseur, Régulation, Froid, Utilités","[ 1.4716336  -1.2884252  -1.4273152  ... -0.30012953 -0.75472105
+ -1.8153292 ]"
+6,"Condenseur frigorifique à haute efficacité, Condenseur, Froid, Utilités","[ 2.8654788  -1.1904436   0.18112256 ...  0.37985125 -0.97177416
+  0.40878662]"
+7,"Condenseur surélevée pour garantir un bon échange thermique, Condenseur, Froid, Utilités","[ 3.276139   -1.7958225   1.3854642  ... -0.19654241 -1.0605631
+ -0.21665217]"
+8,"Vérification du dimensionnement et remplacement des compresseurs surdimensionnés si nécessaire., Centrale froid, Froid, Utilités","[ 1.8873286   0.48318088 -0.4253576  ...  0.63689905 -0.576366
+ -0.79248744]"
+9,"Zone neutre entre les températures de consignes chaude et froide, Gestion et pilotage, Froid, Utilités","[ 0.5069002  -1.032268   -1.5355865  ...  0.06639072 -1.4458724
+ -0.29186782]"
+10,"Séparation des productions de froid, Evaporateur, Froid, Utilités","[ 2.7260706  -1.3597579   0.09299485 ...  0.35085952 -1.7619826
+ -0.63569045]"
+11,"Diminution des entrées de chaleur dans les zones d'utilisation du froid, Chambre froide, Froid, Utilités","[ 0.7883161  -1.2937258  -0.8964627  ... -0.20434904 -1.3720025
+  0.2328735 ]"
+12,"Pré-refroidissement du produit, Gestion et pilotage, Froid, Utilités","[ 2.7900112  -1.0588754  -0.6233036  ... -0.61068296 -1.7223624
+  0.06654924]"
+13,"Meuble frigorifique de type vertical avec uniquement éclairage en fronton, Meuble frigorifique, Froid, Utilités","[ 2.019988   -0.5407163  -0.9797241  ...  0.20714615 -2.8329225
+  0.08127774]"
+14,"Rideaux de nuit sur meubles frigorifiques de type vertical à température positive, Meuble frigorifique, Froid, Utilités","[ 1.9416735  -0.31393686 -0.360242   ...  0.07394402 -2.7202759
+ -0.15143535]"
+15,"Porte non chauffante à haute performance d'isolation pour armoire verticale à froid négatif, Meuble frigorifique, Froid, Utilités","[ 1.333236   -0.30300796 -0.7259106  ...  0.7953109  -1.9689614
+  0.29743502]"
+16,"Séparation du dégivrage d'un meuble frigorifique en plusieurs parties, Meuble frigorifique, Froid, Utilités","[ 2.203379    0.41408402 -0.07933688 ...  0.8902416  -2.604491
+  0.27407724]"
+17,"Stockage thermique, Stockage, Froid, Utilités","[ 3.0087433  -0.62709326 -2.3780596  ...  1.2147664  -1.4521402
+ -0.05689216]"
+18,"Free cooling par tour à vent, Climatisation, CVC, Bâtiment","[ 0.6769762  -1.7799153  -0.9765713  ...  0.43285403 -2.275808
+ -0.5617987 ]"
+19,"Free chilling d'un réseau d'eau glacée, Condenseur, Froid, Utilités","[ 2.144488   -3.1222434  -2.0591588  ...  1.1905307  -1.8739672
+  0.95131636]"
+20,"Rafraichissement solaire, Climatisation, CVC, Bâtiment","[ 0.4392462  -0.62409616  1.3148892  ... -0.27695763 -0.27515757
+ -0.76109946]"
+21,"Contrôle de l'état du calorifugeage du circuit froid et réparer si nécessaire., Maintenance, Froid, Utilités","[ 2.1225345  -0.20678627 -0.9716342  ...  0.56203413 -1.8314294
+  1.0944703 ]"
+22,"Vérification et remplacement du calorifugeage des chambres froides, Chambre froide, Froid, Utilités","[ 0.42621788  0.0209353  -0.4864324  ...  0.92257875 -1.7710892
+  0.14640562]"
+23,"Diminution des distances de tuyauteries, Réseau, Froid, Utilités","[ 1.7390386  -0.8505413  -0.45551834 ...  0.40175095 -1.8972623
+  0.13873531]"
+24,"Programme de maintenance performant, Maintenance, Froid, Utilités",[ 0.8815988 -0.5420862 -1.6147858 ... -0.2636511 -0.5615988  0.5881712]
+25,"Optimisation des dégivrages des évaporateurs, Evaporateur, Froid, Utilités",[ 2.6369452 -1.347573   0.6811135 ...  0.553052  -0.7823616 -0.597427 ]
+26,"Ecart de température optimisé à l'évaporateur, Evaporateur, Froid, Utilités","[ 1.7493048  -2.1116314   1.9673535  ... -0.30781814 -0.9132565
+ -1.0905632 ]"
+27,"Contrôle du traitement de l'eau des condenseurs de type évaporatif et des tours de refroidissement, Maintenance, Froid, Utilités","[ 3.029161   -1.4804741  -0.02043638 ... -0.08544802 -1.5544667
+ -0.02011244]"
+28,"Ecart de température optimisé au condenseur, Condenseur, Froid, Utilités","[ 1.3222188  -1.9435339   1.3635045  ...  0.7406987  -1.1317079
+ -0.06037705]"
+29,"Nettoyage des condenseurs et autres échangeurs, Condenseur, Froid, Utilités","[ 3.4378767  -1.7782282   0.7339836  ...  1.3246204  -1.0487661
+ -0.01325531]"
+30,"Alimentation correcte en air du condenseur, Condenseur, Froid, Utilités","[ 2.1404035  -1.3985819  -0.01404501 ...  0.39979568 -1.5260972
+  0.26700473]"
+31,"Purge règulière des incondensables, Maintenance, Froid, Utilités","[ 2.1491005  -1.5667012  -0.6090871  ...  0.08656082 -0.4071815
+  0.601098  ]"
+32,"Réparation des fuites, tuyauteries, et changement des joints, Maintenance, Froid, Utilités","[ 2.721796   -0.3140465  -0.33051398 ...  1.0230367  -1.093124
+ -0.17176361]"
+33,"Ouverture des portes des zones froides minimisée, Chambre froide, Froid, Utilités","[-0.59178364 -1.6302706  -1.3686577  ...  0.5590471  -2.0141768
+ -0.63581735]"
+34,"Augmentation de la température d'évaporation, Régulation, Froid, Utilités","[ 1.7609879  -2.1999474   0.48224735 ... -0.5751139   0.19458815
+  0.03896104]"
+35,"Diminution de la température de condensation, Régulation, Froid, Utilités","[ 0.4152889  -1.9487709  -0.45721385 ... -1.2463293  -0.34153613
+  0.48744974]"
+36,"Diminution du taux d'air neuf en période de climatisation, Climatisation, CVC, Bâtiment","[-0.23080431 -1.1167802  -0.02574544 ... -0.2826947  -1.2894975
+ -0.13220076]"
+39,"Pilotage des compresseurs en cascade et compresseurs de puissances différentes, Régulation, Froid, Utilités","[ 2.3101892  -1.1466572  -1.0260034  ... -0.15603827 -0.6372342
+ -0.36613056]"
+40,"Variation électronique de vitesse sur ventilateurs de soufflage des évaporateurs, Evaporateur, Froid, Utilités","[ 2.6615865  -1.3138398   0.31574467 ... -0.300857   -0.99315596
+ -0.8934993 ]"
+41,"Mise en route graduelle des ventilateurs sur les aérocondenseurs, Condenseur, Froid, Utilités","[ 2.173568   -1.428289    0.3092126  ...  0.86370444 -0.423113
+  0.44057807]"
+42,"Sous refroidissement optimisé, Régulation, Froid, Utilités","[ 1.980797   -2.2337594   0.01427083 ... -0.06612404 -0.4981374
+ -0.98945105]"
+43,"Gestion Technique Centralisée (GTC), Gestion et pilotage, Procédés","[ 2.3419464  -0.94329196  0.33873647 ... -0.10315051 -1.2633531
+ -0.15356657]"
+44,"Système de régulation des cordons chauffant d'une porte d'armoire verticale à froid négatif, Meuble frigorifique, Froid, Utilités","[ 1.2777386  -0.7103237  -0.65752095 ...  0.8756365  -1.5130861
+ -0.32568002]"
+45,"Désurchauffeur pour récupérer la chaleur de condensation sur un cycle frigorifique., Récupération de chaleur, Froid, Utilités","[ 3.3993187  -1.1879724   1.4223336  ...  0.9168848  -0.30669373
+  0.26342303]"
+46,"Récupérateur de chaleur de condensation sur un groupe de production de froid, Récupération de chaleur, Froid, Utilités",[ 4.0737014 -1.5006324  1.8540282 ...  1.1703348 -0.6450063 -0.0848353]
+47,"Récupérateur de chaleur sur l'huile des compresseurs, Récupération de chaleur, Froid, Utilités","[ 4.1413455  -0.88542825  0.9102643  ...  1.8175163  -0.41249976
+ -0.6147022 ]"
+48,"Machine frigorifique à absorption, Machines frigorifiques, Utilités","[ 3.0604312  -0.92059726  0.49012044 ...  0.68889034 -1.155155
+  0.7784395 ]"
+49,"Remplacement des détendeurs par une turbine, Détendeur, Froid, Utilités","[ 1.5571004   0.03047486 -0.5077773  ...  1.34756    -0.04446392
+ -0.42476985]"
+50,"Moteurs correctement dimensionnés, Moteur, Moteur, Utilités","[ 0.81362903 -0.00716519 -0.28584534 ...  0.96934545 -0.01918002
+  0.03460691]"
+51,"Dimensionnement des moteurs pour des charges variables, Ajustement production/besoin, Moteur, Utilités","[ 1.5769173  -0.67824113 -0.27804735 ...  0.11350584  1.0890676
+  0.9632946 ]"
+54,"Moteur à haut rendement, Moteur, Moteur, Utilités","[ 1.724792   -0.8375286   0.43816182 ...  0.9245934   0.7812165
+ -0.5406687 ]"
+55,"Transmissions à haute efficacité, Transmission, Moteur, Utilités","[ 2.145049   -0.68448347  0.06789187 ... -1.0119215  -0.9472083
+ -0.29445887]"
+56,"Contrôle de la qualité de puissance, Régulation, Moteur, Utilités","[ 1.156687   -1.3532535  -0.919047   ... -0.24365589  0.43112776
+ -0.3896218 ]"
+57,"Contrôle de la température ambiante, Moteur, Moteur, Utilités","[ 1.2791324  -1.5296904  -0.7701716  ...  0.5422836  -0.5743544
+ -0.08487003]"
+58,"Remplacement des moteurs plutôt qu'un rebobinage ou une réparation, Maintenance, Moteur, Utilités","[ 1.1298465   0.56333673  0.6048604  ...  0.40942827 -0.4694609
+ -0.68576443]"
+59,"Lubrification correcte des paliers conformément aux spécifications constructeur, Maintenance, Moteur, Utilités","[ 0.9764813   0.54876333 -0.8385688  ...  1.0204641   0.686135
+  0.7836219 ]"
+60,"Entretien et amélioration des transmissions, Transmission, Moteur, Utilités","[ 2.0691752   0.33292884  0.10774172 ...  0.39347094 -0.26371843
+  0.33485386]"
+61,"Rebobinage de qualité des moteurs, Maintenance, Moteur, Utilités","[ 1.0660264   0.26849702 -0.20049834 ...  1.4725397  -0.41051072
+  0.5422644 ]"
+62,"Ajustement de la tension des courroies et des alignements, Transmission, Moteur, Utilités","[ 0.548726    0.0771853  -0.07453106 ...  0.92183787  0.3065047
+  0.01716284]"
+63,"Variateurs de vitesse en remplacement de vannes de laminages., Régulation, Pompe, Utilités","[ 1.6572808  -0.3183992  -0.12166392 ... -0.62308216 -0.66869104
+ -0.30203477]"
+64,"Pompe de surpression pour des hautes pressions ponctuelles, Pompe de surpression, Pompe, Utilités","[ 3.1074817  -1.0413854   0.25048995 ... -0.28617555 -0.49712968
+ -0.45711318]"
+65,"Pompes en parallèle, mise en route en fonction du besoin, Régulation, Pompe, Utilités","[ 1.6829201  -2.0248742  -0.75553286 ...  0.10605311 -1.0759971
+ -0.5234337 ]"
+66,"Matériel de mesure pour contrôler la perte de charge, et les débits des pompes., Mesure et comptage d’énergie, Management (ISO 50 001)","[ 0.9469826  -0.46248487  0.82679355 ... -0.29328972 -0.37486067
+ -0.00747756]"
+67,"Réduction du besoin de pompage non nécessaire, Ajustement production/besoin, Pompe, Utilités","[ 2.0360262  -0.930209   -0.8250622  ...  0.5841082   0.18422125
+ -0.3015704 ]"
+68,"Fermeture des parties du circuit non utilisées, Réseau, Pompe, Utilités","[ 1.871882   -1.0898929   0.03141027 ...  0.21659444 -2.0753026
+ -0.93201005]"
+69,"Purges d'air régulières sur le réseau, Réseau, Pompe, Utilités","[ 3.4171035  -1.4501574  -0.17246285 ...  0.33085388 -0.7698432
+  0.138835  ]"
+70,"Identification et remplacement des pompes surdimensionnées, Pompe, Pompe, Utilités","[ 2.943214   -0.5768441   0.52328354 ...  0.47413662  0.06863631
+ -2.1961565 ]"
+71,"Réparation des fuites, Réseau, Pompe, Utilités","[ 2.7519758  -1.6034611   0.71008897 ...  0.9306266  -1.3352851
+ -0.46406356]"
+72,"Vérification de l'usure des pompes, et identification des pompes en cavitation., Maintenance, Pompe, Utilités","[ 2.0192165  -0.64275116 -0.51083976 ...  0.78627545 -0.33669716
+ -0.86256874]"
+73,"Usinage du diamètre des roues des pompes centrifuges, Pompe, Pompe, Utilités","[ 3.2644095  -0.82023144 -0.44886667 ...  1.8866162  -1.0181578
+ -2.2638075 ]"
+74,"Filtre interne de réduction de frottements dans la pompe (sur les impulseurs), Pompe, Pompe, Utilités",[ 2.7109861  0.2118377  1.6118698 ...  1.1153055 -1.0376781 -1.5620179]
+75,"Diminution des débits et de la pression de fonctionnement aux minimum requis, Ajustement production/besoin, Pompe, Utilités","[ 2.1978128  -1.8423642  -0.51580644 ...  0.12371583 -0.12513784
+  0.1613711 ]"
+76,"Diminution des pertes de charges, Réseau, Pompe, Utilités","[ 2.5002394  -0.8557737   0.24881184 ... -0.21929504 -0.6094348
+ -0.29848456]"
+77,"Diminution des débits by-pass, Réseau, Pompe, Utilités","[ 1.8196642  -1.156487   -0.42518008 ... -0.21399993 -1.741466
+ -0.3711545 ]"
+78,"Consommation de biogaz, Valorisation, Méthanisation / Biogaz, Nouvelles énergies",[ 2.5577056 -1.778762   0.5387522 ...  0.6481556  1.5072883 -1.7008423]
+79,"Variateur de vitesse sur ventilateur centrifuge pour gestion du débit d'air optimisé, Régulation, Ventilation, Utilités","[ 2.038935   -1.6469804   0.8824588  ... -0.4094942  -0.84619874
+ -0.21471503]"
+80,"Ventilateur avec un régime optimal correspond aux besoins spécifiques de l'installation, Gestion et pilotage, Ventilation, Utilités","[ 0.44054356 -1.665665    0.25889984 ...  0.2562179  -0.6311724
+  0.58282655]"
+81,"Fonctionnement du ventilateur d'extraction au fonctionnement du process industriel, Gestion et pilotage, Ventilation, Utilités","[ 2.95306    -0.45694795 -0.16033041 ...  0.25713643 -1.1470134
+  0.421814  ]"
+82,"Diminution des pertes de charges du réseau, Réseau, Ventilation, Utilités","[ 2.2276835  -0.58944964  0.2593944  ...  0.05433243 -1.1373883
+  0.79554826]"
+83,"Ventilateur avec roue à réaction en remplacement d'un ventilateur avec roue à action, Ventilateur, Ventilation, Utilités","[ 1.6995053  -0.48221928  0.94799566 ...  0.30708298 -1.8321882
+ -0.26787505]"
+84,"Remplacement des courroies trapézoïdales par des transmissions directes, Ventilateur, Ventilation, Utilités","[ 0.7107623  -0.2558771  -0.12793897 ...  0.7924494  -0.15152638
+ -0.7026055 ]"
+85,"Remplacement des courroies trapézoïdales par des courroies plates, Ventilateur, Ventilation, Utilités","[ 0.7411938  -0.4761642  -0.6523713  ...  0.53342426  0.12797233
+ -0.82716435]"
+86,"Fractionnement de l'installation de ventilation générale en plusieurs unités, Gestion et pilotage, Ventilation, Utilités","[ 1.6833754  -0.85748804  0.3213231  ...  0.23059128 -1.6786897
+  0.37461612]"
+87,"Isolation des gaines lorsque l'air est chaud, Réseau, Ventilation, Utilités","[ 1.6161833  -1.3548677   0.29618797 ...  0.91614676 -3.1772373
+  0.5412402 ]"
+88,"Mesure des valeurs clés de l'installation pour repérer rapidement les anomalies, Gestion et pilotage, Ventilation, Utilités","[ 1.6319348  -0.45715564 -0.24537374 ...  0.81336683  0.16647807
+ -0.48550636]"
+89,"Nettoyage et dépoussiérage des conduites et remplacement régulierer des filtres, Maintenance, Ventilation, Utilités","[ 1.5999597  -0.93431324  0.7207004  ...  1.3643445  -0.5246037
+ -1.0169173 ]"
+90,"Diminution des fuites sur le réseau aéraulique en resserrant les joints, Maintenance, Ventilation, Utilités","[ 1.6850281  -0.12694846  0.17936923 ...  0.14280227 -0.51988655
+  0.40406582]"
+91,"Equilibrage du réseau aéraulique, Réseau, Ventilation, Utilités","[ 1.9669412  -1.7254996   0.71294034 ...  0.04152946 -1.6190661
+  0.2817904 ]"
+92,"Remplacement des ventilateurs surdimensionnés par des moteurs haute efficacité (IE3 par exemple), Ventilateur, Ventilation, Utilités","[ 1.765732    0.628502    0.30368957 ...  0.7977051  -0.7791424
+ -0.3308217 ]"
+93,"Vérification et diminution des débits d'air si possible, Ajustement production/besoin, Ventilation, Utilités","[ 1.3158622  -1.3755275  -0.07903855 ... -0.5706817  -0.41687995
+  0.57374233]"
+94,"Epurateur pour réduire le taux d'air neuf en hiver, Ajustement production/besoin, Ventilation, Utilités","[ 1.5043229  -1.5227859   0.28744787 ...  0.40548643 -0.02271529
+  0.4901669 ]"
+95,"Récupérateur de chaleur air neuf/air extrait, Récupération de chaleur, Ventilation, Utilités",[ 3.5403376 -1.152184   2.0467994 ...  1.5945753 -1.0465119  0.6003758]
+97,"Amélioration de l'isolation des bâtiments, Isolation, Enveloppe, Bâtiment","[-1.3609703   0.3421635   0.5194354  ... -0.11037965  0.52233404
+  0.862874  ]"
+99,"Réduction des infiltrations d'air, Etanchéité et infiltrations, Enveloppe, Bâtiment","[ 1.2131777  -0.35296422  1.113463   ... -0.9037813  -0.6399384
+  0.21638422]"
+100,"Optimisation de la fermeture automatique des portes logistiques, Etanchéité et infiltrations, Enveloppe, Bâtiment","[ 1.6522042   0.69027746  0.5502047  ... -1.1687062  -0.56177706
+ -1.1220299 ]"
+102,"Réduction des apports de chaleur dans les espaces climatisés, Climatisation, CVC, Bâtiment","[-0.16512562 -1.0856249   0.6865586  ... -0.24247035 -1.3521429
+ -1.0508592 ]"
+103,"Ne pas chauffer et climatiser en même temps, Climatisation, CVC, Bâtiment","[ 0.50188875 -1.3457519  -0.34615356 ...  0.06843267 -2.0560715
+ -0.34994707]"
+104,"Pompe à chaleur haute température pour valoriser la vapeur basse pression, Récupération de chaleur, Vapeur, Utilités","[ 4.1575475  -1.6396033   1.8626732  ...  0.7887955  -0.52025044
+ -0.44646335]"
+105,"Système de chauffage radiant (zones occupées) couplé à une réduction des températures (zones non occupées), Chauffage, CVC, Bâtiment","[ 1.0977365  -0.5934989  -0.6440009  ... -0.04604706 -2.0239923
+ -0.04376641]"
+108,"Diminution des températures de consignes de chauffage, Chauffage, CVC, Bâtiment","[-0.53405744 -0.92494845  0.05215168 ... -0.10216556 -2.2337925
+ -0.17595944]"
+109,"Maintenance régulière des systèmes de climatisation, Climatisation, CVC, Bâtiment","[ 1.3293663  -1.0050629  -0.56299245 ... -0.4342434  -1.6998311
+ -0.7567428 ]"
+110,"Free-cooling pour les espaces réfrigérés, Climatisation, CVC, Bâtiment","[ 0.18405521 -2.480215   -0.24062754 ... -0.4046723  -2.2121131
+ -0.30928585]"
+111,"Free-chilling par un court d'eau à proximité., Condenseur, Froid, Utilités","[ 2.1175833  -2.5226953  -1.4750615  ...  0.35857463 -2.4458039
+  0.6747774 ]"
+113,"Compensation de l'énergie réactive, Condensateur, Distribution électrique, Utilités","[ 1.0010077  -1.4161923  -0.11644616 ...  0.25307566 -1.6652141
+  0.97349435]"
+114,"Filtres anti-harmoniques proche des sources très polluantes, Filtre, Distribution électrique, Utilités","[ 0.97226244 -0.30650237  0.24199852 ...  0.9821072  -0.48655832
+  0.5505962 ]"
+115,"Circuits séparés pour les systèmes générateurs d'harmoniques et pour les circuits sensibles aux harmoniques, Réseau, Distribution électrique, Utilités","[ 1.8281299  -0.76164407 -1.112651   ... -0.00769094 -0.5341837
+  0.27431223]"
+116,"Diamètre double pour les fils neutres près des charges génératrices d'harmoniques, Réseau, Distribution électrique, Utilités","[ 1.4118352  -0.95274377 -0.52139384 ...  1.736665   -1.2813252
+ -0.22015034]"
+117,"Séparation des circuits alimentant les gros moteurs pour éviter que les autres appareils subissent les chutes de tensions crées lors de leur démarrage, Réseau, Distribution électrique, Utilités","[ 1.8280671  -0.8828636  -0.1608997  ...  0.71778935 -1.0783844
+ -0.32472086]"
+118,"Dimensionnement des câbles correct et vérifié, Gestion et pilotage, Distribution électrique, Utilités","[ 1.7291006  -0.23512807 -0.744829   ...  1.2872754  -0.9922987
+ -0.73903656]"
+120,"Transformateur haut rendement, Transformateur, Distribution électrique, Utilités","[ 3.8057857   0.8826968  -1.404691   ...  0.57563245 -0.36246178
+ -1.2346165 ]"
+121,"Dimensionnement des transformateurs en adéquation avec l'utilisation, Transformateur, Distribution électrique, Utilités","[ 1.9814948   0.18119726 -0.30248776 ...  0.68357563 -0.9867143
+  0.21029906]"
+122,"Remplacement de TGBT vétuste, Transformateur, Distribution électrique, Utilités","[ 1.8731809   0.85371155  0.07769913 ...  2.025355   -1.4830518
+ -0.21200691]"
+123,"Eléments du TGBT faiblement consommateur pour éviter une climatisation du local, Armoire électrique, Distribution électrique, Utilités","[ 1.2014667  -1.184231   -0.66539735 ...  1.81507    -2.1926074
+ -0.77018213]"
+124,"Renouvellement d'air du local du transformateur pour son refroidissement, Transformateur, Distribution électrique, Utilités","[ 2.1758835   0.6459042  -0.41156366 ...  0.26490656 -1.5309279
+ -0.2840433 ]"
+125,"Transformateurs à refroidissement par convection naturelle, Transformateur, Distribution électrique, Utilités","[ 3.195536    0.38172993 -1.0427005  ...  0.32455385 -2.1154428
+ -0.58271223]"
+126,"Placement des équipements pour lesquels la demande en courant est élevée, aussi près que possible de la source d'alimentation, Ajustement production/besoin, Distribution électrique, Utilités","[ 2.2258642  -0.488593   -0.26410875 ... -0.23154509  0.06696335
+  0.62426317]"
+127,"Nettoyage des traversées et les connexions pour limiter les risques de corrosion ou de rouille, Maintenance, Distribution électrique, Utilités","[ 2.1494825   0.04368145  0.07989443 ... -0.41884357 -0.1221322
+ -0.54595184]"
+128,"Détection des points chauds des câbles et des armoires, Armoire électrique, Distribution électrique, Utilités","[ 1.6550069  -0.8071177  -0.46061283 ...  1.9338386  -2.0504844
+ -1.4105364 ]"
+129,"Nouveaux onduleur en remplacement des anciens onduleurs, Onduleur, Distribution électrique, Utilités","[ 1.5427704   0.14573804 -0.05185311 ...  1.2196146  -0.07676018
+ -0.1844353 ]"
+130,"Vérification l'équilibrage des phases, Gestion et pilotage, Distribution électrique, Utilités","[ 1.2202171  -0.77095807 -0.8218317  ... -0.5408925  -0.8479355
+ -0.43242484]"
+131,"Vérification du branchement des systèmes monophasés et triphasés. Le monophasé ne doit pas être branché sur du triphasé, Maintenance, Distribution électrique, Utilités","[ 1.3826137   0.24797547 -1.0326023  ...  1.3156576  -0.23089449
+ -0.59791696]"
+132,"Maintenance annuelle des équipement électrique et du transformateur, Maintenance, Distribution électrique, Utilités","[ 1.9411377   0.41080454 -0.81606555 ...  0.79063344 -1.9195266
+  0.5632529 ]"
+133,"Jeux de barres serrés., Armoire électrique, Distribution électrique, Utilités","[ 1.3582438  -0.51637495 -1.3129749  ...  1.6644766  -1.1554568
+ -0.07517175]"
+134,"Détection des surcharges, Ajustement production/besoin, Distribution électrique, Utilités","[ 2.377255   -1.0959187  -0.7192114  ...  0.12702468  0.33912224
+  0.66333175]"
+135,"Maintenance du transformateur, Transformateur, Distribution électrique, Utilités","[ 2.815577    0.8254403  -1.4499341  ...  1.380298   -1.9289731
+ -0.26908836]"
+136,"Arrêt des équipements quand ils ne sont pas nécessaires, Régulation, Distribution électrique, Utilités","[ 0.62967354 -0.94793653 -0.99336684 ... -0.71706045 -1.6612266
+ -0.80215156]"
+137,"Mainten en ligne les transformateurs fonctionnant à une charge de plus de 40 à 50 % de la puissance nominale, Transformateur, Distribution électrique, Utilités","[ 3.15505     0.14092396 -1.6527237  ...  0.25265107 -0.5424577
+  0.34701383]"
+138,"Diminution de la tension de court circuit du transformateur, Transformateur, Distribution électrique, Utilités","[ 1.042404    0.03006395 -0.6879756  ...  0.40561235 -0.26131994
+  0.4112586 ]"
+139,"Amélioration du facteur de puissance, Gestion et pilotage, Distribution électrique, Utilités","[ 0.93414086 -0.35983303 -0.49350992 ...  0.67306405 -0.39996517
+ -1.0172524 ]"
+140,"Décalage des appels de puissance, Ajustement production/besoin, Distribution électrique, Utilités","[ 0.34979427 -1.5463555  -1.0071651  ...  0.22436947  0.25406066
+  0.19262771]"
+141,"Effacement des creux de tension, Onduleur, Distribution électrique, Utilités","[ 1.0720257  -0.7459248  -0.3110981  ...  0.15513927 -1.2936686
+  0.920322  ]"
+142,"Stockage permettant de décaler la consommation, Stockage, Distribution électrique, Utilités",[ 2.334068  -0.3735147 -1.3080738 ...  0.6572091 -1.198053  -0.6705436]
+143,"Surpresseur et réseau d'air multi pressions pour répondre aux besoins localisés, Réseau, Air comprimé, Utilités","[ 2.9328537  -1.289087    0.33173206 ...  0.3191976  -0.75384647
+  0.14884713]"
+144,"Vannes d’isolement pour couper l’arrivée d’air comprimé des ateliers non utilisés, Réseau, Air comprimé, Utilités","[ 2.8940027  -1.0814989  -0.12025154 ...  0.6615563  -0.98308057
+  0.1463041 ]"
+145,"Production d'air décentralisée, Gestion et pilotage, Air comprimé, Utilités","[ 3.217274   -1.1720314  -0.78391063 ...  0.63058925 -1.237982
+ -1.2494402 ]"
+146,"Démarrage des compresseurs en fonction du besoin, Régulation, Air comprimé, Utilités","[ 2.7651343  -1.2447159  -1.186037   ... -0.15408939 -0.90281206
+ -0.18142854]"
+147,"Amélioration du refroidissement, du séchage et de la filtration, Traitement de l'air, Air comprimé, Utilités","[ 2.208083   -0.41505045 -0.08606795 ...  0.24257244 -1.0398645
+ -0.8597464 ]"
+148,"Optimisation de la régulation, Régulation, Air comprimé, Utilités","[ 1.5734429  -1.4835185   0.31767142 ... -0.6821576  -0.51730055
+ -1.1687279 ]"
+149,"Système de régulation élaboré, Régulation, Air comprimé, Utilités","[ 2.0606253  -2.3369377  -0.43520513 ... -0.6244832  -1.1144149
+ -0.4292441 ]"
+150,"Stockage de l'air comprimé à proximité des utilisations à forte fluctuation, Stockage, Air comprimé, Utilités","[ 2.6901615  -0.62994695 -0.6074501  ... -0.04118088 -1.2069432
+  0.79713327]"
+151,"Augmentation de la taille des cuves de stockage, Stockage, Air comprimé, Utilités","[ 4.5549917  -0.35169184 -0.32316256 ...  0.6799676  -0.8388359
+ -0.32782286]"
+152,"Arrêt des compresseurs quand il n'y a pas de demande d'air, Gestion et pilotage, Air comprimé, Utilités","[ 3.2794626  -1.037063    0.30591077 ...  0.3766765  -1.4321902
+ -1.021383  ]"
+153,"Petit compresseur pour la nuit et les week end, Ajustement production/besoin, Air comprimé, Utilités","[ 2.7407734  -1.4839587  -0.29853854 ...  0.5892139  -0.20897341
+ -0.27465898]"
+154,"Modernisation du compresseur, Compresseur, Air comprimé, Utilités","[ 2.591201   -0.20489812 -0.59207755 ...  0.15639094 -1.0953082
+ -0.7441833 ]"
+155,"Purgeurs automatiques en remplacement de purgeurs manuels, Régulation, Air comprimé, Utilités","[ 3.236139   -1.0502048   0.46771756 ...  0.3401754  -0.06931939
+ -0.72420186]"
+156,"Remplacement des outils pneumatiques par des outils électriques lorsque c'est possible, Soufflette, Air comprimé, Utilités","[ 2.5781453   1.349863    0.02142946 ...  1.1310066  -0.8707884
+ -0.82033855]"
+157,"Suppression des soufflettes, Soufflette, Air comprimé, Utilités","[ 2.089416   -0.27677333 -0.45835233 ...  1.0134585  -1.6882342
+ -1.188441  ]"
+158,"Optimisation de la pression des soufflettes, Soufflette, Air comprimé, Utilités","[ 2.0471973  -0.30632544  0.23489738 ...  0.94823915 -1.074353
+ -1.1547015 ]"
+159,"Soufflantes en remplacement de couteaux d'air, Soufflette, Air comprimé, Utilités","[ 2.2260652  -0.31632087 -0.0629238  ... -0.12391596 -1.1558486
+ -0.9303009 ]"
+160,"Campagne de détection des fuites sur un réseau d’air comprimé, Réseau, Air comprimé, Utilités","[ 4.2968435  -1.783257    0.13182952 ...  0.65505797 -0.8476892
+ -0.62846607]"
+161,"Maintenance préventive, Maintenance, Air comprimé, Utilités","[ 2.5437453   0.64903784 -0.06961153 ... -0.0308688  -1.2400376
+  0.14698763]"
+162,"Nettoyage et remplacement plus fréquents des filtres, Filtre, Air comprimé, Utilités","[ 1.7865493   0.76109177  2.0026798  ...  1.1687471  -0.5275837
+ -0.59586674]"
+163,"Réduction des pertes de charge, Réseau, Air comprimé, Utilités","[ 3.520918   -0.80491734  0.41264796 ... -0.01118638 -1.5319754
+  0.36130354]"
+164,"Vérification des purges de condensats, Purgeurs et condensats, Air comprimé, Utilités","[ 3.2437403  -1.7785659   0.47631934 ... -0.0586974  -1.1355741
+  0.50281256]"
+165,"Purgeurs de condensats sans pertes d'air, Purgeurs et condensats, Air comprimé, Utilités","[ 4.4218726  -2.3632205   1.3845867  ... -0.23677348 -1.1407269
+  0.6895474 ]"
+167,"Participation du personnel dans la recherche de fuite, Maintenance, Air comprimé, Utilités","[ 3.4720936  -0.50406116 -0.5113517  ... -0.13880537 -1.210843
+ -0.06560032]"
+168,"Filtres à faible perte de charge, Filtre, Air comprimé, Utilités","[ 1.6056738  -0.6247967   1.8741902  ...  0.3278871  -1.4460447
+  0.22523269]"
+169,"Placement des filtres en parallèle lors de l'augmentation de la capacité de filtrage, Filtre, Air comprimé, Utilités","[ 0.9607405   0.6627498   1.752206   ...  0.93927073 -1.0388955
+ -0.2646815 ]"
+170,"Diminution de la pression le week end, Régulation, Air comprimé, Utilités","[ 1.7926315  -1.3192177   0.00606409 ... -0.54926383 -0.87264603
+ -0.1273371 ]"
+171,"Aspiration des compresseurs là où l'air est le plus frais, Compresseur, Air comprimé, Utilités","[ 1.7871083  -0.4525912  -0.30024156 ... -0.34491727 -1.0419228
+ -0.73047775]"
+172,"Filtration et séchage au minimum requis, Traitement de l'air, Air comprimé, Utilités","[ 2.8277502  -1.2276475  -0.4878427  ...  0.3702689  -1.3039622
+ -0.65981495]"
+174,"Ajustement du degré de séchage en fonction de la température extérieure, Traitement de l'air, Air comprimé, Utilités","[ 1.2333266  -0.14543468  0.7387957  ...  0.36411652 -1.0319587
+ -0.84174377]"
+176,"Récupération de la chaleur des compresseurs pour production d'eau chaude, Récupération de chaleur, Air comprimé, Utilités","[ 4.7705274  -1.8455484   0.6997852  ...  0.68518686 -1.1848079
+ -0.6110549 ]"
+178,"Récupération d'énergie sur compresseur pour regénérer le sécheur à absorption, Récupération de chaleur, Air comprimé, Utilités","[ 4.123821   -0.741937    1.5217925  ...  0.30406812 -0.15756619
+ -1.2680719 ]"
+179,"Optimisation du dimensionnement des tuyauteries, Réseau, Vapeur, Utilités","[ 2.831966   -0.30753064  0.6483824  ...  0.83727634 -1.1439549
+ -0.68640655]"
+180,"Diminution des longueurs de tuyauterie, Réseau, Vapeur, Utilités","[ 1.3245189  -0.17457323 -0.3833084  ...  0.53470707 -1.1707178
+ -0.48280305]"
+181,"Utilisation de turbines à contre pression à la place des soupapes de réduction de pression, Vanne, Vapeur, Utilités","[ 2.5603747   0.4780393  -0.51743114 ...  0.77261716 -1.0033873
+ -0.36459854]"
+182,"Isolation des canalisations vapeur non isolées, Réseau, Vapeur, Utilités","[ 2.321515   -1.1578606   0.4935051  ...  1.4504503  -2.4071035
+  0.12541844]"
+183,"Isolation des canalisations vapeur non utilisées, Réseau, Vapeur, Utilités","[ 2.8650866  -1.2194976   0.64782137 ...  1.5494766  -1.8524895
+  0.5545034 ]"
+184,"Utilisation de vapeur au minimum nécessaire, Gestion et pilotage, Vapeur, Utilités","[ 2.208148   -0.7113562  -0.06620111 ...  1.1378394  -0.21612237
+ -0.53025347]"
+185,"Compteurs pour les débits de vapeur et les débits de condensats, Gestion et pilotage, Vapeur, Utilités","[ 3.7622406  -1.4675614   0.1803552  ...  0.10453897 -0.8003903
+ -0.10120879]"
+186,"Dépressurisation du condensat, Condensat, Vapeur, Utilités","[ 2.9975362  -1.9004064   1.1286144  ...  0.06315085 -1.4962394
+  0.24442752]"
+187,"Arrêt des chaudières vapeur lorsqu'elles ne sont pas nécessaires, Régulation, Chaudière, Utilités","[ 2.7079313  -2.0400844  -0.5764025  ... -0.09781276 -1.8388824
+ -0.6670797 ]"
+188,"Installation d'un registre d'isolement des gaz de combustion ( coupe-tirage ) des chaudières vapeur, Fumées, Chaudière, Utilités","[ 2.9508853   0.16710638  0.09141538 ...  1.3486916  -1.1179767
+  0.17429592]"
+189,"Minimisation des pertes dues aux cycles courts des chaudières vapeur, Régulation, Chaudière, Utilités","[ 2.7381153  -1.1797779   0.15867205 ...  0.1528481  -1.2032437
+ -0.8359151 ]"
+191,"Programme d'inspection et de réparation des purgeurs, Purgeur, Vapeur, Utilités","[ 2.294276   -0.72708684  0.54218614 ...  0.8103391  -0.9103287
+  0.01166669]"
+192,"Remplacement des purgeurs défaillants bloqués en position ouverte ou fermé, Purgeur, Vapeur, Utilités","[ 1.660843   -0.14508294  0.8777904  ...  0.39097238 -0.80295205
+  0.451928  ]"
+193,"Vérification de la dimension des purgeurs et remplacement si nécessaire, Purgeur, Vapeur, Utilités","[ 2.1464343  -1.1761519   0.5610896  ...  0.10287077 -0.4850881
+ -0.588712  ]"
+194,"Vérification de l'état et le dimensionnement de l'isolation et remplacer celle-ci quand nécessaire, Réseau, Vapeur, Utilités","[ 1.2334398   0.71711034 -0.14902113 ...  0.06580357 -0.71184474
+  0.03596681]"
+196,"Elimination des fuites de vapeur, Réseau, Vapeur, Utilités","[ 3.4076695  -0.81054735  0.91606903 ...  1.2333547  -0.3803171
+ -1.0126771 ]"
+197,"Réduction des fuites de condensats, Condensat, Vapeur, Utilités","[ 3.6541054  -1.4834412   0.7238392  ... -0.27806026 -1.083182
+ -0.02903301]"
+198,"Analyse de l'état du réseau vapeur et du réseau des condensats, Réseau, Vapeur, Utilités","[ 4.424456   -1.7248024   0.24993306 ...  1.1891923  -1.3440107
+  0.5866062 ]"
+199,"Analyse thermographique du réseau et de la chaudière, Condensat, Vapeur, Utilités","[ 2.5784626  -1.8711448   0.2712446  ...  1.1654882  -1.4297562
+ -0.10769306]"
+200,"Prévention et élimination des dépôts de tartre sur les surfaces de transfert de chaleur, Echangeur thermique, Vapeur, Utilités","[ 4.2064066  -0.7588111   1.353115   ...  0.06994006  0.01043215
+ -0.6512408 ]"
+201,"Ajout ou réparation des réfractaires d'une chaudière vapeur, Maintenance, Chaudière, Utilités","[ 2.8046162   0.32557252  0.48071843 ...  0.10703801 -1.2422985
+  1.213931  ]"
+202,"Vapeur sèche pour le procédé, Gestion et pilotage, Vapeur, Utilités","[ 2.3379867  -0.4646895   0.19417453 ... -0.11025959  0.10741614
+ -0.64962345]"
+203,"Diminution du débit vapeur quand cela est possible, Gestion et pilotage, Vapeur, Utilités","[ 2.3702416  -0.82794964  0.61279917 ... -0.18169212 -0.9027705
+ -1.0007997 ]"
+204,"Réduction de la pression quand cela est possible, Régulation, Vapeur, Utilités",[ 1.0745221 -0.9652628  0.0256761 ... -1.0375732 -1.008843  -0.8473371]
+205,"Amélioration des procédures et des contrôles des chaudières vapeur, Maintenance, Chaudière, Utilités","[ 2.2889917  -0.3457871  -0.838157   ...  0.51831347 -0.72348696
+  0.5226093 ]"
+206,"Chaudière à eau chaude en remplacement d'une chaudière vapeur, Chaudière, Chaudière, Utilités","[ 4.207229   -0.92261714  0.87421817 ...  1.0157604  -3.4902308
+  0.5466295 ]"
+207,"Contrôle séquentiel des chaudières vapeur, Régulation, Chaudière, Utilités","[ 3.608707   -1.1783075  -0.36809444 ...  0.6781818  -1.13818
+  0.4467817 ]"
+208,"Minimisation des purges de la chaudière en améliorant le traitement de l'eau, Traitement de l'eau, Chaudière, Utilités","[ 3.0162375  -0.49827912  0.47106233 ...  0.10787787 -1.9463856
+ -0.33645535]"
+209,"Optimisation du taux de mise à l'air libre du desaérateur, Désaérateur, Vapeur, Utilités",[ 2.6669827 -1.3055965  0.7508423 ...  0.4794446 -0.4683322 -1.3920593]
+210,"Augmentation du rendement de l'économiseur, Récupération de chaleur, Ventilation, Utilités","[ 3.0139604  -0.757717    1.8389635  ...  1.4291596   0.05821196
+ -0.47375208]"
+211,"Récupération du condensat, Condensat, Vapeur, Utilités","[ 3.9734516  -2.3102977   1.42993    ... -0.15835394 -1.0261421
+  0.28687733]"
+212,"Récupération de la chaleur du condensat, Récupération de chaleur, Vapeur, Utilités","[ 4.5404897  -1.9995872   2.5163624  ...  0.26665962 -0.31192592
+ -0.44987708]"
+213,"Préchauffage de l'eau d'alimentation par utilisation de la chaleur procédé, Récupération de chaleur, Vapeur, Utilités","[ 4.928499   -2.4086914   0.69737655 ...  0.20686176 -1.1615658
+  0.3349151 ]"
+214,"Economiseur sur les effluents gazeux de chaudière de production de vapeur, Récupération de chaleur, Chaudière, Utilités","[ 4.2996197  -1.3866692   1.3058662  ...  1.6730952  -0.8320297
+ -0.44928208]"
+215,"Préchauffage de l'eau : utiliser l'eau d'alimentation désaérée pour chauffer le condensat retournant à la chaudière, Récupération de chaleur, Vapeur, Utilités","[ 5.093556   -2.3956928   1.1485517  ... -0.3659185  -2.5675733
+  0.38080263]"
+216,"Préchauffage de l'eau d'alimentation en condensant la vapeur utilisée pour la revaporisation et en chauffant l'eau alimentant le desaérateur au moyen d'un échangeur, Récupération de chaleur, Vapeur, Utilités","[ 4.515766   -1.6467704   1.5666685  ... -0.6219142  -1.8247377
+  0.11708675]"
+217,"Réemploi de la vapeur de détente, Récupération de chaleur, Vapeur, Utilités","[ 3.913604   -1.1326363   1.2238883  ...  0.45147207 -0.9801271
+  0.20760615]"
+218,"Récupération de l'énergie provenant des purges de vapeur, Récupération de chaleur, Vapeur, Utilités","[ 4.1948657  -1.1006747   1.601933   ...  0.8093159   0.26998392
+  0.18040885]"
+219,"Turbine de détente pour récupérer le contenu énergétique de gaz sous pression, Réseau, Vapeur, Utilités","[ 4.0569944  -0.09162208  0.7243266  ...  0.93448794 -0.9463127
+ -0.20670292]"
+221,"Adaptation de l'éclairage artificiel au besoin réel de chaque zone, Gestion et pilotage, Eclairage, Bâtiment","[ 0.76340604 -0.93055075 -0.4382163  ... -0.0178645  -0.63228977
+ -0.7967288 ]"
+222,"Gradation de l'éclairage en fonction de la luminosité ambiante par des ballasts électroniques de catégorie A1, Régulation, Eclairage, Bâtiment","[-0.17604724 -0.3491818  -0.3714859  ...  0.00534525 -1.8726429
+ -0.4208529 ]"
+223,"Remplacement des lampes incandescentes par des fluo-compactes (basse consommations), Luminaire, Eclairage, Bâtiment","[ 1.0526822  -0.9861568   0.57567763 ...  0.8603679  -1.1250665
+  0.37577498]"
+225,"Adaptateur T5 sur luminaire T8 existant, Luminaire, Eclairage, Bâtiment","[ 1.660877   -0.45402646 -1.1361246  ...  0.28383222 -1.2066995
+ -1.0185509 ]"
+226,"Tubes à LED pour l'éclairage intérieur en remplacement de tubes T8, Luminaire, Eclairage, Bâtiment","[ 1.533059   -0.96093297 -0.34412664 ... -0.57583976 -1.9505292
+  0.2144665 ]"
+227,"Tube fluorescent T5 à douilles G13 pouvant être installés directement sur des luminaires T8, Luminaire, Eclairage, Bâtiment","[ 1.440515    0.16297293 -0.6384914  ...  0.98010164 -1.2923379
+ -0.05830772]"
+228,"Gradation de l'éclairage en fonction de la luminosité ambiante par des régulateurs sur lampes à décharge, Régulation, Eclairage, Bâtiment","[ 0.7577978  -0.1439019  -0.35546944 ... -0.13178161 -1.3910182
+ -0.00760531]"
+229,"Interrupteur crépusculaire, Gestion et pilotage, Eclairage, Bâtiment","[-0.24761963 -0.28373635 -1.005752   ...  0.670968   -0.9044824
+ -0.3185559 ]"
+230,"Horloge astronomique, Régulation, Eclairage, Bâtiment","[ 1.3129547  -2.1487556  -0.23462018 ... -0.9011915  -0.3046838
+ -1.1551815 ]"
+231,"Système de télésurveillance et de télégestion, Régulation, Eclairage, Bâtiment","[ 1.7618245  -2.056292   -0.7554753  ... -0.3404987  -0.9529933
+ -0.16398498]"
+232,"Nettoyage périodique des luminaires, Maintenance, Eclairage, Bâtiment","[ 1.444562   -1.3128179  -0.14579745 ... -0.11199156 -0.39084056
+ -0.01632413]"
+233,"Suppression des lampes inutiles dès que possible, Maintenance, Eclairage, Bâtiment","[ 0.95128554 -1.0913785  -1.0706307  ... -0.03573604 -1.3706458
+  0.6563075 ]"
+234,"Débranchement des ballast électroniques inutilisés, Maintenance, Eclairage, Bâtiment","[ 0.17205147 -0.3629902  -0.31340808 ...  0.4864655  -0.78461266
+  0.44132385]"
+235,"Réduction de l'éclairage général et renforcement de l'éclairage local des postes de travail, Régulation, Eclairage, Bâtiment","[ 1.4897021  -1.1914093  -0.8448334  ... -0.53324205 -1.3281257
+  0.27161932]"
+236,"Eclairage naturel : puits de jour, lanterneaux d'éclairage zénithal, Eclairage naturel, Eclairage, Bâtiment","[ 3.0074487  -0.7227925   0.34313467 ... -0.8969318  -1.4344845
+  0.82851887]"
+239,"Consignes au personnel pour l'extinction des lumières des pièces non occupées ou des couloirs, Gestion et pilotage, Eclairage, Bâtiment","[ 0.3703345  -0.83344835 -0.9614644  ... -0.06682941 -1.4319905
+ -0.42716512]"
+240,"Cogénération : autoproduction de son électricité ou revente au réseau, Cogénération grande taille, Cogénération","[ 2.4272     -0.33311602  0.8867784  ...  0.28355697 -1.0690615
+ -0.05080805]"
+241,"Révision du contrat électrique et adaptation de la puissance souscrite, Contrat, Gestion des énergies, Management (ISO 50 001)","[ 0.07243984 -0.30458996  0.9523238  ...  0.18669961 -1.7137411
+ -0.32554725]"
+242,"Optimisation du contrat d'électricité règlementé, Contrat, Gestion des énergies, Management (ISO 50 001)","[ 0.39219067 -0.55261856  1.677383   ...  0.11540956 -1.057373
+ -0.93559015]"
+243,"Démarreur sur les moteurs électriques, Régulation, Moteur, Utilités","[ 2.4239895  -0.85828143 -0.99933577 ...  0.6637625   0.48193574
+ -0.18008628]"
+245,"Mesure, comptage et sous comptage d'énergie des unités consommatrices, Indicateurs et tableau de bord, Mesure et comptage d’énergie, Management (ISO 50 001)","[ 0.34380642 -0.67544824  0.8209117  ...  0.49901143 -0.2926204
+  0.0453016 ]"
+246,"Récupération de la chaleur perdue des gaz de combustion, Récupération de chaleur, Chaudière, Utilités","[ 4.165741   -0.8698996   2.214741   ...  1.3868957  -0.4691099
+ -0.32962075]"
+248,"Système de contrôle des durées d'allumage des brûleurs, Brûleur, Chaudière, Utilités","[ 1.8900696   0.01610804 -0.02027579 ...  0.5374808  -1.4484295
+ -0.37252447]"
+249,"Moteur à haut rendement label IE2 (EFF1), Moteur, Moteur, Utilités","[ 1.5960824   0.6654332   0.23689418 ...  0.7740921   0.91926086
+ -1.0837017 ]"
+250,"Isolation des combles ou de toiture, Isolation, Enveloppe, Bâtiment",[-0.9608766 -0.5620047 -0.722543  ... -1.1404023 -1.7129924  2.0266638]
+251,"Isolation des murs par l'intérieur, Isolation, Enveloppe, Bâtiment","[-1.4396113  -0.11850023  1.1230174  ...  0.0888117  -1.2324396
+  1.9037015 ]"
+252,"Isolation d'un plancher, Isolation, Enveloppe, Bâtiment","[-0.89823    -0.20308924  0.22525999 ... -0.27061364 -1.4367918
+  2.759729  ]"
+253,"Fenêtres à double vitrage avec isolation renforcée à l'argon, Isolation, Enveloppe, Bâtiment","[-0.2659795   0.50254077  1.48074    ... -0.60678154  0.21961178
+  0.5536352 ]"
+254,"Isolation des murs par l'extérieur, Isolation, Enveloppe, Bâtiment","[-1.3719412   0.14138347  0.97231036 ...  0.01090911 -1.0214902
+  1.441774  ]"
+255,"Isolation des toitures terrasses et couvertures de faible pente, Isolation, Enveloppe, Bâtiment","[-0.32517076  0.42532626 -0.6689567  ... -1.4469287  -0.5658904
+  0.8378933 ]"
+256,"Sensibilisation du personnel sur le coût élevé du chauffage, Chauffage, CVC, Bâtiment","[ 1.0887039  -0.42407328  1.0201266  ...  0.9605713  -1.3680121
+ -1.1847693 ]"
+257,"Sensibilisation du personnel sur le coût élevé de la production de vapeur, Gestion et pilotage, Vapeur, Utilités","[ 2.5928326   0.03622638  1.2517545  ...  0.8458642  -0.23345913
+ -0.77137136]"
+258,"Sensibilisation du personnel sur le coût élevé de la production de l'air comprimé, Gestion et pilotage, Air comprimé, Utilités","[ 2.9581003  -0.4030225   1.018361   ...  0.47063056 -0.7155017
+ -0.55764323]"
+259,"Sensibilisation du personnel sur le coût élevé de la production de froid, Gestion et pilotage, Froid, Utilités","[ 2.1724877  -0.31386507  0.27265173 ...  0.53286767 -0.47435647
+ -0.5300271 ]"
+260,"Sensibilisation du personnel sur le coût élevé du chauffage et de la climatisation, Climatisation, CVC, Bâtiment","[ 0.76073444 -0.8826908   1.1424549  ...  0.12544581 -0.9008984
+ -1.0570632 ]"
+261,"Programme de maintenance pour les portes et les fenêtres, Vitrage, Enveloppe, Bâtiment","[ 0.8239807   1.4009264   1.1092844  ...  0.19109595 -0.81232196
+ -0.8868826 ]"
+262,"Vérification de la présence de traces d'humidité, Etanchéité et infiltrations, Enveloppe, Bâtiment","[ 1.2373109  -0.8636825   0.12614664 ... -1.034107    0.19859862
+ -0.27682433]"
+263,"Identification des conduits ou cheminées inutiles, Etanchéité et infiltrations, Enveloppe, Bâtiment","[ 0.9726496  -0.5955332   0.38050792 ...  0.47921792 -0.8642066
+ -0.9863031 ]"
+264,"Arrêt des ventilateurs de rafraîchissement en hiver, Ventilation, CVC, Bâtiment","[ 1.08188    -0.6654891  -0.25382763 ...  0.5853876  -2.0951252
+  0.35653523]"
+265,"Asservissement du chauffage à l'ouverture des portes et fenêtres, Chauffage, CVC, Bâtiment",[ 1.3642008  0.6795845  0.5605024 ...  0.2215163 -2.7669218 -1.2117361]
+266,"Séparation des parties chauffées et non chauffées du bâtiment, Chauffage, CVC, Bâtiment","[ 1.3744075   0.5809941   0.58801776 ...  1.1643673  -2.7123218
+ -0.6688314 ]"
+267,"Réduction de l'air entrant au niveau des quais d'expéditions, Etanchéité et infiltrations, Enveloppe, Bâtiment","[ 0.8211049   0.72285944 -0.00785157 ... -1.2802289  -1.0181619
+ -0.55208135]"
+268,"Chauffage efficace des locaux de grande hauteur, Chauffage, CVC, Bâtiment","[ 9.0927029e-01  2.2042421e-01  4.9291241e-01 ...  9.2779263e-04
+ -1.7069765e+00 -8.9398587e-01]"
+269,"Isolation des parois verticales entre les ateliers, Isolation, Enveloppe, Bâtiment","[-0.6326597  -0.30328208  0.83661354 ... -0.3339843   0.04009128
+  1.4433421 ]"
+270,"Protections solaires pour l'été, Vitrage, Enveloppe, Bâtiment","[ 2.9628944  -0.7523435   2.4695747  ... -0.94724375 -0.08146007
+ -0.23713613]"
+271,"Faux plafonds pour limiter le volume chauffé, Chauffage, CVC, Bâtiment","[ 0.15709375 -1.0002334  -0.23177478 ... -0.12540275 -2.1599464
+ -0.7714709 ]"
+272,"Vérification de la présence de fuites d'eau, Maintenance, Chaudière, Utilités","[ 2.5621657  -1.0908293  -1.0513414  ... -0.68453085 -0.5803431
+  0.34649912]"
+273,"Contrôle régulier des chaudières vapeur, Maintenance, Chaudière, Utilités","[ 3.401029   -0.85108846 -0.5853074  ...  0.5062372  -1.1343788
+  0.8282433 ]"
+274,"Chaudière de type basse température, Chaudière, Chaudière, Utilités","[ 3.7515693  -1.258927    0.33194068 ...  1.3852303  -2.7348251
+  0.5100587 ]"
+275,"Sensibilisation du personnel de production pour signaler immédiatement au service Entretien les fuites constatées, Gestion et pilotage, Vapeur, Utilités","[ 2.8714292  -0.9098381   0.13010435 ... -0.19105381 -0.04073937
+ -0.46637836]"
+276,"Chaudière à condensation, Chaudière, Chaudière, Utilités","[ 3.6585946  -1.4851968   0.99917316 ...  1.551139   -2.5372083
+  0.31902388]"
+277,"Plancher chauffant basse température, Chauffage, CVC, Bâtiment","[ 0.28549707 -0.11123152 -0.7884092  ...  0.5859737  -2.1107457
+  0.5294359 ]"
+279,"Réglage fixe des thermostats et des robinets thermostatiques, Chauffage, CVC, Bâtiment","[ 0.6159986  -0.13722937 -0.04295486 ...  0.90831345 -1.3009138
+ -0.42824197]"
+280,"Vérification et optimisation des consignes de chauffage en fonction des locaux et de leur utilisation, Chauffage, CVC, Bâtiment","[ 0.11005753  0.49601674  0.03774501 ...  0.16121575 -1.2087177
+ -1.6758665 ]"
+282,"Prise en compte les considérations du personnel sur les conditions d'ambiance dans lesquelles ils travaillent, Gestion et pilotage, Bâtiment","[-0.44487375  1.0875841  -0.18727297 ... -0.14939554 -0.21130219
+ -0.28689215]"
+283,"Nettoyage régulier des filtres et des surfaces de chauffe, Chauffage, CVC, Bâtiment","[ 1.8137894  -0.18574157  1.2201576  ...  0.52264404 -1.9026504
+ -0.93572223]"
+285,"Dégagement des radiateurs et des surfaces de chauffe, Chauffage, CVC, Bâtiment","[ 2.3358135  -0.21121052  0.7544967  ...  0.7107933  -1.6133226
+ -0.6867019 ]"
+286,"Vérification des robinets et des soupapes de sécurité, Chauffage, CVC, Bâtiment","[ 1.2777033  -0.3303763  -0.57172596 ...  0.33698547 -1.2760029
+ -0.28309166]"
+287,"Sensibilisation du personnel sur l'ouverture des fenêtres pendant la période de chauffe, Chauffage, CVC, Bâtiment","[ 0.72296935 -0.2614257   0.79611015 ...  0.36615106 -2.074662
+ -0.6835794 ]"
+290,"Radiateur à chaleur douce pour un chauffage central à combustible, Chauffage, CVC, Bâtiment","[ 2.1040175   0.6999228   0.9421284  ...  0.22861762 -2.52333
+ -1.2278064 ]"
+291,"Isolation d'un réseau hydraulique de chauffage, Chauffage, CVC, Bâtiment","[ 1.8856344  -1.180735    0.426442   ...  0.84394044 -2.7087104
+  0.33258188]"
+292,"Systèmes de chauffage rayonnant couplés à des thermostats, Chauffage, CVC, Bâtiment","[ 1.763927   -0.66538966 -0.36381418 ... -0.08927351 -1.6481533
+ -0.6335017 ]"
+293,"Remplacement des thermostats mécaniques par des thermostats électroniques, Chauffage, CVC, Bâtiment","[ 1.4282067   0.87131417  0.68753713 ... -0.09026058 -1.1703289
+ -1.4215126 ]"
+294,"Systèmes de chauffage rayonnant couplés à une GTC, Chauffage, CVC, Bâtiment","[ 1.6506084  -0.9000617  -0.26367298 ...  0.15348276 -1.8863401
+ -0.4470806 ]"
+295,"Chauffage et la climatisation adaptés à l'occupation des locaux, Chauffage, CVC, Bâtiment","[ 0.75525004 -0.943807   -0.33810902 ...  0.37293732 -2.3581104
+ -1.0018725 ]"
+296,"Chaufferie biomasse dans le tertiaire, Chaudière, Chaudière, Utilités","[ 2.3077214  -1.8621441  -0.23302911 ...  1.9838692  -2.071424
+ -0.5287659 ]"
+297,"Programmateur d'intermittence sur une chaudière existante pour un chauffage central à combustible, Régulation, Chaudière, Utilités","[ 2.32377    -0.49151853  1.0983461  ...  0.03124773 -1.5554096
+ -0.4020118 ]"
+298,"Optimiseur de relance pour chauffage central à combustible, Chauffage, CVC, Bâtiment","[ 1.4859803   0.68352085  0.52002513 ...  0.07312236 -2.0017838
+ -1.7243048 ]"
+299,"Cahier de maintenance à jour, Maintenance, Chaudière, Utilités","[ 2.2239332  -1.9349135   0.08375964 ...  0.05317349 -0.7828435
+  1.250359  ]"
+300,"Plans techniques facilement accessibles, Maintenance, Chaudière, Utilités","[ 2.3324864  -0.73444647 -0.76968247 ...  1.1462462  -0.39634368
+  0.42128757]"
+301,"Documents informatifs sur le matériel sujet à des réglages simples facilement accessible, Maintenance, Chaudière, Utilités","[ 1.964415   -1.0681878  -0.2447416  ... -0.22015487  0.08513244
+  0.319425  ]"
+302,"Vérification du bon état de la ventilation, Maintenance, Chaudière, Utilités","[ 0.847783   -0.99282235 -0.8084213  ...  0.7209034  -0.4962404
+  0.30852962]"
+304,"Utilisation de la plus petite chaudière quand les besoins sont les plus faibles pour maximiser la charge, Gestion et pilotage, Chaudière, Utilités","[ 1.357549   -1.0125039  -0.36573163 ...  0.5193637  -0.22085558
+ -0.7087297 ]"
+305,"Arrêt des chaudières dédiées au chauffage des locaux en été, Gestion et pilotage, Chaudière, Utilités","[ 3.0895665  -1.3206881   0.50182366 ...  1.6971217  -2.0746098
+ -0.27891704]"
+306,"Vérification de la régulation lorsque les chaudières sont à l'arrêt, Gestion et pilotage, Chaudière, Utilités","[ 2.2224457  -1.33363    -0.32492852 ...  0.14476044 -1.4204001
+ -0.89488274]"
+307,"Adoucissement de l'eau de ville du circuit chauffage, Traitement de l'eau, Chaudière, Utilités","[ 3.0495882  -1.5245105   0.9121     ...  0.09399912 -2.3957822
+ -0.20445663]"
+308,"Démarrage en cascade des chaudières, Régulation, Chaudière, Utilités","[ 3.0968618  -2.3092997  -0.20577408 ... -0.06709962 -1.5064571
+  0.38098872]"
+309,"Professionnel pour l'entretien annuel des chaudières, Maintenance, Chaudière, Utilités","[ 2.8158963  -1.024129   -0.16531044 ...  0.5515416  -0.3215747
+  0.28490597]"
+310,"Contrôle des performances des chaudières, Maintenance, Chaudière, Utilités","[ 2.3944201  -1.3981404  -0.3710726  ...  0.9574505  -1.1133316
+  0.26980138]"
+311,"Fonctionnement des chaudières en autocontrôle ou en télésurveillance, Maintenance, Chaudière, Utilités","[ 2.0334046  -0.36884305  0.0798456  ...  0.3275393  -0.573661
+  0.2853355 ]"
+312,"Utilisation optimale de la chaudière, Gestion et pilotage, Chaudière, Utilités","[ 2.561867   -1.2336178   1.0047221  ...  1.7195201  -0.41089514
+ -0.24958083]"
+314,"Vérification du débit d'eau chaude sanitaire, Production, Eau Chaude Sanitaire, Eau","[ 3.4914658  -3.642815   -0.9822582  ...  0.27604944 -2.3886154
+  0.43765035]"
+315,"Société de maintenance spécialisée sous contrat pour l'entretien, Maintenance, Chaudière, Utilités","[ 1.8381617   0.13046832 -0.02635163 ... -0.73917204 -0.6898317
+  0.5716418 ]"
+316,"Vérification du contrat de maintenance afin de voir s'il est adapté, Maintenance, Chaudière, Utilités","[ 1.3901392  -0.80749255 -0.92215806 ... -0.2248832   0.23357095
+  0.6521382 ]"
+317,"Vérification de la circulation dans les canalisations, Réseau, Pompe, Utilités","[ 2.0329914  -1.5726683  -0.17747602 ...  0.26051372 -1.5213177
+ -1.4081993 ]"
+319,"Vérification des débits de circulation primaire et secondaire, Régulation, Chaudière, Utilités","[ 2.3764198  -2.2028768  -0.0758144  ...  0.19073582 -0.9723687
+ -0.31618664]"
+320,"Amélioration de l'isolation des chaudières, Chaudière, Chaudière, Utilités","[ 2.266555   -0.4895476   0.38579813 ...  1.1841936  -1.2889943
+  0.4400694 ]"
+321,"Isolation du réseau de distribution de chaleur, Récupération de chaleur, Chaudière, Utilités","[ 3.4011378  -1.9013326   1.8417532  ...  2.2837734  -1.7338191
+  0.12639603]"
+322,"Récupérateur de chaleur à condensation, Fumées, Chaudière, Utilités","[ 3.5761423  -1.4157877   1.786772   ...  0.8929558  -0.9234946
+ -0.24514644]"
+323,"Séparation de la production d'eau chaude et de chauffage, Production, Eau Chaude Sanitaire, Eau","[ 4.048231   -2.6249723   0.30817676 ...  1.2416373  -3.0666344
+ -0.07895069]"
+324,"Réaction face aux pannes répétées, Maintenance, Chaudière, Utilités","[ 2.4867046  -0.42298642 -0.00671787 ...  0.4164447  -0.3034268
+  0.68291104]"
+325,"Récupérateur sur les fumées pour préchauffer l’air comburant, Air de combustion, Chaudière, Utilités",[ 2.8491173 -0.7832784  0.545099  ...  0.7523591 -0.8678225 -0.836847 ]
+327,"Analyse de la pertinence du fluide caloporteur, Gestion et pilotage, Chaudière, Utilités","[ 2.3907058  -1.3071105   1.2037877  ...  0.7867374  -0.80470735
+ -0.24239287]"
+328,"Fonctionnement du moteur à pleine charge, Ajustement production/besoin, Moteur, Utilités","[ 2.4377313  -1.1702683   0.48614502 ...  0.7311985   0.58490694
+  0.6177104 ]"
+329,"Rénovation du poste éclairage par l'utilisation de lampes ou ballasts de meilleure efficacité, Gestion et pilotage, Eclairage, Bâtiment","[ 0.76615393 -0.9399049   0.70457125 ... -0.00391169 -1.5099337
+ -0.24458615]"
+330,"Elimination des fuites dans les lignes et vannes de gaz d'inertage et d'air comprimé, Maintenance, Chaudière, Utilités","[ 3.620219   -0.27585343 -0.12504196 ...  0.73996145 -0.93835115
+  0.5827647 ]"
+331,"Moteur d'efficacité standard label IE1 (EFF2), Moteur, Moteur, Utilités","[ 1.6707596   1.2463591   0.08164079 ...  1.0026969   0.43510294
+ -1.5773761 ]"
+332,"Réduction de la pression de l'air comprimé au minimum requis, Gestion et pilotage, Air comprimé, Utilités","[ 2.7478647  -0.646869    0.0471903  ...  0.23565616 -1.4129633
+ -0.32363942]"
+333,"Isolation des équipements qui ne le sont pas, Maintenance, Organisation, Management (ISO 50 001)","[ 0.73319966  0.6566601   0.5550345  ... -0.25642312 -0.7769464
+  0.91816777]"
+334,"Détecteurs de présence, Gestion et pilotage, Eclairage, Bâtiment","[ 1.4401366  -0.7451192  -0.53864366 ... -0.7576701  -1.7197677
+ -0.80744195]"
+335,"Utilisation d'une source lumineuse plus efficace, Luminaire, Eclairage, Bâtiment","[ 1.1900514  -1.020473   -0.4431355  ...  0.50499743 -1.0339476
+ -0.05728412]"
+336,"Analyse des effluents gazeux pour ajuster correctement le ratio air/combustible, Air de combustion, Chaudière, Utilités","[ 1.4609091  -0.15246569  0.7975189  ...  0.77526957 -0.7702942
+ -1.709702  ]"
+337,"Programme de maintenance préventive, Maintenance, Organisation, Management (ISO 50 001)","[ 0.6102362   0.79814476  0.9098842  ... -0.6313985  -0.8150475
+  0.47445965]"
+338,"Maintien des équipements propres, Maintenance, Organisation, Management (ISO 50 001)","[ 0.47331086  0.6682523   0.56418836 ... -0.77712405 -0.52882344
+  0.2776169 ]"
+339,"Réparation des fuites dans les lignes et les vannes, Vanne, Vapeur, Utilités","[ 2.8335612  -0.51494604 -0.79123515 ...  0.9405579   0.07112087
+ -0.20686899]"
+340,"Maintenance sur les machines afin d'en réduire les pertes, Maintenance, Moteur, Utilités","[ 2.3273423   0.6134877  -0.3876954  ... -0.27370536  0.54491544
+ -0.07726198]"
+341,"Réparation des fuites dans les lignes et vannes d'eau, Réseau, Eau de procédés, Eau","[ 4.123482   -1.4527482  -0.3384936  ...  0.11228982 -1.8035022
+  0.52077764]"
+342,"Formation du personnel pour éviter les pertes de temps et de production, Sensibilisation, Organisation, Management (ISO 50 001)","[ 1.9190857  -0.2505222   0.5985434  ... -0.10175824  0.12737179
+ -0.8928885 ]"
+343,"Plan de maintenance des brûleurs des chaudières, Maintenance, Chaudière, Utilités","[ 2.7688496  -0.21178764  0.07569875 ...  1.3047734  -1.0655805
+  0.50936466]"
+344,"Augmentation du diamètre des câbles pour diminuer des pertes par effet Joule, Régulation, Moteur, Utilités","[ 0.50792396 -1.3416398   0.70853823 ...  0.20387177  0.21874847
+ -0.5708709 ]"
+345,"Vérification de la puissance réactive, Condensateur, Distribution électrique, Utilités","[ 1.441785   -1.4767096  -1.2003033  ... -0.1785166  -1.6597077
+  0.48377874]"
+346,"Minimisation du fonctionnement des moteurs au ralenti ou à faible charge, Régulation, Moteur, Utilités","[ 1.6553512  -0.33142397 -0.24279863 ... -0.11252329 -1.2992892
+ -0.83874613]"
+347,"Réduction de la température de combustion, Fumées, Chaudière, Utilités","[ 1.5300319   0.22713915  0.15994255 ... -0.67423296 -0.80357206
+ -0.3110012 ]"
+348,"Augmentation du transfert de chaleur vers le procédé, Chaudière, Chaudière, Utilités","[ 3.7528727  -0.84176135  1.1678382  ...  1.0205998  -0.7676739
+  0.33562264]"
+349,"Récupération de la chaleur des fumées pour production d'eau chaude et génération de froid, Récupération de chaleur, Chaudière, Utilités","[ 4.547537   -2.1760356   0.91116506 ...  0.9956716  -1.1157366
+ -0.10313571]"
+350,"Préchauffeur d'air pour chaudière, Air de combustion, Chaudière, Utilités","[ 3.473487   -0.80592453  0.0977202  ...  1.3032687  -1.8315673
+ -0.5277867 ]"
+351,"Préchauffage du combustible, Récupération de chaleur, Chaudière, Utilités","[ 3.887767   -0.46705854  1.1540341  ...  1.8212606  -1.5536577
+ -0.42723626]"
+352,"Nettoyage des surfaces de transfert de chaleur, Maintenance, Chaudière, Utilités","[ 3.1359181  -0.7225861   0.9323542  ...  0.55019534 -0.34266165
+  0.18093973]"
+353,"Vérification de la correspondance entre la sortie de la combustion et les exigences en chauffage, Fumées, Chaudière, Utilités","[ 1.3805205  -0.66990316 -1.5194952  ... -0.31481495 -0.71424305
+ -1.5897722 ]"
+354,"Repositionnement de l'admission d'air du brûleur au plafond de la chaufferie, Air de combustion, Chaudière, Utilités","[ 1.2629128   0.8239769   0.38461065 ...  0.8806743  -2.767428
+ -0.17844759]"
+355,"Brûleurs récupératifs et régénératifs, Brûleur, Chaudière, Utilités","[ 3.2828023  -1.4726226   0.37258613 ...  1.1551728  -0.60056275
+  0.4427127 ]"
+356,"Brûleur haut rendement micromodulant sur une chaudière de production de vapeur ou eau surchauffée, Brûleur, Chaudière, Utilités","[ 2.337593   -0.5779654   0.7529686  ... -0.23911501 -0.9387325
+  0.43326303]"
+357,"Réduction du débit massique des gaz de combustion par une réduction de l'excès d'air, Air de combustion, Chaudière, Utilités","[ 2.1659715   0.6519091   1.4010979  ...  0.09304541 -1.0938989
+ -0.6117774 ]"
+358,"Régulation et contrôle des brûleurs, Brûleur, Chaudière, Utilités","[ 2.2056718   0.10214445  0.34381458 ...  0.70602864 -0.50685716
+ -0.8081788 ]"
+359,"Réflexion sur le choix du combustible, Gestion et pilotage, Chaudière, Utilités","[ 1.5513629  -0.0325737   0.9229435  ...  1.671551   -0.73854804
+ -0.706484  ]"
+360,"Oxycombustion, Brûleur, Fours, combustion, Procédés","[ 2.3366735   0.6144758  -0.40225613 ...  0.28880876 -0.10938843
+  0.14472245]"
+361,"Réduction des pertes de chaleur par les ouvertures du four, Four, Fours, combustion, Procédés","[ 3.4203346   1.9410472  -0.08187556 ...  0.10572314 -1.5339833
+  0.6775852 ]"
+364,"Inspection et vérification de l'état de l'isolation, Maintenance, Chaudière, Utilités","[ 1.4369552  -0.6477927  -0.28109616 ...  1.0351778  -0.48409647
+  1.6544144 ]"
+365,"Sensibilisation sur le coûts d'un purgeur fuyard, Purgeur, Vapeur, Utilités","[ 1.7936602  -1.0949754   1.307614   ...  0.39607945 -0.09928656
+  0.35415053]"
+366,"Vérification des joints d'étanchéité, Réseau, Vapeur, Utilités","[ 2.0444193  -0.11673069  0.32319847 ...  0.6543042  -0.9279401
+ -0.759804  ]"
+367,"Calorifugeage des vannes, des robinets et des postes de détente sur un réseau vapeur, Réseau, Vapeur, Utilités","[ 3.3402026  -0.39789003  0.250025   ...  1.5064282  -1.9421246
+ -0.68913084]"
+368,"Chauffe eau solaire collectif (CESC), Production, Eau Chaude Sanitaire, Eau","[ 2.4461048  -2.9891703   0.53328484 ...  0.35343152 -2.5367901
+  0.17544138]"
+370,"Pompe à chaleur de type eau/eau, Chauffage, CVC, Bâtiment","[ 3.5201006  -1.8076926   0.3629076  ...  0.27317056 -2.122829
+ -0.13849282]"
+371,"Pompe à chaleur de type air/eau, Chauffage, CVC, Bâtiment","[ 3.151505   -1.1651479   0.4473272  ...  0.80740863 -1.4655604
+ -1.0678686 ]"
+373,"Gestion technique d'un bâtiment (GTB), Gestion et pilotage, Bâtiment","[ 1.3046902  -0.14602922  0.345334   ...  0.25578916 -0.93767935
+  0.39046007]"
+374,"Programmateur d'intermittence pour un chauffage par radiateurs électriques, Chauffage, CVC, Bâtiment","[ 1.9906591   0.42073864  0.6122289  ...  0.18058693 -1.0070323
+ -0.8848799 ]"
+376,"Isolation d'un réseau d'eau chaude sanitaire existant, Réseau, Eau Chaude Sanitaire, Eau",[ 3.610287  -3.406524   0.8956564 ...  0.3683383 -2.8392427  1.9281845]
+377,"Remplacement d'un climatiseur existant par un climatiseur fixe de classe A, Climatisation, CVC, Bâtiment","[ 1.1204015  -0.43674895  0.6246313  ...  0.26333466 -1.2083647
+ -1.7790701 ]"
+378,"Programmateur d'intermittence pour les systèmes de climatisation, Climatisation, CVC, Bâtiment","[ 0.6596543  -0.8034762   0.17103459 ... -0.35548148 -0.8442748
+ -0.3124088 ]"
+379,"Ventilation mécanique modulée proportionnelle, Ventilation, CVC, Bâtiment","[-0.24150775  0.2821064  -0.22087085 ... -0.1695797  -1.3562492
+  0.26410833]"
+380,"Ventilation mécanique modulée à détection de présence, Ventilation, CVC, Bâtiment","[-0.8626771   0.46355674 -0.23896444 ... -0.89066404 -1.6043838
+  0.08276701]"
+381,"Ventilation mécanique contrôlée simple flux autoréglable, Ventilation, CVC, Bâtiment","[-0.2705234  -0.02220835 -0.15224998 ...  0.601215   -1.8315903
+ -1.021191  ]"
+382,"Ventilation mécanique contrôlée double flux avec échangeur, Ventilation, CVC, Bâtiment","[ 0.8562874   0.5445218   0.82413393 ...  0.8823212  -1.5269288
+ -0.4991802 ]"
+384,"Raccordement à un réseau de chaleur, Chauffage, CVC, Bâtiment","[ 1.6538758  -1.220363    0.94230354 ...  0.88413304 -1.5681313
+ -2.1304307 ]"
+385,"Mini-cogénération sans obligation d'achat, Micro/mini-cogénération, Cogénération","[ 0.7359142  -0.6261885   1.355287   ... -0.24624054 -0.19897072
+ -0.69431543]"
+386,"Circulateur à rotor noyé de classe A, Chauffage, CVC, Bâtiment","[ 2.7135942   0.13926435  0.73137295 ...  0.28324676 -0.74860334
+ -0.26753172]"
+388,"Unité autonome de traitement d'air en toiture à haute performance énergétique, Ventilation, CVC, Bâtiment","[ 0.3955762   0.1047456  -0.57954174 ... -1.2282046  -1.753518
+  0.69315773]"
+389,"Groupe de production d'eau glacée avec condenseur sur eau, Condenseur, Froid, Utilités","[ 3.3998964  -2.3109457  -0.4423053  ...  0.42012656 -1.9613811
+  0.12630989]"
+390,"Echangeur air neuf / air extrait sur centrale de traitement d'air (DOM), Ventilation, CVC, Bâtiment","[ 2.1878026  -0.11146838  0.9726278  ...  0.47121635 -0.85536283
+ -0.21616924]"
+391,"Accumulateur d'eau chaude à condensation, Production, Eau Chaude Sanitaire, Eau","[ 3.624836   -3.1697502   0.5181153  ... -0.05984195 -2.6563148
+  0.9824718 ]"
+392,"Système de climatisation centralisée de type DRV, Climatisation, CVC, Bâtiment","[ 1.978557   -1.2507716   0.52673984 ...  0.06829228 -2.2276628
+ -1.9422708 ]"
+393,"Analyse de la qualité et de la conception de l'éclairage, Gestion et pilotage, Eclairage, Bâtiment","[ 1.5121385  -0.5279733   0.0132258  ...  0.1545879  -0.51166445
+ -0.7380644 ]"
+394,"Gestion de l'éclairage, Gestion et pilotage, Eclairage, Bâtiment","[ 1.6776978  -0.98147565 -0.590213   ...  0.12388457 -1.9095017
+ -0.9359828 ]"
+395,"Evaluation de l'efficacité en effectuant des mesures et vérifications : M&V - Option A, Gestion et pilotage, Eclairage, Bâtiment","[ 0.7118421   0.7075793   0.19587196 ...  0.42197907 -0.46688768
+ -0.893514  ]"
+396,"Evaluation de l'efficacité en effectuant des mesures et vérifications : M&V - Option B, Gestion et pilotage, Eclairage, Bâtiment","[ 0.7493068   0.635343    0.2114392  ...  0.32802266 -0.4757646
+ -0.7418347 ]"
+397,"Evaluation de l'efficacité en effectuant des mesures et vérifications : M&V - Option C, Gestion et pilotage, Eclairage, Bâtiment","[ 0.81304556  0.7074514   0.15432405 ...  0.27140656 -0.74036086
+ -0.88354325]"
+398,"Evaluation de l'efficacité en effectuant des mesures et vérifications : M&V - Option D, Gestion et pilotage, Eclairage, Bâtiment","[ 0.83810437  0.9319641   0.0084638  ...  0.3049578  -0.27176374
+ -1.0785713 ]"
+399,"Horloge sur un dispositif d'éclairage, Régulation, Eclairage, Bâtiment",[ 1.267968  -1.6531312 -0.4528338 ... -0.6782124 -0.689682  -0.6812887]
+400,"Lampes à iodures métalliques à brûleur céramique en remplacement de lampe à vapeur de mercure, Luminaire, Eclairage, Bâtiment","[ 0.5543416   0.5107644   0.16643983 ...  0.30144355 -1.0812402
+ -0.16064708]"
+403,"Nappe d'éclairage fluorescent en tube de typeT5, Luminaire, Eclairage, Bâtiment","[ 1.8148735  -0.64924234 -0.34388667 ... -0.17012677 -2.0496604
+  0.29480934]"
+404,"Système de mise au repos automatique de blocs autonomes d'éclairage de sécurité (BAES), Gestion et pilotage, Eclairage, Bâtiment","[ 1.9344901  -0.08249746 -0.42356294 ...  0.88600767 -1.6977739
+ -0.1577691 ]"
+405,"Porte non chauffante à haute performance d'isolation pour armoire horizontale à froid négatif, Meuble frigorifique, Froid, Utilités","[ 1.3966624  -0.45527017 -0.7927438  ...  0.711281   -2.065795
+  0.53290987]"
+406,"Lampe fluo-compacte de classe A, Luminaire, Eclairage, Bâtiment","[ 0.5838405  -0.16974485 -0.5605736  ... -0.03867596 -1.9153966
+  0.4307916 ]"
+407,"Participation du personnel à l'extinction de l'éclairage en période d'inoccupation, Gestion et pilotage, Eclairage, Bâtiment","[ 1.5795987  -0.5106729  -0.4636524  ... -0.5338663  -1.5984192
+  0.37396467]"
+408,"Etiquette pour l'identification des interrupteurs, Gestion et pilotage, Eclairage, Bâtiment","[ 1.5752506  -1.0015056  -0.6677032  ...  0.59000295 -0.77061456
+ -0.8613575 ]"
+411,"Extinction de la lumière des zones souvent inoccupées, Régulation, Eclairage, Bâtiment","[ 1.5207899  -1.094628   -0.5181     ... -0.6994241  -1.2737844
+ -0.02269625]"
+412,"Extinction des luminaires extérieurs quand ils ne sont pas nécessaires, Régulation, Eclairage, Bâtiment",[ 0.5757462 -1.3251584 -1.0944376 ... -0.639207  -1.218243  -0.7179566]
+414,"Caches adéquats pour les luminaires, Maintenance, Eclairage, Bâtiment","[ 1.7405567  -2.0630908  -0.4473859  ...  0.19786347 -0.6884083
+ -0.05875562]"
+415,"Programme d'entretien ou plan de remplacement de l'éclairage, Maintenance, Eclairage, Bâtiment","[ 1.6125014   0.01282952  0.07250957 ... -0.10190773 -1.0584033
+  0.52153736]"
+416,"Programmateurs pour le contrôle de l'allumage, Régulation, Eclairage, Bâtiment","[ 0.88297635 -1.6500813  -1.0431292  ... -0.29149598 -0.19961461
+ -0.7532055 ]"
+418,"Luminaire avec réflecteur pour l'éclairage., Luminaire, Eclairage, Bâtiment","[ 1.8091748  -1.0154994   0.10599909 ... -0.86467916 -1.6132892
+  0.1643138 ]"
+419,"Lampes à induction dans les zones difficile d'accès., Luminaire, Eclairage, Bâtiment","[ 0.49032843 -0.69925284 -1.3130397  ...  0.0077366  -0.16082144
+  0.3110561 ]"
+420,"Suppression des ampoules à incandescences, Luminaire, Eclairage, Bâtiment","[ 0.9577776  -1.1335881  -0.4495372  ...  0.19482328 -1.7276077
+ -0.6019124 ]"
+421,"Commandes individualisées de l'éclairage à distance, Régulation, Eclairage, Bâtiment","[ 1.0226105  -2.02044    -0.6765435  ... -0.69848824 -1.2758633
+ -0.8661485 ]"
+422,"Coupe-veille automatique par détection d'utilisation des appareils raccordés, Appareils électriques, Bâtiment","[ 0.89002687 -1.166045   -1.7095939  ...  0.7828266   0.6354752
+ -1.3107473 ]"
+423,"Coupe-veille en hébergement relié au système d'accès., Appareils électriques, Bâtiment","[ 1.9969568  -1.1812868  -1.0127047  ...  0.10664484 -0.44171533
+ -0.95886725]"
+424,"Transformateur à haut rendement pour l'alimentation basse tension d'un site tertiaire, Transformateur, Distribution électrique, Utilités","[ 2.4747565   0.305641   -0.7934616  ...  0.94454736 -0.6687287
+ -0.30938587]"
+425,"Système de pilotage par intermittence des centrales de traitement d'air (DOM), Ventilation, CVC, Bâtiment","[ 1.0343087   0.23066236  0.7269502  ... -0.7584856  -1.6590676
+ -0.9138472 ]"
+426,"Contrat de Performance Energétique (CPE), Contrat, Gestion des énergies, Management (ISO 50 001)","[ 0.23806414 -0.01212193  1.6347294  ... -0.02304826 -1.1557525
+ -0.4792544 ]"
+427,"Connaissance approfondie de la répartition de la consommation d'énergie du site, Indicateurs et tableau de bord, Mesure et comptage d’énergie, Management (ISO 50 001)","[ 0.7598982  -0.66759926  1.3258339  ...  0.53287774 -0.47251138
+  0.35798988]"
+428,"Politique environnementale, Management (ISO 50 001)","[ 0.5549277  -0.22085384  1.1356496  ...  0.42576054 -1.6566106
+  0.19308087]"
+429,"Comité énergie interne au site pour piloter la politique énergétique du site., Stratégie et politique, Organisation, Management (ISO 50 001)","[ 1.0942074  -0.0747648   0.1477193  ... -0.42916968 -0.31226814
+ -0.49217162]"
+430,"Création d'un poste de responsable énergie, Management (ISO 50 001)","[ 1.1712333   0.59180903  0.8979127  ... -0.54493207 -0.9225813
+ -0.22668321]"
+431,"Concurrence des fournisseurs d'énergies, Contrat, Gestion des énergies, Management (ISO 50 001)","[ 0.6753527  -0.32663444  0.65474206 ...  0.13568974 -1.0942777
+ -0.4814837 ]"
+432,"Achat d'énergie mutualisé, Contrat, Gestion des énergies, Management (ISO 50 001)","[ 1.1941235  -0.60182136  1.2022367  ... -0.24020286 -1.5146676
+ -0.30982524]"
+433,"Vérification des factures d'énergie, Contrat, Gestion des énergies, Management (ISO 50 001)","[ 0.08971149  0.00557826  1.0259842  ... -0.12811182 -1.3485448
+ -0.21936749]"
+435,"Liste de fournisseur d'énergie potentiels, Contrat, Gestion des énergies, Management (ISO 50 001)","[ 1.4630705  -0.29695764  0.97267514 ...  0.36658677 -0.97810644
+ -0.2554921 ]"
+437,"Démagnétiseur sur les fours, Gestion et pilotage, Fours, combustion, Procédés",[3.1952882  0.65966433 0.35631427 ... 0.05623672 0.02342415 0.7503711 ]
+439,"Procédure pour relever les compteurs, Appareils électriques, Bâtiment","[ 1.1177624  -0.7103047  -1.0158463  ...  0.18123133 -0.58210605
+ -0.33853862]"
+440,"Analyse des irrégularités du profil de production, Indicateurs et tableau de bord, Mesure et comptage d’énergie, Management (ISO 50 001)","[ 0.5338795  -0.59870315  0.42628092 ...  0.7555846  -0.47644234
+ -0.23033614]"
+441,"Mesure des consommations énergétiques la nuit durant le tarif ""heures creuses"", Mesure et comptage d’énergie, Management (ISO 50 001)","[ 0.38843763  0.15082383  1.3707778  ... -0.16148505 -0.34987855
+  0.4918067 ]"
+442,"Optimisation des achats selon la variation du prix du fioul, Management (ISO 50 001)","[ 0.55469126  0.48265788  1.5695808  ... -0.06782143 -0.36638206
+ -0.94442314]"
+443,"Utilisation des DJU pour analyser le chauffage., Indicateurs et tableau de bord, Mesure et comptage d’énergie, Management (ISO 50 001)","[ 0.89946616 -0.8028616   0.745059   ...  0.6454624  -1.0875305
+ -0.5767313 ]"
+444,"Suivi des performances de production, Indicateurs et tableau de bord, Mesure et comptage d’énergie, Management (ISO 50 001)","[ 0.59376603 -0.7341033   0.31834337 ...  0.5294344  -0.849483
+ -0.49710974]"
+445,"Comparaison des performances énergétiques avec d'autres sites industriels, Indicateurs et tableau de bord, Mesure et comptage d’énergie, Management (ISO 50 001)","[ 0.64601314 -0.2820847   0.8907431  ...  0.85678977 -0.43546286
+ -0.31534743]"
+446,"Objectifs chiffrés de réduction de consommation d'énergie, Stratégie et politique, Organisation, Management (ISO 50 001)","[ 0.49349764  0.06379548  0.64261943 ...  0.06356778 -0.45115307
+ -0.13562152]"
+447,"Motivation du personnel pour trouver des idées d'économies d'énergie réalisables., Sensibilisation, Organisation, Management (ISO 50 001)","[ 0.56251717  0.11623769  0.9727442  ... -0.18238263  0.37882826
+ -0.09973019]"
+448,"Bibliothèque des documentations constructeurs relatives aux matériels énergétiques de l'entreprise, Maintenance, Organisation, Management (ISO 50 001)","[ 1.6426371   0.44989324 -0.11386767 ... -0.19386889 -0.51824516
+ -0.5426097 ]"
+449,"Formation du personnel à l'utilisation rationnelle de l'énergie, Management (ISO 50 001)","[ 1.1126603   0.6391455   0.84034216 ... -0.4589407  -1.1328253
+ -0.39488536]"
+450,"Communication sur les bénéfices d'une politique d'économie d'énergie, Stratégie et politique, Organisation, Management (ISO 50 001)","[ 0.42483574  0.12653735  0.7957148  ... -0.22457992 -0.670068
+ -0.5751944 ]"
+451,"Unité de transport intermodal (UTI), Report modal, Transport, Technologies énergétiques","[ 2.4309616   0.16560732  0.3210726  ... -0.02341223  0.2891809
+  0.07518335]"
+452,"Pneus d'autobus à basse résistance au roulement, Matériel roulant, Transport, Technologies énergétiques","[ 2.1957238   0.5656076  -0.17656554 ... -0.26158035 -0.2656604
+  1.1089381 ]"
+453,"Télématique embarquée pour le suivi de la conduite d'un véhicule, Gestion et pilotage, Transport, Technologies énergétiques","[ 1.6042968  -0.647082    0.14960597 ...  0.36799788 -0.09370016
+ -0.12090836]"
+454,"Lubrifiant économiseur d'énergie, Maintenance, Transport, Technologies énergétiques",[2.4116144  0.9779339  0.76094365 ... 0.7421191  0.73993605 0.83685654]
+455,"Suivi des consommations de carburant grâce à des cartes privatives, Gestion et pilotage, Transport, Technologies énergétiques","[ 2.0277984  -0.76187116  0.9786847  ... -0.22873437 -0.17959209
+ -0.3095527 ]"
+456,"Pneus de véhicules légers à basse résistance au roulement., Matériel roulant, Transport, Technologies énergétiques","[ 2.14526     0.5039454  -0.15641269 ... -0.01696467 -0.8395222
+  0.54444367]"
+457,"Unité de transport intermodal pour le transport combiné fleuve-route, Report modal, Transport, Technologies énergétiques","[ 2.4769518   0.7663724   0.13195139 ...  0.01599029  0.6653815
+ -0.10095415]"
+458,"Wagon d'autoroute ferroviaire, Report modal, Transport, Technologies énergétiques","[ 1.3937583  -0.31527975 -0.0068363  ... -1.2764275   0.6417514
+  1.0017003 ]"
+459,"Acquisition d'une barge fluviale, Report modal, Transport, Technologies énergétiques","[ 2.2315595   0.6326401   0.4735986  ... -1.1618791  -1.407784
+  0.34507388]"
+460,"Acquisition d'un automoteur fluvial, Report modal, Transport, Technologies énergétiques","[ 2.069522    0.19197257 -0.5927584  ... -0.5280935   0.01247451
+  0.3792071 ]"
+461,"Groupe frigorifique autonome à haute efficacité énergétique pour camions, semi remorques, remorques et caisses mobiles frigorifiques, Matériel roulant, Transport, Technologies énergétiques","[ 0.9966113   0.9286925  -1.1076031  ... -0.42834982 -0.50229776
+  0.74725115]"
+462,"Groupe frigorifique non autonome à haute efficacité énergétique pour camions, semi remorques, remorques et caisses mobiles frigorifiques, Matériel roulant, Transport, Technologies énergétiques","[ 0.92076826  0.9618982  -1.0681462  ... -0.43650588 -0.74579334
+  0.7524713 ]"
+463,"Lubrifiant économiseur d'énergie pour des véhicules de transport de personnes ou de marchandises, Maintenance, Transport, Technologies énergétiques",[1.7932683  0.9106489  0.05338107 ... 0.2581541  0.6322476  0.6438536 ]
+464,"Formation d'un chauffeur à l'éco-conduite, Ecoconduite, Transport, Technologies énergétiques","[ 1.8405496  -0.70362884  0.748592   ...  0.77276784 -0.9744778
+ -1.2240437 ]"
+466,"Covoiturage domicile -travail, Covoiturage, Transport, Technologies énergétiques","[ 1.9644965  -0.27685174  1.1510367  ... -0.33198377  1.0871882
+ -1.4612    ]"
+468,"Responsable de parc de véhicules de l'entreprise, Gestion et pilotage, Transport, Technologies énergétiques","[ 2.5798242   0.3774496  -0.00349668 ... -0.55129075  0.04874655
+ -0.53745323]"
+469,"Entretien régulier des véhicules, Maintenance, Transport, Technologies énergétiques","[ 2.2284033   1.2994533  -1.0679271  ... -0.99264544  0.78594834
+  1.382214  ]"
+470,"Vérification régulière de l'usure et la pression des pneus, Maintenance, Transport, Technologies énergétiques","[ 2.6157048   0.44518927 -0.5420924  ...  0.21576674 -0.05472448
+  0.49950358]"
+471,"Analyse des différents types de déplacements professionnels des salariés, Covoiturage, Transport, Technologies énergétiques",[ 1.9689914  0.3303296  1.7751942 ...  0.6742316  1.3408856 -0.6311527]
+472,"Véhicules adaptés aux déplacements, Gestion et pilotage, Transport, Technologies énergétiques","[ 1.0588889  -0.02544502  0.57655424 ... -0.7484133   1.2418063
+ -0.375078  ]"
+473,"Plan de mobilité ou un plan de déplacement entreprise, Covoiturage, Transport, Technologies énergétiques","[ 1.9380829   0.24873964  2.6332555  ... -0.13956954  0.01021485
+ -0.8776635 ]"
+474,"Encouragement à l'usage des transports en commun, Covoiturage, Transport, Technologies énergétiques","[ 2.1714408   0.25352284  1.7304012  ...  0.898855    0.19923149
+ -0.2119372 ]"
+475,"Suppression des poids inutiles des véhicules quand cela est possible, Matériel roulant, Transport, Technologies énergétiques","[ 1.2586848   0.28520256  0.21541862 ... -0.30558613 -0.67824465
+  0.16841784]"
+476,"Plan de livraison et système de gestion de remplissage des véhicules, Gestion et pilotage, Transport, Technologies énergétiques","[ 3.733956    0.7811329  -0.02869148 ... -0.9334425  -0.27975273
+ -0.39926887]"
+478,"Réduction des déplacements professionnels, Covoiturage, Transport, Technologies énergétiques","[ 1.6709476   0.45755818  1.3757396  ... -0.33459163  0.97258514
+ -0.79568404]"
+479,"Prise en compte la consommation de carburant comme un facteur déterminant dans l'achat d'un véhicule, Matériel roulant, Transport, Technologies énergétiques","[ 1.2757277   0.7055016   1.362984   ...  0.8550367  -0.5294935
+  0.43753567]"
+480,"Arrêt des moteurs lors des pauses, Matériel roulant, Transport, Technologies énergétiques","[ 2.5816293   0.6017467  -0.06642936 ...  0.40925175 -0.7501099
+  0.633525  ]"
+481,"Véhicule électrique, Matériel roulant, Transport, Technologies énergétiques","[ 2.2775838  -0.44316086 -0.53075296 ... -1.1378088   0.5556806
+  1.0422504 ]"
+482,"Etude d'optimisation de l'usage de la chaleur au sein des procédés, Gestion et pilotage, Procédés","[ 2.3819396  -0.5868966  -0.08493666 ...  0.24061574 -0.17816345
+  0.10624468]"
+483,"Optimisation de la régulation des procédés thermiques et des températures de veille, Gestion et pilotage, Procédés","[ 2.0786932  -0.3391609  -0.14193518 ... -0.13098864 -0.8659547
+ -0.62195176]"
+484,"Vérification régulière de l'état général des process thermiques, Maintenance, Procédés","[ 2.2334623  -0.19053368 -0.88226694 ...  0.27752945 -0.81985444
+  1.0064825 ]"
+485,"Contrôle de la performance des échangeurs, Récupération de chaleur, Procédés","[ 3.0823998  -0.7936002   0.86921155 ...  1.5945748   0.26662076
+  0.39798766]"
+486,"Vérification de l'adéquation des cycles thermiques avec les produits, Séchage, Procédés","[ 1.4833521   0.44182977 -0.21344073 ... -0.37715864  0.5116435
+ -0.24026412]"
+487,"Formation du personnel à quantifier les coûts énergétiques, Gestion et pilotage, Procédés","[ 2.3147922   0.05160327  0.00765587 ... -0.39415607  0.43569317
+ -0.497617  ]"
+488,"Comparaison des process actuels avec des process performants, Gestion et pilotage, Procédés",[ 2.3300622 -0.8900204 -0.3420457 ...  1.074062   1.1872288  0.5300132]
+489,"Infrarouges pour chauffer, cuire, sécher, gélifier, coller de manière directe et localisé, Séchage, Procédés","[ 1.5663986  -1.018516   -0.99525845 ... -0.48779672 -0.9739281
+ -0.71902555]"
+490,"Micro-ondes et hautes fréquences pour chauffer les produits., Gestion et pilotage, Fours, combustion, Procédés","[ 2.6047833   0.16381215 -0.4423051  ... -0.669373   -0.3951824
+ -0.17862481]"
+491,"Ultraviolets pour chauffer, cuire, sécher, gélifier, coller de manière directe et localisé, Séchage, Procédés","[ 2.0150173  -0.9244791  -0.9174343  ... -0.5860522  -0.59874064
+ -0.7632726 ]"
+492,"Récupération de l'énergie des buées lors du séchage de la vapeur, Récupération de chaleur, Vapeur, Utilités","[ 3.844656   -1.2266061   1.4970688  ...  0.30040112 -0.5136118
+ -0.68126744]"
+494,"Prétraitement mécanique pour les produits à forte teneur en eau., Séchage, Procédés","[ 3.2670343  -0.30687088 -0.33467966 ... -1.9520284  -0.05257574
+  0.17692134]"
+495,"Concentration d'un liquide avant de le sécher, Séchage, Procédés","[ 2.623788   -1.82314     0.23751783 ... -1.3362445  -1.3520403
+  1.1020486 ]"
+496,"Chauffage par induction, Gestion et pilotage, Fours, combustion, Procédés","[ 2.1738915   0.2843265   0.6075774  ...  1.1137373  -0.9849939
+  0.10447407]"
+497,"Bains de traitements chauffés par TIC (tubes immergés compact), Gestion et pilotage, Fours, combustion, Procédés","[ 3.2687469  -1.6426909  -0.14771414 ... -0.2466137  -1.1240219
+  0.62020785]"
+500,"Optimisation et vérification des équipements, Réseau, Air comprimé, Utilités","[ 3.7757106  -0.7117598   0.22875367 ... -0.2312437  -0.274701
+ -1.1621015 ]"
+502,"Profil de la demande d'air comprimé, Ajustement production/besoin, Air comprimé, Utilités","[ 3.2918513  -1.1938326  -0.18612179 ...  0.38712934 -0.39752784
+  1.1876069 ]"
+503,"Pompes à haut rendement, Pompe, Pompe, Utilités","[ 2.9788606  -2.195798   -0.0842661  ...  0.25457647 -0.25709537
+ -2.5312977 ]"
+504,"Arrêt des ventilateurs inutiles, Régulation, Ventilation, Utilités","[ 1.3912673  -1.9075767  -0.64734185 ...  0.5622712  -1.6826026
+  0.70772934]"
+505,"Captages spécifiques pour les pollutions localisées à la place d'un système de ventilation générale, Gestion et pilotage, Ventilation, Utilités","[ 0.44015512 -0.854113    0.42987818 ...  0.5069588  -1.599381
+ -1.1634208 ]"
+506,"Recharge en fluide frigorigène si nécessaire, Réseau, Froid, Utilités","[ 2.4018562  -1.3731942   1.3343486  ... -0.4265354  -1.6624215
+ -0.34183475]"
+507,"Régulation du débit du fluide frigoporteur, Régulation, Froid, Utilités","[ 2.5399456  -1.4599735   0.30303627 ... -0.02913946 -1.0378107
+ -0.27963042]"
+508,"Arrêt des moteurs inutiles, Ajustement production/besoin, Moteur, Utilités","[ 2.3884172  -1.0369064   0.18963529 ...  1.4710506  -0.285602
+  1.201672  ]"
+509,"Identification des systèmes inefficaces, Ajustement production/besoin, Moteur, Utilités","[ 1.0994259  -1.301086   -0.40200546 ...  0.2397173   0.7940828
+  0.22167058]"
+510,"Dimensionnement correcte de la roue à aubes, Gestion et pilotage, Pompe, Utilités","[ 0.95231795  0.8223118   0.22017804 ...  0.44882795 -0.25970706
+ -0.4250407 ]"
+511,"Ajustement des bagues d'étanchéité, Maintenance, Pompe, Utilités","[ 1.9946747   0.851248    0.28971946 ...  0.5808367  -0.61383873
+  0.08603793]"
+512,"Arrêt des pompes inutiles, Régulation, Pompe, Utilités","[ 2.6976204  -2.0882473  -0.6106705  ...  0.74972576 -1.1274129
+ -0.55901957]"
+513,"Gestion quotidienne du fonctionnement, Gestion et pilotage, Ventilation, Utilités","[ 2.1288211  -1.4785534  -0.3039811  ...  0.74195653 -0.4616457
+ -0.46983275]"
+514,"Réactance en série pour limiter les harmoniques, Gestion et pilotage, Distribution électrique, Utilités","[ 0.7877796  -1.1693413  -0.57128286 ... -0.3733097  -0.27702296
+  0.15558593]"
+515,"Résoudre les problèmes liés aux coupures de courant, Gestion et pilotage, Distribution électrique, Utilités","[ 1.7007272  -0.5272992  -0.7614694  ...  0.2897219  -0.63768905
+ -0.35462832]"
+516,"Détection des fuites éventuelles de diélectrique, Transformateur, Distribution électrique, Utilités","[ 3.5751252  -0.55102295 -0.15460448 ...  0.77984214 -1.1699516
+  0.20805621]"
+518,"Test d'isolation électrique, Transformateur, Distribution électrique, Utilités","[ 1.9268931  -0.5031765  -0.87794214 ...  1.0997928  -1.472288
+ -0.0207391 ]"
+529,"Lave-linge domestique de classe A+, Réseau, Eau Chaude Sanitaire, Eau","[ 1.8625612  -1.2943102   0.15828419 ...  0.31903455 -1.1553136
+  0.63340664]"
+530,"Réfrigérateur domestique performant, Gestion et pilotage, Bâtiment","[ 0.7946365  -1.509237    0.29598698 ... -0.17403625  0.19807293
+ -1.0951848 ]"
+531,"Luminaire avec ballast électronique pour parties communes, Luminaire, Eclairage, Bâtiment","[ 0.19707331 -1.0098615  -0.00399327 ...  0.06240873 -1.2527308
+ -0.31721988]"
+534,"Formation des acteurs professionnels du secteur du bâtiment aux économies d’énergie, Gestion et pilotage, Bâtiment","[ 1.157683   -0.7882074  -0.38045758 ...  0.72907007  0.04376888
+ -1.5299097 ]"
+535,"Ingénierie d'accompagnement des entreprises et artisans du bâtiment pour réaliser les objectifs énergétiques du Grenelle de l'environnement, Gestion et pilotage, Bâtiment","[-0.02727159 -0.02693767  0.6564527  ...  0.07199841 -0.8204714
+ -0.5675649 ]"
+539,"Chauffe-Eau Solaire Individuel (CESI), Production, Eau Chaude Sanitaire, Eau","[ 2.8279018  -2.579019    0.9085603  ...  0.57380337 -1.9021176
+  0.0439002 ]"
+543,"Chaudière individuelle à condensation au gaz, Chauffage, CVC, Bâtiment","[ 1.7010026  -0.43562785  0.4906312  ...  0.87908316 -2.0085392
+ -0.5150236 ]"
+544,"Chaudière collective à condensation, Chauffage, CVC, Bâtiment","[ 1.530907   -0.7865782   0.53120404 ...  0.80069673 -1.8938657
+ -0.3276416 ]"
+545,"Chaudière collective à condensation avec contrat assurant le maintien du rendement énergétique de la chaudière, Chauffage, CVC, Bâtiment","[ 2.1776214  -0.5739424   1.1288966  ...  0.77652025 -1.1643406
+ -0.4961786 ]"
+546,"Chaudière individuelle de type Basse température, Chaudière, Chaudière, Utilités","[ 3.253661   -1.5870801   0.16713576 ...  0.9319201  -2.9314811
+  0.42748576]"
+547,"Chaudière collective de type basse température, Chaudière, Chaudière, Utilités","[ 3.2151709  -1.6074233   0.1177308  ...  1.5647486  -3.1040096
+  0.31756318]"
+548,"Chaudière collective de type basse température avec contrat assurant le maintien du rendement énergétique de la chaudière, Chaudière, Chaudière, Utilités","[ 2.7175586  -0.9726271   0.92426324 ...  1.1196271  -1.8445958
+ -0.01522559]"
+550,"Régulation par sonde de température extérieure, Chauffage, CVC, Bâtiment","[-0.24089423 -0.560942    0.22199956 ... -0.16200262 -1.3966696
+ -0.87362397]"
+551,"Appareil indépendant de chauffage au bois, Chaudière, Chaudière, Utilités","[ 3.3769794  -0.41439912 -0.50312585 ...  1.6701763  -2.6560578
+ -0.18936919]"
+552,"Chaudière biomasse individuelle, Chaudière, Chaudière, Utilités","[ 2.9805987  -1.3911911   0.6944001  ...  2.4906204  -2.4996457
+ -0.35686773]"
+553,"Chaufferie biomasse, Chaudière, Chaudière, Utilités","[ 2.7605388  -1.7374185  -0.19532232 ...  2.4060464  -2.4583068
+ -0.44170377]"
+554,"Chaufferie biomasse avec contrat assurant le maintien du rendement énergétique de la chaufferie, Chaudière, Chaudière, Utilités","[ 3.018002   -0.80189186  0.45859072 ...  1.4176053  -1.6683828
+ -0.77449745]"
+556,"Plancher rayonnant électrique avec dispositif de réglage automatique, Chauffage, CVC, Bâtiment","[ 0.38559312 -0.7949394   1.2169863  ... -1.4634055  -2.3414526
+ -0.47991163]"
+557,"Robinet thermostatique sur radiateurs, Chauffage, CVC, Bâtiment","[ 1.5224755   1.0283606  -0.08418477 ...  0.54299164 -1.6678141
+ -0.9005138 ]"
+558,"Programmateur d'intermittence pour un chauffage individuel à combustible, Chauffage, CVC, Bâtiment","[ 1.314371    0.7916011   0.73088354 ...  0.47818616 -1.3701329
+ -1.1149055 ]"
+561,"Système de comptage individuel d'énergie de chauffage, Chauffage, CVC, Bâtiment","[ 0.7530064  -0.48248583  0.074664   ...  1.0858412  -2.2287574
+ -1.2236409 ]"
+562,"Chaudière individuelle à condensation au fioul, Chauffage, CVC, Bâtiment","[ 2.100015   -0.4680304   0.5563739  ...  0.99414814 -1.7032675
+ -0.84172213]"
+567,"Ventilation mécanique contrôlée, simple flux hygroréglable, Ventilation, CVC, Bâtiment","[ 0.0929167  -0.25164586  0.30966887 ...  0.6112067  -1.4761823
+ -0.4345824 ]"
+568,"Plafond rayonnant électrique, Chauffage, CVC, Bâtiment","[ 0.716405   -0.8013114   0.02400007 ... -0.8549834  -1.690102
+ -0.5472674 ]"
+569,"Pompe à chaleur de type air/air, Chauffage, CVC, Bâtiment","[ 2.5242796  -0.91018045  0.5856203  ...  0.61747074 -1.5500246
+ -1.5895877 ]"
+570,"Surperformance énergétique pour un bâtiment neuf avec label de haute performance énergétique, Gestion et pilotage, Bâtiment","[-1.7367383   0.8859257   1.5099698  ...  0.23521954 -0.38824785
+  0.30658114]"
+572,"Caisson de ventilation mécanique contrôlée (VMC) à consommation réduite, Ventilation, CVC, Bâtiment","[ 0.50375277 -0.37258384 -0.12219016 ... -0.01963579 -2.1277115
+  0.06983985]"
+573,"Ventilation naturelle hygroréglable, Ventilation, CVC, Bâtiment","[-0.9335983  -0.5565049   1.129538   ... -0.15006647 -1.3567977
+  0.12201909]"
+575,"Programmateur d'intermittence pour un chauffage individuel avec pompe à chaleur existant, Chauffage, CVC, Bâtiment","[ 1.5006438   0.17097501  1.353067   ...  0.608247   -1.8011082
+ -0.80094266]"
+578,"Pompe équipée d'un système de variation électronique de vitesse, Régulation, Pompe, Utilités","[ 2.3535447  -1.0169848  -0.72973686 ... -1.1544868  -0.39247668
+ -0.8760714 ]"
+582,"Système Solaire Combiné (SSC), Capteur, Solaire thermique, Nouvelles énergies","[ 3.4471512  -0.60310626  0.9443483  ...  0.8608144   1.5300617
+ -0.14660871]"
+583,"Chaudière individuelle de type micro-cogénération à moteur Stirling, Micro/mini-cogénération, Cogénération","[ 1.5568591  -0.759816    1.1687472  ...  0.25098848 -0.8962509
+ -1.0758598 ]"
+585,"Système de production d'eau chaude sanitaire collective de type pompe à chaleur sur capteur solaire non vitré, Production, Eau Chaude Sanitaire, Eau","[ 3.8102803  -3.349382    0.855473   ...  0.81710535 -2.5583937
+  0.09358641]"
+586,"Systèmes hydro-économes, Réseau, Eau Chaude Sanitaire, Eau","[ 3.8298998e+00 -2.8640213e+00  3.2338846e-01 ... -2.5410401e-03
+ -1.2744023e+00  1.0423037e+00]"
+697,"Lampes à sodium basse pression pour éclairage extérieur en remplacement de lampe à vapeur de mercure, Luminaire, Eclairage, Bâtiment","[ 0.28636673 -0.79538065 -0.00810054 ... -0.8507279  -1.3421757
+  0.10884639]"
+698,"Bloc autonome d'éclairage de sécurité à faible consommation, Gestion et pilotage, Eclairage, Bâtiment","[ 0.8777686  -0.2908712  -0.84057856 ...  0.49844766 -1.6379914
+ -0.1239944 ]"
+701,"Tube fluorescent de type T5, Luminaire, Eclairage, Bâtiment","[ 1.3679147   0.20132641 -0.29174483 ...  0.29224902 -1.8025116
+  0.34594536]"
+705,"Optimisation du traitement d'eau, Traitement de l'eau, Chaudière, Utilités","[ 3.8919113  -1.3320417  -0.01041982 ...  0.5109935  -1.6297636
+ -1.3953946 ]"
+706,"Identification du phénomène de primage, Maintenance, Chaudière, Utilités","[ 1.9062326  -0.48828027  0.83903617 ... -0.1318745  -0.9812989
+  0.30115414]"
+707,"isolation de la bâche alimentaire, Bâche alimentaire, Vapeur, Utilités","[ 1.9928439  -1.2081729   0.4647371  ... -0.6000953  -0.9437192
+ -0.94242126]"
+708,"Système de contrôle/commande de la combustion, Régulation, Fours, combustion, Procédés","[ 1.4297003   0.5600973  -1.4607528  ...  0.49145833 -0.15475102
+  0.14462256]"
+709,"Ratio consommation d'énergie par tonne de vapeur, Echangeur thermique, Vapeur, Utilités",[ 3.7317643 -1.0520744  1.4998825 ...  1.3584905 -0.3600488 -0.5189802]
+710,"Réinjection des condensats dans la bâche alimentaire avec une légère surpression, Bâche alimentaire, Vapeur, Utilités",[ 3.3223424 -1.2445595  0.6584424 ... -1.4769156 -1.1035441 -1.7229695]
+711,"Echangeur de récupération de chaleur, Récupération de chaleur, Chaudière, Utilités","[ 5.19384    -1.8581095   2.6909034  ...  2.0728052  -0.46688524
+ -0.49940434]"
+712,"Décentralisation de la production de vapeur, Gestion et pilotage, Chaudière, Utilités","[ 2.621284   -0.871695    0.31454214 ...  0.7916888  -1.5123298
+ -0.9871227 ]"
+713,"Analyse de la répartition des consommations électriques, Indicateurs et tableau de bord, Mesure et comptage d’énergie, Management (ISO 50 001)","[ 0.84578896 -1.1881089   0.9941167  ...  0.24918497 -0.52388906
+  0.13671549]"
+714,"Arrêt des équipements non-utilisés, Bureautique, Bâtiment","[ 0.86793405  0.03989646 -1.1989444  ... -0.20585696 -0.4112858
+  0.381385  ]"
+715,"Equipements munis du label Energy Star, Bureautique, Bâtiment","[ 1.4560854   1.4570292  -0.3868793  ... -0.07530347 -0.11728036
+ -1.4482247 ]"
+716,"Recharge des batteries d'appareils de manutention la nuit, Appareils électriques, Bâtiment","[ 2.2095153  -0.3522272  -0.60026973 ... -1.0230721  -0.06140726
+ -0.22298859]"
+717,"Régulateur pour extinction automatiques des appareils, Régulation, Distribution électrique, Utilités","[ 1.5323992  -2.1863685  -1.4317334  ...  0.16930555 -0.08265889
+ -0.86792964]"
+718,"Contrainte d’efficacité énergétique intégrée lors des travaux réglementaires, Isolation, Enveloppe, Bâtiment","[-0.36697552  0.17725232  0.5917818  ...  0.6544399  -0.40106758
+ -0.07423232]"
+719,"Système de Variation Electronique de Vitesse (VEV) sur un moteur électrique, Régulation, Moteur, Utilités","[ 1.580908   -0.6084206   0.17221043 ... -1.1247585   0.2780065
+  0.25180024]"
+720,"Récupérateur de chaleur sur un compresseur d'air comprimé (hors chauffage des locaux), Récupération de chaleur, Air comprimé, Utilités",[ 4.041114  -1.1152713  0.9432669 ...  1.0784763 -1.1395776 -0.7287288]
+721,"Transformateur à haut rendement pour l'alimentation basse tension d'un site industriel, Transformateur, Distribution électrique, Utilités","[ 2.7087905   0.3265169  -1.0803951  ...  0.7033181  -0.67332125
+ -0.15538241]"
+722,"Moto-variateur synchrone à aimants permanents, Moteur, Moteur, Utilités","[ 0.6934981  -0.24420564  0.771603   ... -0.2163838   0.56535375
+ -0.69410396]"
+723,"Régulation pour une basse pression flottante, Régulation, Froid, Utilités","[ 0.72399837 -1.2104965  -0.9538269  ... -0.64669305 -1.0969135
+ -0.35462263]"
+724,"Haute pression flottante, Régulation, Froid, Utilités","[ 0.80450743 -1.6872638  -1.0242604  ... -0.6019452  -0.5590769
+  0.34601766]"
+725,"Brûleur avec dispositif de récupération de chaleur sur four industriel, Brûleur, Fours, combustion, Procédés","[ 3.8967001   1.2522956  -0.7179843  ...  0.20215376 -0.4137619
+  0.3926931 ]"
+726,"Système de régulation de tension en éclairage extérieur, Régulation, Eclairage, Bâtiment","[ 0.9015826  -0.70547885 -1.396357   ... -0.65493655 -0.4373089
+  0.19343539]"
+727,"Système de maîtrise de la puissance réactive en éclairage extérieur, Gestion et pilotage, Eclairage, Bâtiment","[ 1.7546142   0.08007037 -0.5203637  ... -0.6791057  -1.5225096
+  0.73509866]"
+728,"Système de variation de puissance en éclairage extérieur, Régulation, Eclairage, Bâtiment","[ 1.3355817  -1.0320671  -1.0661565  ... -1.0789518  -1.800868
+  0.39566895]"
+729,"Luminaire d'éclairage extérieur performant, Luminaire, Eclairage, Bâtiment","[ 0.93439364 -0.5063517  -1.127985   ... -0.31637216 -0.57997483
+  0.02653338]"
+731,"Transformateur à haut rendement pour la distribution publique d'électricité, Transformateur, Distribution électrique, Utilités","[ 2.1679828  -0.25978392 -0.70465827 ...  0.643406   -1.0488707
+ -0.57373595]"
+732,"Production de chaleur renouvelables ou de récupération en réseau, Production, Réseau de chaleur, Technologies énergétiques","[ 3.6047785  -1.5493066   0.48926824 ...  1.7063245  -0.75980663
+ -0.19456093]"
+733,"Injection de mousse isolante dans un caniveau de réseau de chaleur., Réseau, Réseau de chaleur, Technologies énergétiques","[ 2.5657065  -1.5618575   1.4138311  ...  1.2546103  -1.1148016
+ -0.42878217]"
+734,"Réhabilitation d'un poste de livraison de chaleur, Réseau, Réseau de chaleur, Technologies énergétiques","[ 3.2438347   0.01598025  1.0761862  ...  1.9872046  -1.7947283
+  0.07168148]"
+736,"Ballon de stockage d'eau chaude de type ""Open Buffer"", Production, Eau de procédés, Eau","[ 3.7164168  -2.476327   -0.8536173  ...  0.07604051 -2.5237985
+  0.11878273]"
+737,"Ballon de stockage d'eau chaude pour les serres agricoles, Production, Eau de procédés, Eau","[ 3.0409844  -1.8527969  -0.55049396 ...  0.7506009  -1.5602077
+  0.06051115]"
+738,"Pré-refroidisseur de lait, Récupération de chaleur, Froid, Utilités","[ 3.8409226  -1.1794999   0.18990536 ...  0.59568536 -1.7389771
+  0.46039495]"
+739,"Ordinateur climatique avec module d'intégration de température pour l'agriculture, Chauffage, CVC, Bâtiment","[ 0.94136363 -0.3118364   0.02308923 ... -0.46205783 -0.6182305
+ -1.0073131 ]"
+742,"Contrôle du moteur d'un tracteur, Maintenance, Transport, Technologies énergétiques","[ 1.215386    0.8944849  -1.3994169  ...  0.54454625  0.67045885
+  1.1463728 ]"
+743,"Inventaire et évaluation des systèmes de pompage, Gestion et pilotage, Pompe, Utilités","[ 3.0011215  -0.72901535  0.04073013 ...  0.9555978  -1.003842
+ -0.5876632 ]"
+744,"Contrat EJP, Contrat, Gestion des énergies, Management (ISO 50 001)","[ 1.0033736  -0.6302748   1.2715744  ... -0.42550904 -1.4419037
+ -0.5169252 ]"
+745,"Comparaison par rapport à une consommation de référence, et partage des gains aux salariés, Sensibilisation, Organisation, Management (ISO 50 001)","[ 0.78902006 -0.6464354   1.1932361  ...  0.0421315   0.15081534
+ -1.0461719 ]"
+746,"Couleurs claires pour les murs, Gestion et pilotage, Bâtiment","[ 2.229097   -0.4904585   0.918682   ... -0.5431551  -1.9965781
+ -0.65833026]"
+748,"Arrêt des appareils électriques, Appareils électriques, Bâtiment","[ 1.7602599  -1.9856418  -1.5212746  ... -0.22836033 -0.1266277
+ -0.02406706]"
+749,"Dégivrage du réfrigérateur, Appareils électriques, Bâtiment","[ 2.760135   -1.2485486  -0.10438911 ...  0.38776952 -0.11419588
+  0.27586424]"
+750,"Fermeture des robinets et identification des fuites, Réseau, Eau Chaude Sanitaire, Eau","[ 2.7453754  -2.1100368   0.24202484 ...  0.22563697 -2.0288565
+  0.09790622]"
+752,"Entretien du chauffe eau, Production, Eau Chaude Sanitaire, Eau","[ 3.7484     -2.2429705  -0.0206788  ...  0.00951894 -1.6224293
+  0.6644693 ]"
+753,"Manipulation des ampoules par le culot pour préserver leur durée de vie, Maintenance, Eclairage, Bâtiment","[ 0.2755091  -1.20414    -0.42908078 ...  0.03193774 -0.61364704
+  0.13589643]"
+754,"Programmation des lessives aux heures économiques, Appareils électriques, Bâtiment","[ 1.7343674  -0.9736824  -1.2675496  ...  0.29307294  1.2442129
+ -0.39679402]"
+755,"Rincage des plats les plus sales sous l'eau froide avant de les mettre au lave vaisselle, Appareils électriques, Bâtiment","[ 2.7729685  -1.3830549   0.11153016 ... -1.1003683  -1.4133968
+  0.75174713]"
+756,"Congélateur installé dans une zone sèche, Appareils électriques, Bâtiment","[ 1.3756078  -2.1503906  -1.5942184  ... -0.39243567 -1.3163002
+ -0.31856352]"
+757,"Diminution du temps d'ouverture des portes du réfrigérateur et congélateur, Appareils électriques, Bâtiment","[ 0.46590936 -0.7902217  -0.68113023 ... -0.5054818  -0.7224367
+ -0.52187246]"
+758,"Réglage des équipements frigorifiques à une température optimale, Appareils électriques, Bâtiment","[ 0.41293934 -0.87801194 -0.5493482  ...  0.03159459 -0.71285987
+ -0.27387726]"
+759,"Préférence des douches plutôt que des bains afin d'économiser l'eau., Réseau, Eau Chaude Sanitaire, Eau","[ 3.3353815e+00 -2.7382038e+00 -2.2764560e-03 ... -8.2762435e-02
+ -1.2674327e+00  1.9112512e+00]"
+760,"Vérification des fuites au niveau des chasses d'eau, Réseau, Eau Chaude Sanitaire, Eau","[ 3.1892889  -2.1339757  -0.1062999  ...  0.1880487  -0.97976136
+  0.61801225]"
+761,"Utilisation d'une chasse d'eau à double commande, Réseau, Eau Chaude Sanitaire, Eau","[ 1.9820452  -2.4451437   0.06733571 ...  0.7176397  -1.2542509
+  0.79954857]"
+763,"Entretien de la chaudière individuelle régulièrement, Maintenance, Chaudière, Utilités","[ 2.3239675   0.3657367   0.21111482 ... -0.12896743 -0.6511322
+  0.38766605]"
+765,"Programmation du chauffage en fonction de la présence, Chauffage, CVC, Bâtiment","[ 1.2218677   0.3415336  -0.21412149 ...  0.44674924 -1.815925
+ -1.1541281 ]"
+766,"Nettoyage des convecteurs, Chauffage, CVC, Bâtiment","[ 1.2645439  -0.02879274 -0.339056   ...  0.10969079 -0.7306119
+ -1.184503  ]"
+767,"Fermeture des rideaux et volets la nuit, Chauffage, CVC, Bâtiment","[ 1.699823    0.713968    0.9228774  ... -0.29393816 -1.8163711
+ -1.583703  ]"
+768,"Amélioration de l'isolation de fours à haute température, Maintenance, Fours, combustion, Procédés","[ 1.3426543   1.8926554  -1.6420641  ...  0.75457615  0.35433152
+  1.8271128 ]"
+769,"Pré-séchage la matière humide par énergie solaire., Séchage, Procédés",[ 2.5023563 -1.0357124  0.5587905 ... -0.6130789 -0.412011   0.7121927]
+770,"Utilisation des lignes de production à leur capacité maximale., Gestion et pilotage, Procédés","[ 3.0044978  -0.95168936 -1.343849   ...  0.19798715  1.3691467
+  0.7577264 ]"
+771,"Récupération de la chaleur de l'acier qui refroidit, Récupération de chaleur, Procédés","[ 4.3064198e+00 -1.0989985e+00  1.7902806e+00 ... -1.3830662e-03
+  3.0996308e-01  8.5870820e-01]"
+772,"Logiciel embarqué de gestion des déplacements, Gestion et pilotage, Transport, Technologies énergétiques","[ 1.8091294  -0.02174051  0.06859341 ...  0.18715155  0.2665153
+ -0.44042662]"
+773,"Cartographie des fours, Gestion et pilotage, Fours, combustion, Procédés","[ 3.4467847   0.32619438 -0.69637936 ...  0.7906385  -0.44211638
+  1.0155145 ]"
+774,"Détendeurs électroniques pour optimiser la régulation frigorifique, Détendeur, Froid, Utilités","[ 2.5131094  -1.4921056  -0.33971146 ... -0.01338322 -0.219349
+ -0.14619364]"
+776,"Isolation des process chauds, Gestion et pilotage, Procédés","[ 2.4387934  -1.3680632  -0.28102255 ...  0.8486541  -0.7498577
+  1.5812937 ]"
+777,"Brûleurs haut rendement en remplacement de brûleurs vétustes, Brûleur, Fours, combustion, Procédés","[ 2.0506418   1.8873817   0.20034504 ...  1.0178154   0.07648732
+ -0.05801293]"
+778,"Dimensionnement optimum des compresseurs et remplacement des équipements surdimensionnés., Compresseur, Air comprimé, Utilités","[ 2.604599    0.7271709   0.03163808 ...  0.7263996  -0.42957416
+ -0.8633898 ]"
+779,"Diagnostic complet de la production et du réseau d'air comprimé, Gestion et pilotage, Air comprimé, Utilités","[ 3.6801507  -1.116604    0.18594645 ...  0.56428415 -1.1938274
+ -0.670317  ]"
+780,"Récupération de la chaleur des procédés industriels, Récupération de chaleur, Procédés","[ 4.2773767  -0.695168    1.3092128  ...  0.5197809   0.38403538
+  0.7038428 ]"
+781,"Réduction catalytique du N2O dans des usines d'acide nitrique, Gaz industriel, Procédés","[ 0.4017839  -0.53688586  1.6851051  ... -0.14099795 -0.81144196
+ -0.4146144 ]"
+782,"Destruction de N2O rejeté lors de la production de N2O applicable aux installations existantes, Gaz industriel, Procédés","[ 1.484773   -1.1211138   0.5725928  ...  0.28035358 -0.37174654
+  0.10684756]"
+783,"Optimisation de la matière sèche, en amont du process de déshydratation – andainage, Séchage, Procédés","[ 2.2695923  -0.16534679 -0.03416381 ... -1.261016   -0.1497492
+ -0.2556705 ]"
+784,"Chaufferie biomasse dans l'industrie en remplacement de chaudières à énergie fossile, Valorisation, Biomasse, Nouvelles énergies","[ 3.0309682  -0.28365734  0.09950143 ...  1.842538   -1.0384679
+ -0.2594727 ]"
+785,"Destruction de N2O émis par la production d’acide adipique, Gaz industriel, Procédés","[ 1.7590095  -1.4239479   0.8467838  ...  0.592385   -0.26511514
+ -0.7770233 ]"
+786,"Thermo-oxydation des Gaz à Effet de Serre effluents gazeux des installations de production industrielle, Gaz industriel, Procédés","[ 2.1669972  -0.3741543   1.7358596  ...  0.9232636  -0.24014771
+ -0.35172716]"
+787,"Thermo-oxydation du prototype d’azote (N2O) dans les effluents gazeux des installations existantes de production industrielle, Gaz industriel, Procédés","[ 1.8558017  -0.80632037  0.6409902  ...  0.5316884  -0.45913798
+ -0.93228954]"
+789,"Optimisation de la maintenance des moteurs, Maintenance, Moteur, Utilités","[ 1.686997    0.42894906  0.32278776 ...  0.7557738  -0.24355999
+ -0.1139273 ]"
+790,"Optimisation de l'efficacité des tours de refroidissement, Condenseur, Froid, Utilités","[ 1.5085816  -0.63119584 -0.51634175 ...  1.0870231  -0.39468437
+  0.16537537]"
+791,"Régulation de débit par variation électronique de vitesse asservie à la pression, Régulation, Pompe, Utilités","[ 1.6146915  -1.1397195  -0.02402538 ... -1.6663421  -1.0150734
+ -0.7849889 ]"
+793,"Diminution de la surchauffe, Régulation, Froid, Utilités","[ 0.3138811  -1.2456284  -1.3992037  ... -0.47005478  0.10717484
+ -0.06578851]"
+794,"Maintenance des pompes et réseaux d'eau, Maintenance, Pompe, Utilités","[ 3.3074367  -1.3031687  -0.70118725 ...  1.2470578  -1.121105
+ -0.72818923]"
+796,"Campagne d'analyse de l'énergie réactive par bâtiment, Gestion et pilotage, Distribution électrique, Utilités","[ 1.8368204  -0.97833    -1.064224   ...  0.6015301  -1.5396919
+  0.23704085]"
+797,"Suivi de la facturation d’électricité, Contrat, Gestion des énergies, Management (ISO 50 001)","[ 0.2959018  -0.50496054  0.9534787  ... -0.223515   -1.9909699
+  0.040432  ]"
+798,"Récupération de l'excès de vapeur, Récupération de chaleur, Vapeur, Utilités","[ 3.8545399  -0.7014154   1.7771746  ...  0.6919461   0.23292169
+  0.18281285]"
+799,"Réparation du four pour éliminer les entrées d'air sauvages, Maintenance, Fours, combustion, Procédés","[ 3.2359326   1.3334494  -0.41491386 ...  0.2769018  -0.16891386
+  0.75145525]"
+800,"Récupération de chaleur pour alimenter un réseau de chaleur urbain, Récupération de chaleur, Procédés","[ 4.211433   -1.5693499   1.1844019  ...  1.0355148  -0.7412631
+ -0.05638687]"
+801,"Création d'une unité de recyclage et de valorisation des appareils frigorifiques ménagers, Tri, Déchets","[ 2.7319145   0.158655    0.735833   ...  1.420875   -0.39268088
+ -0.47569856]"
+802,"Développement d'une fonte à faible résistivité, Gestion et pilotage, Procédés","[ 1.3029817  -0.39994827  0.47509703 ...  0.5578285   0.3698314
+ -0.4169185 ]"
+803,"Analyse du besoin en froid des procédés pour identifier la répartition des besoins, Gestion et pilotage, Froid, Utilités","[ 2.3181517  -0.8911963  -0.56056434 ...  0.32534042  0.09469397
+  0.45640233]"
+804,"Valorisation des rejets pour créer du biogaz par méthanisation, Valorisation, Méthanisation / Biogaz, Nouvelles énergies",[ 2.576626  -1.0444206  0.5743067 ...  0.6870041  1.6568263 -1.9299172]
+805,"Regroupement de plusieurs sites pour réduire les flux de camions, Gestion et pilotage, Transport, Technologies énergétiques","[ 2.175929   -0.12777565 -0.69372493 ... -0.06355251  0.6980375
+ -0.64068097]"
+806,"Bande transporteuse entre l'arrivée des matières et la zone de rangement., Matériel roulant, Transport, Technologies énergétiques","[ 3.221591    1.0020632  -1.4655645  ... -1.2911273   0.20139726
+  0.42776808]"
+807,"Dispositif de visioconférence sur les sites du groupe, Gestion et pilotage, Transport, Technologies énergétiques","[ 1.0395988  -1.0073779   0.33939162 ...  0.14883989  0.1137228
+ -0.5535012 ]"
+808,"Fermeture isolante, Vitrage, Enveloppe, Bâtiment","[ 0.47352907  0.10002715  0.69081146 ... -1.0996623  -0.47234246
+ -0.564674  ]"
+810,"Chauffe-eau thermodynamique individuel à accumulation, Production, Eau Chaude Sanitaire, Eau",[ 3.0153546 -2.7002234  0.8874336 ...  0.4733975 -2.2659194  0.1705355]
+812,"Pompe à chaleur collective à absorption de type air/eau ou eau/eau, Chauffage, CVC, Bâtiment","[ 3.1336768  -1.5360595   1.3957534  ...  0.5724787  -1.9485092
+ -0.63259566]"
+813,"Chaudière de type basse température couplée à une ventilation mécanique contrôlée pilotée par la chaudière, Chaudière, Chaudière, Utilités","[ 2.1573417  -0.52387565 -0.29359484 ...  0.51664364 -2.2045255
+ -0.16572674]"
+814,"Chauffe-eau électrique à accumulation de catégorie C, Production, Eau Chaude Sanitaire, Eau","[ 4.044751   -3.1807802   0.6480381  ...  0.10819298 -2.404234
+  0.67877257]"
+817,"Porte pour fermeture des meubles frigorifiques de vente à température positive, Meuble frigorifique, Froid, Utilités","[ 2.5440385  -0.34540123 -0.10026599 ...  0.43558127 -2.5647662
+  0.03809182]"
+818,"Réduction des apports solaires par la toiture, Isolation, Enveloppe, Bâtiment","[ 0.02374682  0.3034711   0.7424299  ... -1.3131645  -0.09262051
+ -0.6703253 ]"
+820,"Pompe à chaleur à absorption de type air/eau ou eau/eau, Chauffage, CVC, Bâtiment","[ 3.1332808  -1.3736333   1.2133502  ...  0.32689548 -1.7473732
+ -0.47074187]"
+821,"Pompe à chaleur à moteur gaz de type air/eau, Chauffage, CVC, Bâtiment","[ 2.9479892  -0.63300836  0.4228571  ...  1.5010805  -0.9556954
+ -0.6928824 ]"
+823,"Ventilo-convecteur haute performance, Chauffage, CVC, Bâtiment","[ 0.19328213  0.26013574  0.5262743  ...  0.3160416  -0.75130874
+ -0.88470536]"
+824,"Dé-stratificateur d'air, Chauffage, CVC, Bâtiment","[ 1.4774414  -0.23982044 -0.47630283 ...  0.07281454 -1.1064807
+ -0.59500843]"
+826,"Evaporateur performant, Evaporateur, Froid, Utilités","[ 2.1178467  -1.9842682   0.3092919  ... -0.28372267 -0.03912336
+ -0.7278326 ]"
+827,"Gonflage des pneumatiques pour véhicules légers et véhicules utilitaires légers, Maintenance, Transport, Technologies énergétiques","[ 1.9164478  -0.03588262 -0.53077024 ...  0.20680395 -1.2687984
+  0.29286024]"
+828,"Décreusage des pneumatiques de poids lourds, Maintenance, Transport, Technologies énergétiques","[ 1.7477325   1.6515712  -0.641321   ...  0.39028832 -0.03700904
+  0.45415232]"
+829,"Changement de catégorie de consommation des véhicules de flottes professionnelles, Matériel roulant, Transport, Technologies énergétiques","[ 0.7546118  -0.73378336  0.280383   ... -0.08950973 -0.5874252
+ -0.16524398]"
+831,"Récupérateur de chaleur sur un tank à lait, Récupération de chaleur, Froid, Utilités","[ 4.5062733  -1.1532177   1.1327827  ...  1.4169807  -1.0557715
+  0.20276335]"
+832,"Chaufferie biomasse dans l'agriculture, Chaudière, Chaudière, Utilités",[ 2.7263649 -1.2606922 -0.8489372 ...  2.3254502 -1.6323519 -0.232542 ]
+833,"Pompe à chaleur de type eau/eau ou air/eau dans l'agriculture, Chauffage, CVC, Bâtiment","[ 3.379709   -1.2223511  -0.27174887 ...  0.6009714  -1.4897343
+ -0.04143216]"
+834,"Basse pression flottante dans l'agriculture, Régulation, Froid, Utilités","[ 0.9167011  -0.798014   -1.337469   ... -0.07576685 -0.68067986
+  0.20910904]"
+835,"Haute pression flottante dans l'agriculture, Régulation, Froid, Utilités","[ 0.7260716  -0.7214503  -1.2680514  ...  0.04162474 -0.41098967
+  0.08311482]"
+836,"Double écran thermique pour les serres agricoles, Isolation, Enveloppe, Bâtiment","[-0.06507237  0.09992393  0.49440235 ... -0.42708656  0.5085086
+  0.43849522]"
+839,"Tube fluorescent haut rendement T8 sur un dispositif d'éclairage, Luminaire, Eclairage, Bâtiment","[ 1.4071392  -0.18277393  0.00908883 ...  0.04053581 -0.9300545
+  0.7723577 ]"
+840,"Formation de chefs d'entreprises, salariés et artisans du bâtiments aux économies d'énergie, Covoiturage, Transport, Technologies énergétiques","[ 2.1170962  -0.12007631  0.53378624 ...  0.04761703  0.396602
+ -1.6652601 ]"
+844,"Ventilation mécanique répartie, Ventilation, CVC, Bâtiment","[-0.43865773  0.02916662 -0.30202335 ...  0.57815546 -1.8690145
+  0.36997196]"
+845,"Panneaux rayonnants électriques ou radiateurs à régulation électronique, Chauffage, CVC, Bâtiment","[ 1.5042092  -0.34546974  0.385762   ... -0.852321   -1.1227005
+ -1.1729966 ]"
+846,"Lampe fluo-compacte avec globe de classe B, Luminaire, Eclairage, Bâtiment","[ 0.3521887   0.14512594 -0.36928222 ... -0.378373   -2.2700784
+  0.58094525]"
+847,"Remplacement de lampes à vapeur de mercure par des technologies performantes, Luminaire, Eclairage, Bâtiment","[ 0.8073015   0.05589863  0.78872204 ... -0.07338711  0.15599114
+  0.19167887]"
+849,"GTC qui contrôle l'éclairage intérieur et extérieur, Gestion et pilotage, Eclairage, Bâtiment","[ 2.1601448   0.06156584 -0.7722031  ... -0.06736317 -1.4704642
+ -0.9005144 ]"
+850,"Remplacement des luminaires T8 par des luminaires T5 avec ballast électronique intégré, Gestion et pilotage, Eclairage, Bâtiment","[ 1.231421   -0.31147853  0.21573703 ...  0.43562934 -0.87478215
+ -0.8241239 ]"
+851,"Remplacement des lampes à vapeur de mercure à ballast magnétique par des tubes fluorescents T5, Luminaire, Eclairage, Bâtiment","[ 0.95882654  0.13095473  1.4163041  ...  0.3092522  -1.3519584
+ -0.2764486 ]"
+852,"Remplacement des anciens équipements par des lampes plus efficaces et de puissances inférieures, Gestion et pilotage, Eclairage, Bâtiment","[ 1.5497526  -0.8177372   0.46480948 ...  0.03085631 -0.3849589
+ -0.5076169 ]"
+853,"Remplacement des câbles électriques mal dimensionnés, Réseau, Distribution électrique, Utilités","[ 1.2467699  -0.51301605 -0.45729366 ...  1.5031309  -0.81045324
+ -0.87811077]"
+854,"Réglage de la luminosité avec une télécommande, Gestion et pilotage, Eclairage, Bâtiment","[-1.043615   -0.9357629   0.90267605 ... -0.33696207 -1.4082155
+ -1.3923192 ]"
+855,"Ballasts électroniques de catégorie A2 en remplacement de ballasts ferromagnétiques, Régulation, Eclairage, Bâtiment","[ 0.29713523 -0.969299   -0.00967242 ...  0.8814818  -1.2915696
+ -1.1186707 ]"
+856,"Ajout d'interrupteurs pour contrôler l'allumage par zones dans une pièce, Gestion et pilotage, Eclairage, Bâtiment","[-0.4978934  -0.7109773  -1.1060996  ...  0.04533143 -1.5320467
+ -0.73006505]"
+857,"Gestion Technique Centralisée (GTC) sur les centrales de traitement d'air, Ventilation, CVC, Bâtiment","[ 1.8343242  -0.26563886  0.64102286 ... -0.24661565 -1.8378682
+ -0.9429361 ]"
+858,"Panneaux photovoltaïques pour alimenter les systèmes d'éclairage, Capteur, Solaire photovoltaïque, Nouvelles énergies","[ 1.7549793  -1.5803269  -0.88318413 ...  0.7572013   0.44750887
+ -0.22517098]"
+859,"Lampes à sodium haute pression pour éclairage extérieur en remplacement de lampe à vapeur de mercure, Luminaire, Eclairage, Bâtiment","[ 0.3598302  -0.73018014  0.08346091 ... -0.8583167  -1.1560853
+  0.1369143 ]"
+861,"Lampes à décharge avec réduction de la tension d'allumage intégrée, Luminaire, Eclairage, Bâtiment","[ 0.6080837  -0.21149816 -0.8835816  ... -0.26027963 -1.5834668
+  0.3226735 ]"
+863,"LED pour la signalisation tricolore, Luminaire, Eclairage, Bâtiment","[ 1.010192   -0.22871077 -2.0624645  ...  0.36648318 -1.5293441
+ -0.16916886]"
+864,"Vanne d'isolation sur l'arrivée vapeur, Vanne, Vapeur, Utilités","[ 3.2990408  -0.3375653  -0.46206263 ...  0.9678886  -1.4469843
+  0.6079265 ]"
+865,"Dégazeurs thermiques sur chaudière vapeur, Traitement de l'eau, Chaudière, Utilités","[ 3.9909422  -0.92785543 -0.09576728 ...  1.4518234  -1.6289096
+ -0.35589585]"
+866,"Révision du système frigorifique, Gestion et pilotage, Froid, Utilités","[ 1.1155812  -0.5011252  -0.664754   ...  0.21983561 -1.375851
+  0.53912556]"
+867,"Gestion centralisée de la production frigorifique, Gestion et pilotage, Froid, Utilités","[ 2.7734807  -0.8886655  -0.4376318  ... -0.11189233 -1.7992747
+ -0.5787799 ]"
+868,"Compteurs pour suivre la consommation d'eau chaude, Réseau, Eau Chaude Sanitaire, Eau","[ 3.634939   -2.6411202   0.3750441  ...  0.03145362 -2.067652
+  0.79369473]"
+869,"Stockage pour récupération de l'eau perdue, Réseau, Eau de procédés, Eau","[ 4.922268   -1.5659674   0.22570457 ... -0.77366537 -1.8674079
+  0.7617902 ]"
+870,"Réutilisation du CO2 émis par les process pour injection dans procédé de fermentation, Gaz industriel, Procédés","[ 2.7957218  -1.166499    0.5457931  ...  0.35523936  0.22662818
+  0.00788658]"
+871,"Compresseurs frigorifiques de type Scroll, Centrale froid, Froid, Utilités","[ 2.641569   -0.4277173  -1.4499313  ...  1.2789186  -2.0333788
+ -0.06103441]"
+872,"Délestage des équipements électriques, Ajustement production/besoin, Moteur, Utilités","[ 2.0952845  -1.230529   -0.22183533 ... -0.39228204  0.22758856
+  0.611226  ]"
+873,"Brûleurs de gaz naturel à veine d'air en remplacement des échangeurs de vapeur, Séchage, Procédés","[ 2.354729    0.7210522   0.27098548 ...  0.25777242 -0.9180778
+ -0.29766715]"
+874,"Création d'une installation de prétraitement des effluents, Production, Assainissement, Eau","[ 3.343889   -0.71381074 -0.04972136 ...  0.71338946 -0.12093429
+ -1.3921802 ]"
+875,"Brûleur bas-NOX, Brûleur, Fours, combustion, Procédés","[ 2.0074875   0.79145145 -0.6609295  ...  0.54981977 -0.4734178
+  1.3434533 ]"
+876,"Arrêt des pompes quand les process ne tournent plus, Ajustement production/besoin, Pompe, Utilités","[ 3.4141164e+00 -1.7767268e+00 -9.4845539e-01 ... -8.9534834e-02
+  2.2671039e-03 -5.2678680e-01]"
+877,"Replacement du brûleur et des tubes de l'échangeur du four, Maintenance, Fours, combustion, Procédés","[ 3.0212815   1.7228295   0.6879665  ...  1.0067223  -1.1794798
+  0.48950025]"
+878,"Combustible de meilleure qualité, Gestion et pilotage, Chaudière, Utilités",[ 1.888105  -0.7252013  0.3745306 ...  1.1336607 -1.0247383 -1.4138378]
+879,"Procédures d'arrêt des fours électriques optimisées, Gestion et pilotage, Fours, combustion, Procédés","[ 2.6445532   0.52280235 -0.7467303  ...  0.7071611  -0.2463488
+  0.24453819]"
+881,"Repositionement du bruleur pour être assuré qu'il couvre la totalité de la chambre de combustion., Brûleur, Fours, combustion, Procédés","[ 1.6437329   0.9613697   0.27755275 ...  0.3034299  -0.9591217
+  1.3209532 ]"
+882,"Amélioration de la conduite du procédé de fours pour acierie et aluminium, Régulation, Fours, combustion, Procédés","[ 2.279936    0.0268786  -1.1764655  ... -0.48056844  0.6086627
+  1.035472  ]"
+883,"Récupération de chaleur sur un four à arc électrique, Récupération de chaleur, Procédés",[4.079514   0.02701538 1.2962642  ... 0.6498237  0.35029307 1.012577  ]
+884,"Hottes au dessus des fours pour récupérer la chaleur, Récupération de chaleur, Fours, combustion, Procédés","[ 4.220894   -0.30108038 -0.00625436 ...  0.8909337  -0.6197649
+  1.0812545 ]"
+885,"Optimisation de la consommation de nitrogène dans la production d'acier, Gaz industriel, Procédés","[ 1.6261204   0.29892322  1.2503766  ...  0.33817965  0.45933297
+ -1.073263  ]"
+886,"Optimisation de la consommation d'oxygène dans la production d'acier, Gaz industriel, Procédés","[ 2.4308581e+00  5.3035642e-04  1.7190889e+00 ... -5.0242562e-02
+  2.2028968e-01 -2.1773118e-01]"
+887,"Compteur d'eau pour suivre et comprendre les consommations, Réseau, Eau de procédés, Eau","[ 3.8993537  -2.045194   -0.48319498 ... -1.0262662  -2.5152442
+  0.1725856 ]"
+888,"Technologie de nettoyage performante adaptée au procédé, Maintenance, Procédés","[ 2.3901744  -0.84526575 -0.11305269 ...  0.03173016  1.1028681
+  1.055597  ]"
+889,"Vérification le dimensionnement et l'utilisation des procédés en comparaison du besoin réel, Gestion et pilotage, Procédés","[ 1.8961251   0.40508133 -0.42951608 ... -0.0173521   0.80075455
+  0.5319889 ]"
+890,"Augmentation de la température de consigne de la boucle d'eau de refroidissement, Ajustement production/besoin, Froid, Utilités","[ 1.6668946  -2.017328    0.08678808 ...  0.16420469 -0.1435147
+  1.0941865 ]"
+891,"Variation de l'angle des pales du système tournant, Réseau, Ventilation, Utilités","[ 1.7286026  -0.76612484 -0.33601582 ... -0.3140107   0.08883776
+  0.44012043]"
+892,"Optimisation de la gestion des circuits électriques, Réseau, Distribution électrique, Utilités","[ 3.2077098  -0.5331123   0.07616279 ... -0.10831963 -0.5698371
+ -0.75987333]"
+893,"Création d'un poste de gestionnaire de flux, Sensibilisation, Organisation, Management (ISO 50 001)","[ 1.3451551   0.17499574  0.67297935 ... -0.69806993 -0.75717235
+ -0.12751216]"
+894,"Identification puis remplacement des thermostats défectueux, Régulation, Chaudière, Utilités","[ 2.0564282  -0.72883934  0.4528207  ...  0.38658673 -0.8657769
+ -0.7367025 ]"
+896,"Identification des sources de déperditions thermiques du bâtiment, Gestion et pilotage, Bâtiment","[ 1.6597706   0.18695626  0.3935512  ... -0.12939589 -0.9869769
+ -1.0997635 ]"
+897,"Analyse thermographique aérienne, Isolation, Enveloppe, Bâtiment","[-0.25975072 -1.3660454   0.6854138  ...  1.016629   -1.1219052
+  0.51204944]"
+898,"Unité de gazéification du bois, Gazéification, Nouvelles énergies","[ 3.0269969   0.21363227  1.246852   ...  2.5983083  -1.2593153
+ -0.47028452]"
+899,"Production de Biodiesel, Biocarburant, Biocarburants, Nouvelles énergies",[ 3.0039198 -0.638878   0.2176203 ...  0.9879209  1.2124771 -1.316989 ]
+900,"Véhicule fonctionnant au biogaz, Matériel roulant, Transport, Technologies énergétiques","[ 2.9877803  -0.44898805  0.22244376 ... -0.37978232  1.2624048
+  0.7346392 ]"
+901,"Démarche HQE, Management (ISO 50 001)","[ 0.38816246  0.41917717  1.7091844  ... -0.607366   -1.1026424
+  0.46182695]"
+902,"Vanne thermo régulée sur un réseau d'eau glacée, Réseau, Froid, Utilités",[ 1.9805803 -1.9011843 -1.6612254 ...  0.6943691 -2.5181675  0.3031198]
+903,"Vérification et diminution si possible les températures de chauffe des process, Gestion et pilotage, Fours, combustion, Procédés","[ 2.2023888   0.29810387 -0.7151938  ... -0.40800443 -0.82548404
+  0.5187537 ]"
+904,"Remplacement du système de régulation sur le réseau d'eau chaude sanitaire, Production, Eau Chaude Sanitaire, Eau","[ 3.0984433  -2.4440892   0.08751199 ...  0.6204491  -2.1429155
+ -0.28299057]"
+905,"Limiteur de débit sur les douches, Réseau, Eau Chaude Sanitaire, Eau","[ 2.457705   -2.7305753   0.06809367 ... -0.3629375  -1.7004592
+  0.70983243]"
+906,"Réglage manuel des climatisations, Climatisation, CVC, Bâtiment","[-0.26498848 -1.4407504   0.20005348 ...  0.10367744 -1.5946703
+ -0.9014691 ]"
+907,"Dans les hôtels, remplissage prioritaire des chambres au nord en été et des chambres au sud en hiver, Gestion et pilotage, Bâtiment",[ 2.5002782 -1.6093639  0.3996019 ...  1.6715701 -1.7672383 -0.6733629]
+909,"Chaufferie collective à gaz pour réseau d'eau chaude sanitaire, Production, Eau Chaude Sanitaire, Eau","[ 2.9731698  -3.0216787  -0.24471436 ...  1.2417996  -3.3290422
+ -0.05585252]"
+910,"Minuteurs sur luminaires intérieurs, Régulation, Eclairage, Bâtiment","[ 1.4128916  -1.8640231  -1.0985522  ... -0.22044922 -0.4489681
+ -1.2165389 ]"
+912,"Minuteurs sur luminaires extérieurs, Régulation, Eclairage, Bâtiment","[ 1.3589607  -1.643427   -1.138674   ... -0.27915415 -0.48439854
+ -0.98424166]"
+913,"Installation d'une éolienne, Production, Eolien, Nouvelles énergies","[ 1.6824126   1.095903    0.39720428 ...  2.2799537   1.530585
+ -0.28315747]"
+914,"Panneau solaire photovoltaïque, Capteur, Solaire photovoltaïque, Nouvelles énergies","[ 1.5556283  -1.4005973   1.0847845  ...  1.1267464   0.82419825
+ -0.7911067 ]"
+915,"Puits canadien pour préchauffer l'air, Chauffage, CVC, Bâtiment","[ 2.0380812  -0.5880846   0.33348694 ...  0.7379937  -2.0930395
+ -0.5701922 ]"
+916,"Production d'hydrogène pour stocker l'électricité, Hydrogène / Pile à combustible, Nouvelles énergies","[ 3.4307668  -0.25578156  0.9914226  ...  0.34716094 -0.01003239
+ -0.62663126]"
+917,"Isolation des fourreaux, Chauffage, Presse, Procédés","[ 1.0996325  -0.58888704 -1.146385   ...  2.108089   -0.7148994
+  1.8940514 ]"
+918,"Optimisation de la température du circuit de refroidissement des presses, Refroidissement, Presse, Procédés","[ 2.037969   -0.49094582 -0.21806115 ...  0.19702306 -0.08446281
+  0.760914  ]"
+919,"Presses à injecter tout-électrique en remplacement de presses à injecter hydrauliques, Circuit de puissance, Presse, Procédés",[2.4998202  0.2558533  0.782651   ... 0.02357782 0.21714187 0.52380705]
+920,"Récupération de chaleur sur l'épurateur des fours pour préchauffer la matière entrante, Récupération de chaleur, Fours, combustion, Procédés","[ 4.3016148   0.2587622   0.62549746 ...  0.7288065  -0.62244004
+  0.30667555]"
+921,"Certification HQE, Management (ISO 50 001)","[ 6.5487301e-01  4.3802941e-01  1.5631559e+00 ... -1.0397599e+00
+ -1.0060549e+00 -1.4846465e-04]"
+922,"Récupération de chaleur des compresseurs pour réchauffer le sol sous la chambre froide., Récupération de chaleur, Froid, Utilités","[ 2.3037803  -0.4416184   0.3021391  ...  1.4911774  -0.76887757
+  0.45441   ]"
+923,"Saumure pour le dégivrage des évaporateurs chauffée par récupération de chaleur, Récupération de chaleur, Froid, Utilités","[ 4.227256   -2.0003204   1.731466   ...  1.3511178  -0.9530909
+ -0.13706657]"
+924,"Variation de la courbe de chauffe en fonction de la température extérieure, Régulation, Chaudière, Utilités","[ 0.984086   -0.85607547  0.09569819 ...  0.83223844 -0.9316043
+ -0.06385735]"
+925,"Electrovanne pour l'optimisation de la régulation, Régulation, Pompe, Utilités","[ 1.7016932  -1.4524976  -0.40977803 ... -0.48308063 -0.44504994
+ -0.5713273 ]"
+926,"Electrovannes sur les soufflettes d'air comprimé, Soufflette, Air comprimé, Utilités","[ 2.7212067  -0.13047688 -0.15671201 ...  0.8515075  -1.4656764
+ -0.4734788 ]"
+928,"Rafraichisseur d'air à évaporation directe, Climatisation, CVC, Bâtiment",[ 1.7213509 -1.5654112  0.8577846 ... -0.9352696 -0.6837056 -0.9473844]
+929,"Bouclage du réseau d'air comprimé, Réseau, Air comprimé, Utilités",[ 3.6723695 -1.2227046  0.5325065 ...  0.6835473 -1.2541068 -0.3870147]
+930,"Optimisation de la quantité de produits à sécher, Séchage, Procédés","[ 2.3805325  -0.11285477 -0.00357589 ... -0.90399885  0.4510039
+ -0.53002876]"
+931,"Utilisation d'un four à sole tournante équipé de brûleurs régénératifs, Four, Fours, combustion, Procédés","[ 2.7377625   1.8036313  -0.67888045 ...  0.1989262  -1.1258471
+  1.2634612 ]"
+932,"Sensibilisation du personnel aux coûts de l'énergie, Sensibilisation, Organisation, Management (ISO 50 001)","[ 0.6170663  -0.09931908  1.3360578  ...  0.11906458 -0.509693
+ -0.21921276]"
+933,"Production au gaz semi-instantanée, Production, Eau Chaude Sanitaire, Eau","[ 3.7356486  -1.9818215  -0.24886255 ...  0.68502456 -2.0167503
+  0.14904328]"
+935,"Four à oxycombustion, Brûleur, Fours, combustion, Procédés","[ 3.41287     1.0770208  -0.18094514 ...  0.76649314 -0.6763866
+  0.5672164 ]"
+936,"Remplacement du four existant par un four plus performant, Four, Fours, combustion, Procédés","[ 2.8008962   2.1903603  -0.1260156  ...  0.33617508  0.02667434
+  1.4735714 ]"
+937,"Récupérateur de chaleur sur compresseur d'air comprimé pour le chauffage de locaux., Récupération de chaleur, Air comprimé, Utilités","[ 4.2264347  -0.96083075  1.308983   ...  1.1450629  -1.2102976
+ -0.7599861 ]"
+938,"Utilisation prioritaire des centrales de production les plus proches de l'utilisation du réseau, Ajustement production/besoin, Air comprimé, Utilités","[ 3.456735   -0.24677569 -0.43104348 ...  0.9724842   0.1295398
+  0.85499316]"
+940,"Optimisation du mode veille des presses à injection, Gestion et pilotage, Presse, Procédés","[ 1.3667644  -1.2543381   0.13096192 ...  0.93636876  0.9526456
+ -0.19984245]"
+941,"Optimisation du dosage des presses, Gestion et pilotage, Presse, Procédés","[ 2.0110447  -0.9147508  -0.9142169  ...  0.20831102  1.2975683
+  0.08513175]"
+942,"Chauffage des moules par induction sur presse à injecter, Chauffage, Presse, Procédés","[ 2.7199295  -0.5838819   0.5220053  ...  0.6923714  -0.5996675
+  0.20192064]"
+943,"Partage des bonnes pratiques entre les sites d'un même groupe, Stratégie et politique, Organisation, Management (ISO 50 001)","[ 1.4601953  -0.1641312   1.1344494  ... -0.6153061   0.06086645
+ -0.96868354]"
+944,"Clause d'efficacité énergétique dans les contrats d'exploitation et de maintenance, Contrat, Gestion des énergies, Management (ISO 50 001)","[ 0.3592472   0.21257728  0.91874933 ...  0.19009024 -0.9537131
+ -0.26099226]"
+945,"Niveau de pression optimum pour les pompes à vide, Ajustement production/besoin, Pompe, Utilités","[ 2.8847857  -1.8055222   0.07607711 ...  0.32576942  0.53218573
+ -1.0260894 ]"
+946,"Diagnostic énergétique bâtiment, Gestion et pilotage, Bâtiment","[-0.24762316  0.563253    1.1608411  ...  0.7244022  -0.4140112
+ -0.6566209 ]"
+947,"Centralisation du refroidissement hydraulique des presses à injection, Refroidissement, Presse, Procédés","[ 3.2049959  -0.90969926  0.13972855 ...  0.47238094 -0.4735379
+  0.856706  ]"
+948,"Optimisation du diamètre des vis et fourreaux de presse à injecter et d'unité d'extrusion, Circuit de puissance, Presse, Procédés",[2.4446986  0.40736106 0.59197587 ... 0.72132456 0.53607446 0.6675939 ]
+949,"Vérification de la qualité de l'air intérieur, Gestion et pilotage, Bâtiment","[-0.42176998  0.22515814  0.8927733  ...  0.37567946 -0.15848844
+ -1.571101  ]"
+950,"Démarche éco-conception, Management (ISO 50 001)","[ 0.8096987  -0.32285205  1.7068154  ...  0.3630821  -1.4384512
+ -0.23895979]"
+951,"Compteurs d'énergie thermique, Mesure et comptage d’énergie, Management (ISO 50 001)","[ 0.83708483  0.3737604   1.5197295  ...  0.13716087 -0.7196934
+ -0.8258081 ]"
+954,"Suppression des bras morts du réseau et parties qui ne sont plus utilisées, Réseau, Air comprimé, Utilités","[ 2.372146   -0.28369504 -0.4072559  ...  0.74815613 -1.147927
+ -0.43152297]"
+955,"Campagne de mesures, Mesure et comptage d’énergie, Management (ISO 50 001)","[ 0.64250183 -0.39540172  1.3257333  ...  0.2585244  -1.403443
+ -0.49379408]"
+956,"Couplage du suivi énergétique avec le suivi de production au moyen de ratios, Indicateurs et tableau de bord, Mesure et comptage d’énergie, Management (ISO 50 001)","[ 0.68903327 -0.03583277  0.7513325  ...  0.2632415  -0.9598087
+ -1.0662735 ]"
+958,"Optimisation du temps de mise en chauffe des presses, Gestion et pilotage, Presse, Procédés","[ 1.8650036  -1.0240608  -0.29201624 ...  0.87388235  0.11555255
+  0.1698898 ]"
+959,"Etalement du démarrage des presses, Maintenance, Presse, Procédés","[ 0.7301586  -0.54780644 -1.7559354  ...  1.1363716   0.5098194
+  0.7364531 ]"
+960,"Option points 10 minutes de la puissance électrique appelée, Contrat, Gestion des énergies, Management (ISO 50 001)","[ 0.8635508  -0.4761678   0.8584046  ...  0.03812418 -1.5151421
+ -0.5409731 ]"
+961,"Emplacement optimisé des systèmes de chauffage radiant, Chauffage, CVC, Bâtiment","[ 1.404504   -0.14525378  0.39050326 ...  0.80102164 -1.8107076
+ -1.3302798 ]"
+962,"Remplacement des anciens équipements par des équipements récents plus performants, Chaudière, Chaudière, Utilités","[ 2.1997426  -1.0838614   1.1049374  ...  0.80656123 -0.56702626
+ -0.4953773 ]"
+963,"Isolation hydraulique des chaudières quand elles ne sont pas utilisées, Régulation, Chaudière, Utilités","[ 2.8062034  -2.1544082  -0.14161506 ... -0.7531923  -1.2382979
+  0.30493698]"
+965,"Amélioration du séchage de la vapeur, Gestion et pilotage, Vapeur, Utilités","[ 2.3962574  -0.19622979  0.48146707 ...  0.19499412 -0.7331337
+ -1.6238323 ]"
+966,"Station météo couplée à la GTC, Chauffage, CVC, Bâtiment","[ 0.9219123  -0.4138571   0.19774692 ...  0.4004258  -1.6231297
+ -1.0986212 ]"
+967,"Nettoyage du système d'eau de process, Production, Eau de procédés, Eau","[ 4.7537622  -2.508333   -0.7163212  ... -0.29462528 -2.4548225
+ -0.37820902]"
+968,"Récupération instantanée de chaleur sur eaux grises pour la production d'ECS, Production, Eau Chaude Sanitaire, Eau","[ 3.2433846  -2.7269893   1.0640604  ...  0.20234476 -2.4789512
+  0.33193225]"
+969,"Fermetures des meubles frigorifiques de vente à température négative, Meuble frigorifique, Froid, Utilités","[ 1.7958171  -0.93235964 -0.6322519  ...  0.31419677 -2.4107804
+  0.25930864]"
+970,"Système de management de l'énergie (norme ISO 50 001), Management (ISO 50 001)","[ 0.3101137   0.34964147  1.8090153  ... -0.20134166 -1.5090675
+  0.35928732]"
+971,"Compresseur basse pression à vis, Compresseur, Air comprimé, Utilités","[ 2.8396442  -0.9521959  -0.73520917 ...  0.36752483 -0.84228486
+  0.22992447]"
+974,"Système de management hors certification, Management (ISO 50 001)","[-0.4658028   0.29258895  0.86088616 ... -0.07961585 -1.26871
+ -0.01126383]"
+975,"Mesure et optimisation des consommations de carburant pour une unité de transport fluvial, Report modal, Transport, Technologies énergétiques",[1.2368424  0.88262624 0.9367355  ... 0.24362801 0.25223568 0.15776305]
+976,"Carénage sur une unité de transport fluvial, Report modal, Transport, Technologies énergétiques","[ 2.31782     0.7097565   0.32396784 ... -0.37072852 -0.71395504
+  0.38304582]"
+977,"Tracteur routier optimisé, Matériel roulant, Transport, Technologies énergétiques","[ 1.3841913   0.2147605  -0.6355269  ... -0.12720434  1.6391667
+  0.9062587 ]"
+978,"Pompe à chaleur de type eau/eau ou air/eau pour le chauffage de serres horticoles, Chauffage, CVC, Bâtiment","[ 3.0278268  -1.1823858   0.35873088 ...  0.07949897 -1.8547726
+  0.01373043]"
+979,"Récupérateur de chaleur à condensation pour serres horticoles, Récupération de chaleur, Chaudière, Utilités","[ 3.8265042  -1.2808527   2.4971485  ...  0.9571008  -0.6470256
+ -0.08689641]"
+980,"Diminution des éclairages décoratifs, Régulation, Eclairage, Bâtiment","[ 1.0117333  -2.1568723  -1.5297683  ... -0.3146808  -1.1307844
+ -0.02902588]"
+981,"Certification ISO 14 001, Management (ISO 50 001)","[ 1.3904392   0.04836847  0.7443176  ... -0.00674492 -0.81557995
+ -0.6114465 ]"
+983,"Disposition de l'éclairage parallèle aux allées, Gestion et pilotage, Eclairage, Bâtiment","[ 0.75122845 -0.23164228 -0.64278203 ... -0.45035496 -1.0383605
+ -0.98191786]"
+984,"Camion de norme Euro 4 ou Euro 5, Matériel roulant, Transport, Technologies énergétiques","[ 2.922467    1.9711617  -1.0534195  ... -0.20772906 -0.08724701
+  1.1191694 ]"
+985,"Optimisation du chargement des camions, Gestion et pilotage, Transport, Technologies énergétiques","[ 2.152659    1.0853693  -0.48782814 ... -0.86298496  1.0559658
+ -0.9260642 ]"
+986,"Unité de production d'énergie géothermique, Géothermie, Nouvelles énergies","[ 2.70441     0.6835557   0.71808964 ...  2.3734875  -0.24944237
+  0.5413764 ]"
+987,"Micro éolienne pour alimenter les éclairages extérieurs, Production, Eolien, Nouvelles énergies","[ 1.9577266  -0.65253633 -0.901392   ...  0.85695887  0.42438108
+ -0.16232248]"
+989,"Récupération de l'eau de pluie, Réseau, Eau de procédés, Eau","[ 4.2533507  -1.7408808   0.82449013 ... -1.3680849  -1.8328528
+  1.2345408 ]"
+990,"Collectes des cartons et palettes pour incinération, Tri, Déchets","[ 2.6765616   0.82212657  0.34361207 ...  0.45556894 -1.7940729
+ -0.4078662 ]"
+991,"Compostage des déchets, Valorisation, Déchets","[ 2.563148    0.27582762  0.10051917 ...  1.7217066   0.40341154
+ -0.5556564 ]"
+992,"Tri des déchets dangereux, Tri, Déchets","[ 2.7115657   0.8955729   0.17711467 ...  2.2728674  -0.75135535
+ -0.46002188]"
+993,"Collecte sélective porte à porte, Tri, Déchets","[ 2.4209244   0.10897313  2.476053   ...  0.98478985 -1.0811145
+ -0.57643545]"
+994,"Bassins de rétention pour nettoyage des camions, Gestion et pilotage, Transport, Technologies énergétiques","[ 2.6152358  -0.3785201   0.56866443 ... -0.41766676  0.9054411
+ -0.24023005]"
+995,"Utilisation de papiers recyclables / recyclés, Valorisation, Déchets","[ 2.2363322  -1.1495048  -0.47484136 ...  1.0566489  -0.5436401
+ -0.01265779]"
+996,"Suppression des prospectus, Tri, Déchets","[ 1.5014801   0.54667735 -0.6178965  ...  1.3906732  -1.212218
+ -0.6107161 ]"
+997,"Diminution des déchets plastiques, Tri, Déchets","[ 0.9682378   0.60296357  0.7165545  ...  0.61031276 -1.5977033
+ -0.4594857 ]"
+998,"Valorisation des produits éco-emballés, Valorisation, Déchets","[ 1.4905242   0.6816826   0.80661196 ...  0.09304268 -0.07549788
+ -1.2674788 ]"
+1000,"Adaptation des horaires de l'éclairage à l'occupation des bâtiments, Régulation, Eclairage, Bâtiment",[ 1.1468692 -1.2681525 -0.9442969 ... -0.5908556 -0.7214745 -0.3548091]
+1001,"Soufflettes d'air comprimé plus performantes, Soufflette, Air comprimé, Utilités","[ 1.4431185  -0.46551886 -0.726375   ...  0.61502844 -0.7257299
+ -0.454449  ]"
+1002,"Amélioration du système d'eau glacée, Gestion et pilotage, Froid, Utilités","[ 1.3903059  -1.434516   -1.6381726  ...  0.6205232  -1.7186308
+ -0.23146868]"
+1003,"Remplacement des chaudières vieillissantes par des équipements performants, Chaudière, Chaudière, Utilités","[ 2.6912699  -0.7774948   1.7313564  ...  0.94203514  0.02305152
+  0.4304774 ]"
+1004,"Vanne permettant de moduler la pression de distribution de la vapeur, Vanne, Vapeur, Utilités","[ 2.11845493e+00 -8.89692068e-01 -9.14559141e-03 ...  2.09866394e-03
+ -1.37516415e+00 -1.12524055e-01]"
+1005,"Optimisation des températures de séchage, Séchage, Procédés","[ 1.6938068  -0.48126867 -0.25676155 ... -0.4328119  -0.49389568
+  0.46669346]"
+1006,"Isolation des séchoirs, Séchage, Procédés","[ 2.155326   -1.1041081  -0.9468361  ...  1.1277971  -0.72044766
+  1.2738678 ]"
+1007,"Séchoirs performants, Séchage, Procédés","[ 1.5198555  -0.5495011  -1.3722533  ... -0.12914638  0.7174587
+  0.78896207]"
+1008,"Vanne permettant d'isoler le départ vapeur, Vanne, Vapeur, Utilités","[ 2.8059719  -0.7528104  -0.38486066 ...  1.1550472  -1.4837236
+  0.8995747 ]"
+1009,"Optimisation de la bâche d'eau glacée, Stockage, Froid, Utilités","[ 2.0342264  -1.5500003  -1.8766938  ... -0.71103185 -0.7895392
+ -0.5030484 ]"
+1010,"Système de commande prédictive sur un four, Régulation, Fours, combustion, Procédés","[ 3.3769262   0.01451474 -1.7845889  ... -0.5169815  -0.7063527
+  0.94652224]"
+1011,"Traitement efficaces des effluents, Production, Assainissement, Eau","[ 3.0159686  -0.83293056 -0.44815537 ...  0.4079179   0.09194549
+ -2.0942879 ]"
+1012,"Augmentation du taux de recyclage des rebuts plastiques des presses à injecter, Valorisation, Déchets","[ 3.4363034   0.09886993  1.1332346  ...  1.4265333   0.10081439
+ -0.8077649 ]"
+1013,"Four pâtissier électrique de haute qualité énergétique, Four, Fours, combustion, Procédés","[ 3.060025    1.3442328  -0.62989545 ...  0.60005313 -0.08590779
+  0.67964935]"
+1014,"Variation électronique de vitesse sur hotte d'aspiration des procédés, Régulation, Ventilation, Utilités",[ 1.9636948 -1.8788451 -0.5320947 ... -1.0576037 -0.2020216  1.0940012]
+1016,"Séchage et vente de bois, Récupération de chaleur, Chaudière, Utilités","[ 4.1879196  -0.987806    0.63518465 ...  1.313483   -1.492002
+ -0.13963634]"
+1017,"Récupération de chaleur pour préchauffer l'air comburant, Récupération de chaleur, Procédés","[ 3.5274007  -1.2856433   1.2263373  ...  1.0067562  -0.3972261
+  0.65774965]"
+1018,"Isolation et la recirculation du stockage de carburant, Gestion et pilotage, Fours, combustion, Procédés","[ 2.1674826   0.12115145  0.7321365  ...  1.377723   -0.7615116
+  0.6014567 ]"
+1019,"Chaudières à lit fluidisés, Four, Fours, combustion, Procédés","[ 3.6020927   0.29298162 -0.44206345 ...  0.73051506 -1.1221536
+  1.0261265 ]"
+1020,"Amélioration du système d'alimentation en combustible, Brûleur, Fours, combustion, Procédés","[ 2.0505455   1.2658376  -0.66570956 ...  1.0495149  -0.3786086
+  0.07156929]"
+1021,"Capteur de poussières électrique, Gestion et pilotage, Ventilation, Utilités","[ 1.0358783  -1.7404237  -0.13545267 ... -0.20240276 -1.0999087
+ -0.85872895]"
+1022,"Remplacement des chaudières vétustes, Chaudière, Chaudière, Utilités","[ 3.4322255   0.22711372  1.2735107  ...  1.6520799  -1.0878494
+  0.20774192]"
+1023,"Chaudières performantes à résidus de distillation, Valorisation, Déchets","[ 2.6139224  -1.1719663  -0.33227944 ...  0.91867375 -0.0927615
+  0.51314604]"
+1024,"Récupération de l'eau de vache des évaporateurs, Réseau, Eau de procédés, Eau","[ 4.7465644  -2.5733163   0.25626084 ... -0.7958301  -1.7535143
+  0.27011493]"
+1025,"Récupération de la chaleur des tours de séchage, Séchage, Procédés","[ 3.4642918  -0.43468606 -0.10136516 ...  0.05661164 -0.72051644
+  0.26053154]"
+1026,"Optimisation de la logistique, Gestion et pilotage, Transport, Technologies énergétiques","[ 1.3876227   0.6314044   0.6034465  ... -1.1406236   1.1459666
+ -0.30487192]"
+1027,"Optimisation du cycle de synthèse de l'ammoniac, Gaz industriel, Procédés","[ 1.8627238  -0.244865    0.9869476  ... -0.04392174  0.8239089
+ -0.93421376]"
+1028,"Construire un réseau de gaz naturel haute pression, Gaz industriel, Procédés",[ 3.0303316 -0.77903    0.7411006 ...  1.1520958 -0.5283511  0.9644413]
+1029,"Réparation des fuites des conduites contenant des produits chimiques, Maintenance, Procédés","[ 3.1000721  -0.04694917  0.12471833 ...  0.53364956  0.5918164
+  0.11506911]"
+1030,"Unité d'oxygène enrichi, Gaz industriel, Procédés","[ 2.3926508   0.0434693   1.2694772  ... -0.42121983 -0.05825349
+  1.1082197 ]"
+1031,"Amélioration du programme de gestion des fuites, Réseau, Vapeur, Utilités","[ 2.5248256  -0.54984844 -0.16931032 ...  0.49932355 -0.8804714
+ -0.5369074 ]"
+1032,"Turbine à contrepression, Cogénération grande taille, Cogénération","[ 1.2155179   0.26303554  0.6229471  ...  0.32861987 -0.7623862
+  0.00974866]"
+1033,"Récupération de la chaleur des eaux perdues, Réseau, Eau Chaude Sanitaire, Eau","[ 4.196046   -2.3115768   1.7587594  ...  0.05929806 -1.4928166
+  0.47664654]"
+1034,"Optimisation de l'apport d'oxygène grâce à une sonde CO2 liée à une régulation sur le ventilateur, Régulation, Chaudière, Utilités","[ 1.1954473  -1.2233304   0.74925536 ... -1.1549847   0.03416735
+ -1.0380816 ]"
+1035,"Optimisation des transferts de chaleur, Gestion et pilotage, Fours, combustion, Procédés","[ 2.4075813  -0.28830218  0.6243063  ...  0.8841816   0.57543766
+ -0.3543051 ]"
+1036,"Récupération de chaleur lorsque le produit se refroidit à l'air, Récupération de chaleur, Procédés",[ 3.365073  -1.1632953  0.6927367 ...  0.7053024 -0.9213085  0.9940496]
+1037,"Récupérateur de chaleur sur groupe d'eau glacée, Récupération de chaleur, Froid, Utilités",[ 4.205476  -2.0304034  0.9564431 ...  2.0430534 -1.0416118 -0.1322194]
+1039,"Optimisation de la pression de fonctionnement, Cogénération grande taille, Cogénération","[ 1.1342622   0.28948402  1.6596817  ... -0.22051899  0.0392905
+ -0.49735975]"
+1041,"Nettoyage de l'économiseur, Maintenance, Chaudière, Utilités","[ 2.9053757  -0.87941396  0.2740785  ...  0.4463017  -0.19791096
+  0.2991135 ]"
+1042,"Vérification de la turbine installée par rapport à sa charge, Cogénération grande taille, Cogénération","[ 1.19875     0.60668033 -0.8798206  ... -0.14960258 -0.0103481
+ -0.89814186]"
+1043,"Optimisation du circuit du réseau vapeur, Réseau, Vapeur, Utilités","[ 4.6591663  -0.9218004   0.82629776 ...  0.9262811  -1.1353801
+ -0.5875043 ]"
+1044,"Suppression des ASI (alimentation sans interruption) redondantes, Gestion et pilotage, Distribution électrique, Utilités","[ 2.3597212   0.18120348  0.5032119  ... -0.04948805 -1.2325188
+ -1.4397172 ]"
+1045,"Arrêt des serveurs pendant les périodes de faible charge, Bureautique, Bâtiment",[ 1.255608  -0.3725829 -0.8363291 ... -0.5331489 -0.6082393 -1.1457808]
+1046,"Fonctionnement des ASI (alimentation sans interruption) en mode by-pass, Régulation, Distribution électrique, Utilités",[ 1.4840835 -0.7366166  0.4820543 ... -0.2684792 -1.8565729 -0.605772 ]
+1047,"Isolation des courants d'air chaud et froids dans les data-centers, Récupération de chaleur, Ventilation, Utilités",[ 2.1546857 -1.4065733 -0.2663952 ...  2.3307326 -1.4488554  0.9449169]
+1048,"Groupe à eau glacée de haute efficacité, Centrale froid, Froid, Utilités",[ 2.512006  -2.1750035 -1.1047615 ... -0.2996334 -1.8350788  0.3211186]
+1049,"Programmes de contrôle différent pour chaque groupe froid, Régulation, Froid, Utilités",[ 0.9388464 -1.4017344 -1.6362145 ...  0.7676958 -1.4767344 -0.6578428]
+1050,"Réparation des gaines ou conduites perforées, Maintenance, Ventilation, Utilités","[ 1.7874674  -0.48332462  0.66988575 ...  1.1852696  -1.7509304
+ -0.3135908 ]"
+1051,"Fermeture des faux plafonds pour diminuer le volume d'air conditionné., Ajustement production/besoin, Ventilation, Utilités","[ 1.2253678  -1.1112694   0.02288445 ... -0.8064056  -0.9162443
+  0.1591672 ]"
+1052,"Augmentation de la température de consigne de climatisation, Climatisation, CVC, Bâtiment","[ 0.58471644 -1.9546378   0.61286145 ... -0.9530842  -0.77724385
+  0.11455611]"
+1053,"Consigne de déshumidifier au strict nécessaire, Gestion et pilotage, Froid, Utilités","[ 2.0762367  -1.6094482  -0.73054636 ...  0.07663713 -0.8604393
+ -0.5671615 ]"
+1054,"Amélioration de la récupération des produits utilisés, Valorisation, Déchets","[ 2.0156884   1.0134597   0.04430858 ...  0.5630489   0.9484933
+ -0.7572263 ]"
+1055,"Modification du process pour limiter la consommation énergétique, Gestion et pilotage, Procédés","[ 1.0204116  -0.54857075  0.20235379 ... -0.09856698  0.4871948
+  0.659203  ]"
+1056,"Réduction de l'utilisation de l'air comprimé et diminution des mauvais usages de l'air comprimé, Ajustement production/besoin, Air comprimé, Utilités","[ 2.7074614  -1.0601668   0.48032007 ...  0.2575268   0.00623146
+ -0.06243427]"
+1057,"Contrôle des débits d'air, Régulation, Air comprimé, Utilités","[ 3.3901088  -1.7932231  -1.3983816  ... -0.20966208 -1.1446832
+  0.46119523]"
+1058,"Contrôle des conditions de fonctionnement, Traitement de l'air, Air comprimé, Utilités","[ 2.5703802  -0.22848895 -0.87685174 ...  0.69338    -0.70287704
+ -0.44674802]"
+1060,"Echangeurs de pression, Ajustement production/besoin, Pompe, Utilités","[ 3.1458175  -2.0703206   0.12779173 ...  0.6548334   0.2479183
+  0.03820581]"
+1061,"Variateur de vitesse sur compresseur d'air, Régulation, Air comprimé, Utilités","[ 2.0114079  -1.0853225  -0.53395134 ... -0.7894977  -0.266471
+ -0.12711775]"
+1062,"Chauffage en toiture gaz, Chauffage, CVC, Bâtiment","[ 1.3864313   0.50557077  0.14101516 ...  0.8343457  -2.129395
+ -1.2302405 ]"
+1064,"Retrofit du combustible Fioul au combustible Gaz, Gestion et pilotage, Chaudière, Utilités","[ 2.1604111   0.08132867  1.14065    ...  1.5928826  -1.3290969
+ -1.6398758 ]"
+1065,"Optimisation du système de distribution, Réseau, Vapeur, Utilités","[ 2.431867   -0.34110615  0.27232826 ... -0.14884451 -0.98307675
+ -1.4162506 ]"
+1067,"Joints d'étanchéité et de ballet pour les portes, Etanchéité et infiltrations, Enveloppe, Bâtiment","[ 2.3913105   0.4781768   0.95661193 ... -0.16852014 -0.5060656
+ -0.5802255 ]"
+1068,"Réduction de la consommation des distributeurs de confiseries et boissons, Bureautique, Bâtiment","[ 1.7302374  -0.6959287   0.17773455 ... -1.1817832  -0.78513473
+ -1.0681572 ]"
+1070,"Moteur à haut rendement IE3 (premium), Moteur, Moteur, Utilités","[ 1.2823237   0.7849442   0.7549308  ...  0.97878045  0.5858841
+ -0.714472  ]"
+1071,"Rénovation totale du bâtiment, Maintenance, Bâtiment","[-0.68442863  1.5709753  -0.17346065 ...  0.45242715 -0.12291356
+  0.2637715 ]"
+1072,"Récupération des vapeurs des produits chimiques, Gaz industriel, Procédés","[ 3.0669763  -0.12912923  1.3692586  ...  0.21390113  1.1417793
+  0.5576659 ]"
+1073,"Isolation des canalisations et vannes chaudes non isolées, Réseau, Eau de procédés, Eau","[ 2.888696   -1.8332949   0.11674473 ...  1.0861317  -3.4466965
+  0.82562476]"
+1074,"Construction sur vide sanitaire, Isolation, Enveloppe, Bâtiment","[-0.66043997 -1.2352408   0.5498869  ... -0.04467773  0.1397842
+  0.624154  ]"
+1075,"Purge des radiateurs, Chauffage, CVC, Bâtiment","[ 2.1677916  -0.32041138  1.3989234  ... -0.11676656 -2.0141428
+ -0.852865  ]"
+1076,"Nettoyage des filtres à air des tours de refroidissement, Condenseur, Froid, Utilités","[ 2.3870685  -0.96323204  0.23982248 ...  1.4591668  -1.2276423
+ -0.17414813]"
+1077,"Micro-cogénération, Micro/mini-cogénération, Cogénération","[ 0.9214592  -0.5238172   1.8703201  ... -0.37204152 -0.01642829
+ -1.2356853 ]"
+1078,"Certification EN 16 001, Management (ISO 50 001)","[ 0.95449686 -0.12996617  0.68318534 ... -1.5423846  -0.74415976
+ -1.0498478 ]"
+1080,"Radiants en remplacement de systèmes de chauffage convectif au gaz, Chauffage, CVC, Bâtiment",[ 1.7312511  0.5426161  1.2774296 ...  0.5148782 -2.3969715 -1.4032959]
+1081,"Sondes CO2 pour adapter la ventilation au besoin réel, Ventilation, CVC, Bâtiment","[-0.56039894 -0.69600636  0.17622986 ... -0.24975668 -0.9741235
+  0.25642505]"
+1082,"Chaudière d'appoint à la chaudière biomasse, Chaudière, Chaudière, Utilités","[ 3.0375838  -0.8974105   0.20018552 ...  1.929527   -2.0190618
+  0.24890164]"
+1083,"Transport de la chaleur thermique via un réseau de chaleur, Ajustement production/besoin, Réseau de chaleur, Technologies énergétiques","[ 3.5543044  -1.5063521   0.59820724 ...  1.2733018  -0.12595233
+  0.09524611]"
+1085,"Nouvelle tour de refroidissement pour réduire l'utilisation d'eau dans le process, Production, Eau de procédés, Eau","[ 4.0979     -1.7024162  -0.57376075 ... -0.15579866 -1.6632577
+  0.4418686 ]"
+1087,"Réduction du taux de purge de la chaudière par un système de contrôle., Traitement de l'eau, Chaudière, Utilités","[ 3.5465438  -0.09287388  0.38186017 ...  0.04672793 -1.703655
+ -0.31925353]"
+1088,"Osmose inverse pour l'optimisation du traitement de l'eau, Traitement de l'eau, Chaudière, Utilités","[ 3.7846553  -1.1839024   0.76293546 ... -0.283441   -1.229839
+ -1.257958  ]"
+1090,"Pile à combustible pour produire de l'électricité, Hydrogène / Pile à combustible, Nouvelles énergies","[ 2.8389442  -0.54279184  0.7811915  ...  0.81402653  0.01581749
+ -0.7951577 ]"
+1091,"Passer à une coulée continue pour la production d'acier., Gestion et pilotage, Fours, combustion, Procédés","[ 2.183783    0.01197484 -1.1827692  ... -0.14167927  0.3340684
+  0.6178823 ]"
+1092,"Remplacement des compresseurs d'air au diesel par des compresseurs à vapeur, Compresseur, Air comprimé, Utilités","[ 2.9677234   0.96409136 -0.45705986 ...  1.3016678  -0.8267403
+ -1.4120684 ]"
+1093,"Système de purges automatique sur les tours de refroidissement, Condenseur, Froid, Utilités","[ 2.5799923  -1.0202535  -1.2769599  ...  0.60415447 -0.4496688
+  0.04228591]"
+1094,"Récupération du gaz de torche grâce à un compresseur, Torchage, Procédés","[ 2.9345188   0.1903547   0.6114839  ...  0.3728511  -0.54865754
+  0.54084015]"
+1095,"Centrale frigorifique CO2 transcritique de type booster, Centrale froid, Froid, Utilités","[ 1.3522451  -1.3324926   0.47673365 ...  0.547748   -1.2588286
+  0.11506245]"
+1096,"Ventilation par déplacements, Gestion et pilotage, Ventilation, Utilités","[ 1.2354434  -0.34412318  0.6212958  ...  0.09094716 -1.2204387
+  0.15381974]"
+1097,"Optimisation des niveaux de consignes des échangeurs, Echangeur thermique, Vapeur, Utilités","[ 2.5872452  -1.1323792   1.0896531  ...  0.79202694 -0.49577436
+ -0.81242216]"
+1098,"Identification des équipements responsables de la consommation talon, Indicateurs et tableau de bord, Mesure et comptage d’énergie, Management (ISO 50 001)","[ 0.34525296 -0.7704447   1.042066   ...  0.32804382 -1.1526877
+ -0.41380686]"
+1099,"Toiture végétalisée ou une réserve d'eau comme tampon thermique, Isolation, Enveloppe, Bâtiment","[ 8.0179721e-01 -5.9004736e-01  6.0686129e-01 ... -1.1795413e+00
+ -2.6495560e-04  8.4370953e-01]"
+1100,"Arrêt des équipements chauffage situés proche de sources émettant de la chaleur, Chauffage, CVC, Bâtiment","[ 2.6611013  -0.9938026   1.1316652  ...  0.91381174 -3.3144393
+ -1.1767098 ]"
+1101,"Optimisation des éléments chauffant infrarouge des unités de thermoformage, Circuit de puissance, Presse, Procédés","[ 2.2941308  -0.17642537  1.0396094  ... -0.16981173 -0.5311747
+  0.5298763 ]"
+1102,"Limitant du fonctionnement à charge partielle des anciennes chaudières, Gestion et pilotage, Chaudière, Utilités","[ 2.3960106  -0.38899872  0.20111382 ...  0.03075336 -1.8046504
+ -0.23954369]"
+1103,"Unités de découpe laser performantes, Gestion et pilotage, Presse, Procédés","[ 1.7039447  -1.3321214  -0.6553277  ... -0.14891607  0.870011
+  0.44855744]"
+1104,"Optimisation de la performance énergétique des presses hydrauliques, Circuit de puissance, Presse, Procédés",[1.4553429  0.06971936 0.39571673 ... 0.22579706 0.78420293 0.8000916 ]
+1105,"Chaudière à condensation pour le chauffage des serres horticoles, Chaudière, Chaudière, Utilités","[ 2.9899607  -1.0925032   0.9378837  ...  0.7735254  -1.7670293
+ -0.03758889]"
+1107,"Ecrans thermiques latéraux, Isolation, Enveloppe, Bâtiment","[ 0.0478856  -0.1293568   0.3683325  ... -0.7496655  -0.05645146
+  1.1520833 ]"
+1108,"Ventilation naturelle hybride hygroréglable, Ventilation, CVC, Bâtiment","[-0.2506503  -0.2716332   1.1691825  ... -0.1173832  -0.8935895
+ -0.00524106]"
+1109,"Chauffe-bain à condensation, Production, Eau Chaude Sanitaire, Eau",[ 3.170115  -3.328909   0.7285276 ...  0.6104373 -2.383092   1.2496383]
+1110,"Utilisation de LED pour l’éclairage d’accentuation, Luminaire, Eclairage, Bâtiment",[ 1.3927717 -0.8924633 -1.3880336 ...  0.1876723 -1.2061161  0.9331207]
+1111,"Utilisation de LED de type downlight, Luminaire, Eclairage, Bâtiment","[ 1.7018533  -1.2391535  -1.2810153  ...  0.2392651  -1.7335017
+  0.28430998]"
+1112,"Rééquilibrage d’une installation collective de chauffage à eau chaude, Chauffage, CVC, Bâtiment","[ 1.5815961  -0.97932124  0.36110002 ...  0.9134256  -2.273027
+ -0.4011246 ]"
+1113,"Aérotherme biénergies à haute efficacité énergétique, Chauffage, CVC, Bâtiment","[ 2.0021296   0.12865238  0.8145174  ...  0.5687819  -0.9902202
+ -1.1284848 ]"
+1114,"Système de régulation sur une installation frigorifique permettant d’avoir une basse pression flottante, Régulation, Froid, Utilités","[ 1.471247   -1.0727459  -1.3806292  ... -0.34818566 -1.2413747
+  0.08522819]"
+1116,"Sécheur à adsorption avec récupération de chaleur pour la régénération du sécheur, Traitement de l'air, Air comprimé, Utilités","[ 3.5438879  -1.3375825   1.1996737  ... -0.06598165  0.04807093
+ -1.0911617 ]"
+1117,"Moteur à haut rendement IE4 (super premium), Moteur, Moteur, Utilités","[ 1.4439336   0.49137548  0.52621293 ...  1.1978528   0.7450375
+ -0.539851  ]"
+1118,"Séquenceur électronique pour le pilotage d’une centrale d’air comprimé, Régulation, Air comprimé, Utilités","[ 2.582825   -1.5571072   0.09265261 ... -0.06043684 -0.5777108
+  0.04965074]"
+1119,"Passage d’un réseau de chaleur en basse température, Production, Réseau de chaleur, Technologies énergétiques","[ 3.1180716  -0.99664116  0.27852282 ...  1.7789879  -0.7700736
+  0.35776648]"
+1120,"Renforcement du calorifuge des canalisations d’un réseau de chaleur en caniveau, Réseau, Réseau de chaleur, Technologies énergétiques","[ 1.9685572  -0.80301327  1.7888601  ...  1.4493674  -1.508209
+ -0.38192204]"
+1121,"Rénovation d’une illumination de mise en valeur, Gestion et pilotage, Eclairage, Bâtiment","[ 0.758618    0.31152743  0.42080915 ... -0.0628948  -1.5118346
+ -0.23757237]"
+1123,"Remotorisation d’une unité de transport fluvial, Report modal, Transport, Technologies énergétiques","[ 1.6087768   0.9701642   0.5635763  ... -0.5491511  -0.16012248
+  0.65446126]"
+1124,"Changement de catégorie de consommation des véhicules, Matériel roulant, Transport, Technologies énergétiques","[ 1.1926959  -0.46767792  0.45147726 ...  0.07970098 -0.15928306
+ -0.23579593]"
+1125,"Gestion du poste pneumatique dans une flotte de poids lourds, Gestion et pilotage, Transport, Technologies énergétiques","[ 2.9647672   0.40791652 -0.6512278  ... -0.39239267 -0.46650538
+ -0.52297044]"
+1126,"Gestion du poste pneumatique dans une flotte de transport de personnes, Gestion et pilotage, Transport, Technologies énergétiques","[ 3.68235     0.24768862 -0.4420366  ... -0.25620887 -0.4941717
+ -0.6574329 ]"
+1128,"Optimisation du réseau de chauffage, Chauffage, CVC, Bâtiment","[ 1.7639219  -0.8627384   0.60346967 ...  0.73280585 -1.8502859
+ -1.3727313 ]"
+1129,"Cycles frigorifiques performants, Centrale froid, Froid, Utilités","[ 1.107775   -1.3355529  -1.362056   ...  0.27882725 -1.2192901
+  0.76887894]"
+1130,"Gestion Technique Centralisée (GTC) pour le système de chauffage, Chauffage, CVC, Bâtiment","[ 1.9040989  -0.26633054 -0.23735915 ... -0.2562638  -2.7997396
+ -1.6618469 ]"
+1131,"Optimisation de l'utilisation des rideaux d'air chaud, Chauffage, CVC, Bâtiment","[ 2.0268142   0.3138565  -0.16300668 ...  0.05139534 -0.854507
+ -1.3769951 ]"
+1132,"Déplacement des dé-stratificateurs d'air, Chauffage, CVC, Bâtiment","[ 1.933512   -0.05145783  0.09021182 ...  0.30623838 -1.2315203
+ -0.5670256 ]"
+1133,"Optimisation de l'emplacement des sondes de température, Chauffage, CVC, Bâtiment","[ 9.2340189e-01  8.8600110e-04  2.6299962e-01 ...  3.7749227e-02
+ -6.8705100e-01 -1.7118261e+00]"
+1134,"Lampes à LED pour l'éclairage extérieur, Luminaire, Eclairage, Bâtiment","[ 0.8763715  -0.4986761  -1.5264463  ... -0.86513567 -1.408875
+  0.34422627]"
+1135,"Vérins, venturis, électrovannes et systèmes muti-pression performants, Réseau, Air comprimé, Utilités","[ 2.340841   -0.8903378  -0.3018988  ...  0.03578255 -1.5727168
+  0.23161638]"
+1136,"Recyclage de l'air intérieur des cabines de peinture, Gestion et pilotage, Peinture, Procédés",[ 1.8575885 -0.5288158  1.5274986 ...  1.2597249 -1.6233312  0.0150304]
+1137,"Technologies de rupture pour sécher ou cuire la peinture, Cabine de peinture, Peinture, Procédés","[ 2.9991581  -1.0828534   1.2659175  ...  0.49456272 -1.8601741
+  0.34751174]"
+1138,"Optimisation de la température de la cabine de peinture grâce à un régulateur d’hygrométrie de l’air, Gestion et pilotage, Peinture, Procédés","[ 1.8882372  -0.8434363   1.7390162  ... -1.0762464  -0.4817836
+ -0.01097343]"
+1139,"Récupérateur de chaleur sur l'air extrait des cabines de peinture, Récupération de chaleur, Peinture, Procédés","[ 4.3802543  -1.0863472   2.1658936  ...  1.4883242  -1.2550429
+  0.24998252]"
+1140,"Variateur de vitesse sur presse à injecter, Gestion et pilotage, Presse, Procédés","[ 1.2216476  -0.4408435   0.22935548 ...  0.44444495  0.6297688
+  1.1394297 ]"
+1141,"Arrêt optimisé des lignes de production et de conditionnement, Gestion et pilotage, Procédés","[ 3.4262612  -1.5749972   0.04226219 ... -0.2572956   0.35504663
+  0.28842926]"
+1142,"Optimisation de la performance énergétique des presses mécaniques, Circuit de puissance, Presse, Procédés","[ 1.4787341  -0.21711962  0.08334628 ...  0.20523289  1.1163607
+  0.9517954 ]"
+1143,"Système d'extraction localisé couplé à une variation de vitesse sur le ventilateur en remplacement d'une extraction continue, Ajustement production/besoin, Ventilation, Utilités","[ 1.7760702  -0.7536389   0.28333354 ... -0.5892016   0.30645382
+  0.47596896]"
+1144,"Dimensionnement optimal du moteur principal de l'extrudeur, Circuit de puissance, Presse, Procédés",[1.8663758  1.4282866  0.44613618 ... 0.22135164 0.49534848 1.4009738 ]
+1445,"Variation électronique de vitesse sur un compresseur frigorifique, Régulation, Froid, Utilités","[ 1.7093529  -0.8615393  -1.2199637  ... -0.27928534 -0.46241236
+ -0.26980662]"
+1446,"Panneau solaire photovoltaïque monocristallin, sans tracker, raccordé au réseau, Capteur, Solaire photovoltaïque, Nouvelles énergies","[ 1.7189416  -1.6084751   0.3538535  ...  0.55412835 -0.16642012
+ -0.87709916]"
+1447,"Panneau solaire photovoltaïque monocristallin, sans tracker, isolé du réseau, Capteur, Solaire photovoltaïque, Nouvelles énergies","[ 1.4736762  -1.716521    0.6367783  ...  0.41913825  0.20281364
+ -0.82855   ]"
+1448,"Panneau solaire photovoltaïque monocristallin, avec tracker 1 axe, raccordé au réseau, Capteur, Solaire photovoltaïque, Nouvelles énergies","[ 1.6894568  -1.4842986   0.15681162 ...  0.19925582  0.34188953
+ -0.8977321 ]"
+1449,"Panneau solaire photovoltaïque monocristallin, avec tracker 1 axe, isolé du réseau, Capteur, Solaire photovoltaïque, Nouvelles énergies","[ 1.5855486  -1.6686456   0.43410572 ...  0.19863535  0.43975288
+ -0.6663073 ]"
+1450,"Panneau solaire photovoltaïque monocristallin, avec tracker 2 axes, raccordé au réseau, Capteur, Solaire photovoltaïque, Nouvelles énergies","[ 1.8406439  -1.321702    0.10979919 ...  0.25157493  0.25825492
+ -0.92925656]"
+1451,"Panneau solaire photovoltaïque monocristallin, avec tracker 2 axes, isolé du réseau, Capteur, Solaire photovoltaïque, Nouvelles énergies","[ 1.7299755  -1.4754817   0.37085497 ...  0.24561577  0.32939917
+ -0.635399  ]"
+1452,"Panneau solaire photovoltaïque polycristallin, sans tracker, raccordé au réseau, Capteur, Solaire photovoltaïque, Nouvelles énergies","[ 1.8933729  -1.5811037   0.3608536  ...  0.62913305 -0.2167747
+ -0.8577921 ]"
+1453,"Panneau solaire photovoltaïque polycristallin, sans tracker, isolé du réseau, Capteur, Solaire photovoltaïque, Nouvelles énergies","[ 1.692491   -1.6894499   0.64750886 ...  0.48753896  0.15173021
+ -0.80982   ]"
+1454,"Panneau solaire photovoltaïque polycristallin, avec tracker 1 axe, raccordé au réseau, Capteur, Solaire photovoltaïque, Nouvelles énergies","[ 1.8718385  -1.4133456   0.19813049 ...  0.27321136  0.27883497
+ -0.87572294]"
+1455,"Panneau solaire photovoltaïque polycristallin, avec tracker 1 axe, isolé du réseau, Capteur, Solaire photovoltaïque, Nouvelles énergies","[ 1.7791507  -1.5997394   0.4549955  ...  0.25503817  0.37270087
+ -0.6429619 ]"
+1456,"Panneau solaire photovoltaïque polycristallin, avec tracker 2 axes, raccordé au réseau, Capteur, Solaire photovoltaïque, Nouvelles énergies","[ 2.0172489  -1.2547444   0.14873306 ...  0.3280221   0.18391053
+ -0.90644544]"
+1457,"Panneau solaire photovoltaïque polycristallin, avec tracker 2 axes, isolé du réseau, Capteur, Solaire photovoltaïque, Nouvelles énergies","[ 1.9199063  -1.4134357   0.39658502 ...  0.30383617  0.24903844
+ -0.61122316]"
+1458,"Eolienne à axe vertical, Production, Eolien, Nouvelles énergies","[ 1.769651    0.4057432  -0.27011362 ...  1.7964752   1.8555725
+  0.37945497]"
+1459,"Petite éolienne à axe horizontal, Production, Eolien, Nouvelles énergies","[ 1.2605262   0.40420926 -0.7154996  ...  1.1415253   1.1597111
+ -0.1450817 ]"
+1460,"Eolienne de moyenne puissance à axe horizontal, Production, Eolien, Nouvelles énergies","[ 1.52264     0.2430803  -0.3712052  ...  1.1709933   1.8395127
+  0.59652805]"
+1461,"Grande éolienne à axe horizontal, Production, Eolien, Nouvelles énergies","[ 0.87592757  0.2246605  -0.9153717  ...  1.5232989   1.3263987
+  0.42125338]"
+1462,"Micro-cogénération avec moteur à combustion interne, Micro/mini-cogénération, Cogénération","[ 1.505946   -0.11599839  1.769568   ...  0.13127916 -0.06836671
+ -1.4494576 ]"
+1463,"Micro-cogénération avec micro turbine, Micro/mini-cogénération, Cogénération","[ 1.2515548  -0.1583207   1.7940629  ... -0.44905093 -0.12562996
+ -1.6623867 ]"
+1464,"Valorisation du biogaz par cogénération, Valorisation, Méthanisation / Biogaz, Nouvelles énergies","[ 2.5359766  -1.3199058   0.80674714 ...  0.41316712  1.3711894
+ -1.3051995 ]"
+1465,"Valorisation du biogaz par électricité seulement, Valorisation, Méthanisation / Biogaz, Nouvelles énergies",[ 2.6910875 -1.3262225  0.444068  ...  0.4023304  1.3836992 -1.3269901]
+1466,"Valorisation du biogaz par la production de chaleur seulement, Valorisation, Méthanisation / Biogaz, Nouvelles énergies",[ 3.1541893 -1.7188109  0.4653699 ...  0.6925859  1.0024273 -1.3692429]
+1467,"Injection du biogaz épuré dans le réseau, Valorisation, Méthanisation / Biogaz, Nouvelles énergies",[ 3.6314082 -1.5583929  0.8654163 ...  0.4489517  0.8548871 -1.8789351]
+1468,"Récupération des matières premières rejetées, Tri, Déchets","[ 3.1253183   1.199461    1.1317194  ...  1.2266377  -0.12379827
+  0.39566496]"
+1469,"Valorisation financière des déchets, Tri, Déchets","[ 1.855611    1.159933    1.2228838  ...  1.2627553  -0.30108264
+ -0.3506799 ]"
+1470,"Filtres pour récupérer les poussières, Tri, Déchets",[ 1.2929013  0.637958   1.2594682 ...  1.2037843 -0.8679031 -0.6749903]
+1471,"Création d'une zone pour le tri des déchets, Tri, Déchets","[ 2.4934268   1.8679078   0.54169077 ...  1.6269704  -0.9840388
+ -1.8867263 ]"
+1472,"Presse pour compacter les déchets, Tri, Déchets","[ 1.3141395   0.88806564 -0.14288877 ...  1.1326085  -0.57161975
+ -0.38184276]"
+1473,"Recyclage des palettes de bois, Valorisation, Déchets","[ 2.4545324   0.33953896 -0.24263461 ...  0.133432   -0.75086427
+ -1.0369887 ]"
+1474,"Revalorisation des résidus de bois et des sciures issus de l'industrie, Valorisation, Déchets","[ 1.483836    0.4092676  -0.8033194  ...  1.5472962  -1.4418805
+ -0.10134298]"
+1475,"Amélioration de la durée de vie des produits chimiques, Valorisation, Déchets","[ 0.5086446   0.2768904   0.084253   ... -0.11572206  1.8036423
+ -0.9931822 ]"
+1476,"Régulateurs pour les pulvérisateurs d'eau, Production, Eau de procédés, Eau","[ 3.1579983  -2.491026   -1.2987862  ... -0.15649723 -0.9371586
+ -0.8139545 ]"
+1477,"Régulateurs de débits, Production, Eau de procédés, Eau","[ 3.0781476  -2.5915735  -0.7623277  ... -0.4676483  -1.2024132
+ -0.13768658]"
+1478,"Intégration d'un système de recirculation de l'eau, Réseau, Eau de procédés, Eau","[ 3.7167485  -1.4790841  -0.03753775 ... -0.79085994 -2.790059
+  0.62514734]"
+1479,"Réutilisation des eaux usées dans les procédés, Production, Eau de procédés, Eau",[ 4.296981  -1.9556755 -0.6364683 ...  0.1435428 -1.1630158 -0.5583294]
+1480,"Modification des systèmes d'approvisionnement et de distribution d'azote, Four, Fours, combustion, Procédés","[ 1.994655    1.4243072  -1.1689296  ...  0.09144088 -0.33440912
+  0.19371302]"
+1481,"Protection des produits et matériaux contre les intempéries, Séchage, Procédés","[ 2.8175743   0.34002432 -0.8721647  ... -0.5100321   0.5980792
+  0.51530963]"
+1482,"Implantation d'une serre à proximité d'une source de chaleur résiduelle, Récupération de chaleur, Procédés","[ 2.9771292  -0.14582233  1.4187318  ...  0.63395184 -0.4271158
+  0.3768444 ]"
+1483,"Réservoir d'hydroaccumulation de chaleur, Stockage d'énergie, Technologies énergétiques","[ 4.399679   -0.68970495  1.5620394  ...  0.86820424  0.25141135
+  0.49422613]"
+1484,"Audit énergétique dans l'industrie, Audit énergétique, Management (ISO 50 001)","[-0.69048804  0.29727662  0.7345766  ...  0.289466   -1.1714643
+  0.71349233]"
+1485,"Réduction des temps de purge, Gestion et pilotage, Fours, combustion, Procédés","[ 1.9741966   0.42808035 -0.73518336 ...  0.3120646  -0.5154134
+  0.44377598]"
+1486,"Mur solaire passif, Chauffage, CVC, Bâtiment","[ 1.0941515  -0.63776     1.3896114  ...  0.6744454  -0.57130694
+ -0.14873314]"
+1487,"Remplacement d'un four à convection par un four infrarouge, Four, Fours, combustion, Procédés","[ 2.4416819   2.0638845   0.15021674 ...  0.47454646 -0.5930503
+  1.2384747 ]"
+1488,"Régulation sur les extracteurs d'air, Gestion et pilotage, Peinture, Procédés","[ 2.5058837  -0.8500458   0.80753267 ...  1.4405988  -0.18808874
+ -0.0622242 ]"
+1489,"Préchauffage de l'eau du circuit de chauffage, Chauffage, CVC, Bâtiment","[ 3.149928   -1.7200301   0.63597095 ...  0.45249632 -3.3673391
+  0.09384965]"
+1490,"Ventilation en cycle fermé, Gestion et pilotage, Ventilation, Utilités","[ 1.2281299  -0.79907787  0.5335213  ...  0.17158271 -1.4865974
+  0.4902052 ]"
+1491,"Récupérer l'énergie mécanique de moteur de test pour produire de l'électricité, Moteur, Moteur, Utilités","[ 3.3727348  -1.1571811   0.04833907 ...  0.60664546  0.05544123
+ -0.27783185]"
+1492,"Broyeurs à haute efficacité lors du remplacement du matériel, Gestion et pilotage, Presse, Procédés","[ 3.018318    0.9900846  -1.2306099  ...  0.6381017   0.25132376
+ -0.43774006]"
+1493,"Raccord des unités fonctionnant sur des groupes électrogènes sur le réseau électrique, Gestion et pilotage, Distribution électrique, Utilités","[ 2.4504716  -0.64731324 -0.40266728 ...  0.62008595 -0.47152936
+ -0.0377967 ]"
+1494,"Convoyeur électrique en remplacement de convoyage par engins de logistique interne (camions, pelles …)., Gestion et pilotage, Transport, Technologies énergétiques","[ 2.0013435   1.3751326  -0.8504605  ... -0.83525276  0.22184792
+  0.5431448 ]"
+1495,"Eco conduite des engins de logistique interne, Ecoconduite, Transport, Technologies énergétiques","[ 1.0763094   0.44430757 -0.911154   ... -0.31896108 -0.12769473
+ -0.27354676]"
+1496,"Utilisation des modes économiques et du mode ""start and stop"" des engins, Ecoconduite, Transport, Technologies énergétiques","[ 1.7399013  -0.32919922 -0.13409571 ...  0.39270154 -0.65902007
+ -0.7990357 ]"
+1497,"Modification des horaires de production d'une unité pour éviter les pics de consommation, Stratégie et politique, Organisation, Management (ISO 50 001)","[ 0.85538036 -0.54019004  0.13517436 ... -0.1645499  -0.22392511
+ -0.20600569]"
+1498,"Double tube de chauffage pour serres, Chauffage, CVC, Bâtiment","[ 1.0026375   0.02446423  0.3166012  ...  0.41865456 -1.2224021
+ -0.00241116]"
+1499,"Echangeur-récupérateur de chaleur air/ air dans un bâtiment d'élevage de volailles, Récupération de chaleur, CVC, Bâtiment","[ 3.5142097  -0.6040015   1.4390652  ...  1.3312477  -0.57092494
+  0.08347985]"
+1500,"Déshumidification via système thermodynamique pour chauffage de serres, Climatisation, CVC, Bâtiment","[ 1.851396   -0.98703194  0.9607662  ... -0.3479234  -1.5333176
+ -0.5724725 ]"
+1501,"Luminaire avec système de contrôle pour les parties communes, Luminaire, Eclairage, Bâtiment","[ 0.24034908 -1.481473   -0.27251592 ... -0.49849802 -1.4509156
+ -0.6969911 ]"
+1502,"Chauffe eau thermodynamique collectif à accumulation, Production, Eau Chaude Sanitaire, Eau","[ 3.0873182  -2.859583    0.8856727  ...  0.5705432  -2.5042078
+  0.21473134]"
+1503,"Logiciel de réduction de consommation d'ordinateurs, Bureautique, Bâtiment","[ 1.4097137  -0.8252697  -0.2984346  ... -0.45595768 -0.34854105
+ -0.8038327 ]"
+1504,"Raccordement d'un bâtiment à un réseau de froid, Climatisation, CVC, Bâtiment","[ 0.13113022 -1.3379247  -0.22639784 ... -0.2969686  -1.1476897
+ -1.6004097 ]"
+1505,"Récupération de chaleur sur une tour de refroidissement, Récupération de chaleur, Chaudière, Utilités","[ 4.1927767  -0.8125115   1.8128731  ...  1.8020176  -0.5684384
+  0.01369854]"
+1506,"Presse à injecter hybride en remplacement de presse hydraulique, Circuit de puissance, Presse, Procédés","[ 2.7029603   1.1741111   0.62097746 ... -0.16506323  0.63037986
+  0.44379988]"
+1507,"Optimisation d'un moteur diesel, Moteur, Moteur, Utilités","[ 2.0806546   0.6258643   0.31429645 ...  1.1335789  -0.5873364
+ -0.6636915 ]"
+1508,"Autopartage, Ecoconduite, Transport, Technologies énergétiques","[ 1.7307994  -1.4497688   1.0933236  ... -0.41392213 -0.13717954
+ -0.64345956]"
+1509,"Stockage de déchets en mode bioréacteur, Traitement, Déchets","[ 3.1278996  -0.36400953  1.2663774  ...  0.6569271  -0.21742642
+ -0.7203818 ]"
+1510,"Valorisation du biogaz, Traitement, Déchets","[ 3.3963525  -1.2010024   0.5274979  ... -0.18724756  0.98938113
+ -1.386254  ]"
+1511,"Co-incinération des déchets, Traitement, Déchets","[ 2.630291    0.32599938  0.6166848  ...  0.3064052  -0.7004779
+ -0.27512753]"
+1522,"Pompe à chaleur haute température avec système à absorption, Récupération de chaleur, Procédés","[ 4.011816   -1.5064524   2.741488   ...  1.0811725  -0.3061738
+ -0.03773806]"
+1534,"Optimisation du fonctionnement des extracteurs, Extracteur d'air, Ventilation de refroidissement","[ 3.2186248  -0.26709145  0.39842972 ...  1.033169    0.2880898
+  0.22145465]"
+1554,"Vitrage à faible émissivité / vitrage à contrôle solaire, Vitrage, Enveloppe, Bâtiment","[ 1.7883407   0.22315405  2.3376899  ... -0.00334572 -0.43993115
+  0.1836027 ]"
+1555,"Triple vitrage, Vitrage, Enveloppe, Bâtiment","[ 1.7420269   0.9176186   1.3347185  ...  0.29495308 -0.27530977
+ -0.46001482]"
+1556,"Vitrage à teinte électrique / Vitrage électrochrome, Vitrage, Enveloppe, Bâtiment","[ 2.6735232   0.76570547  1.7541496  ... -0.8057357   0.09676388
+  0.6700323 ]"
+1557,"Vitrage à store intégré, Vitrage, Enveloppe, Bâtiment","[ 2.6506891   1.7084413   1.7431562  ... -0.16676858 -0.83346
+ -0.6426378 ]"
+1558,"Optimisation de l'orientation des façades vitrées, Vitrage, Enveloppe, Bâtiment",[ 1.1403899  1.4549363  2.0895298 ... -0.2965899  0.5389601 -0.3262518]
+1559,"Optimisation de la phase poste minage (explosion) roulage dans les carrières, Gestion et pilotage, Transport, Technologies énergétiques","[ 1.5895702   0.19126637 -0.5144278  ... -0.924986   -0.532643
+  0.36572704]"
+1560,"Arrêt des locotracteurs lors de leur chargement, Report modal, Transport, Technologies énergétiques","[ 2.2425563   0.6926151  -0.7679664  ... -0.15769859 -0.4137933
+  0.6167135 ]"
+1561,"Récupération de l’énergie potentielle de descente des bras des engins de manutention, Matériel roulant, Transport, Technologies énergétiques",[2.0949454  0.66119397 0.12460928 ... 0.34822452 0.35408428 1.2166915 ]
+1568,"Méthode de séchage par refroidissement lent différé : la dryération, Dryération, Séchage silo","[ 1.2668256  -0.19640197 -0.22406213 ...  0.34186658 -1.9270352
+ -0.8895337 ]"
+1571,"Ajout de rupteurs de ponts thermiques, Isolation, Enveloppe, Bâtiment","[-0.37777448  0.5338942   0.7877204  ... -0.3285114  -0.08468689
+  1.0317887 ]"
+1572,"Pare soleil végétal, Isolation, Enveloppe, Bâtiment","[ 0.6718584  -0.70706373  1.9339823  ... -0.9636255  -0.04689324
+  0.46258417]"
+1573,"Auto contrôle de l'étanchéité à l'air, Etanchéité et infiltrations, Enveloppe, Bâtiment","[ 1.5460138  -0.19634171  1.5623232  ... -0.8630335  -0.363341
+  0.3846716 ]"
+1574,"Construction d'un bâtiment passif, Isolation, Enveloppe, Bâtiment","[-1.2753631  -1.513137    1.4691105  ...  0.12001974  0.07773177
+  0.8860988 ]"
+1575,"Panneaux d'isolation sous vide, Isolation, Enveloppe, Bâtiment","[ 0.8916772  -0.80978537  0.5723747  ... -0.87780696 -0.7366874
+  0.8850317 ]"
+1576,"Choisir la consigne du thermostat de ventilation, Pilotage, Séchage silo","[ 0.6992132  -0.17001227  0.80141777 ... -0.47109178 -1.8366416
+ -0.9223645 ]"
+1577,"Calculer le réchauffement de l'air dans le ventilateur, Ventilateur de refroidissement, Ventilation de refroidissement","[ 0.33816245 -1.1452984   0.9538099  ... -0.3360562  -1.2115012
+  0.9248311 ]"
+1578,"Evaluer les possibilités de ventilation simultanée, Ventilation multi-cellules, Ventilation de refroidissement","[ 0.32051602  0.01148835  0.10285942 ...  0.22719495 -1.5183023
+  1.0417277 ]"
+1579,"Adapter la température de séchage aux caractéristiques du grain, Pilotage, Séchage silo","[ 0.7266122  -0.41935956  0.01086378 ... -0.8609     -0.5758317
+ -1.6418024 ]"
+1580,"Evaluer la Consommation Thermique Spécifique (CTS) du séchoir à grains, Suivi des performances, Séchage silo","[ 1.589431    0.11039645  0.8239832  ...  0.03385985 -0.24319804
+ -0.63336027]"
+1581,"Favoriser le pré-nettoyage du grain, Colonne sécheuse, Séchage silo","[ 1.9154614   0.9656624   0.43028137 ...  0.5701992  -1.5083568
+ -1.2310016 ]"
+1582,"Choisir son mode de pré-stockage, Pilotage, Séchage silo","[ 1.2687535   0.19940928  0.4525787  ... -0.7739936  -1.7408986
+ -1.6477474 ]"
+1583,"Améliorer l’isolation de la colonne sécheuse, Colonne sécheuse, Séchage silo","[ 1.1190774   1.4777892   0.04141476 ... -0.51345116 -0.30487248
+ -0.2192122 ]"
+1586,"Echangeur air/eau en haut du séchoir, Séchage, Procédés","[ 3.1904132  -0.9774436   0.3996483  ...  0.17264237 -0.4984648
+  0.61813015]"
+1587,"Echangeur air/eau en haut du séchoir, Récupérateur de chaleur, Séchage silo","[ 4.0332165  -1.1660995   1.876948   ...  0.6753519  -0.5183683
+ -0.71779597]"
+1588,"Evaluer la durée de ventilation d’un palier, Suivi des performances, Ventilation de refroidissement","[ 0.20709744 -0.24956042  1.1786517  ...  0.03989522 -1.0323932
+  0.3736479 ]"
+1589,"Variateur de vitesse sur le ventilateur séchoir, Ventilateur séchoir, Séchage silo","[ 0.6992812   0.5364205   0.02213998 ... -1.0083234  -0.5785331
+ -0.10730151]"
+1590,"Entretien des courroies de transmission, Ventilateur séchoir, Séchage silo","[ 1.4721825   0.61972445  0.05118018 ...  0.01018362 -0.6101267
+ -0.91424197]"
+1591,"Brûleurs de gaz naturel à veine d'air en remplacement des échangeurs de vapeur, Brûleur, Séchage silo","[ 2.1923149   1.0336893   0.6832041  ...  0.24200736 -1.1599858
+ -0.77069145]"
+1593,"Entretien des courroies de transmission, Ventilateur de refroidissement, Ventilation de refroidissement","[ 1.2221798  -0.42303488  0.40922597 ... -0.02917569 -0.26356545
+  0.48695755]"
+1594,"Sous-comptage gaz, Sous-compteur gaz, Séchage silo","[ 1.8150554   0.50115174  0.7357773  ...  0.4988479  -1.2227724
+ -0.6173458 ]"
+1595,"Variateur de vitesse au niveau de la fosse de réception, Fosse de réception, Manutention","[ 0.49499008  1.2120633  -0.9920992  ... -0.12025445  0.47361824
+  0.7139845 ]"
+1596,"Variateur de vitesse sur le cyclone, Cyclone, Aspiration et Dépoussiérage","[-0.07039165 -1.3438957   0.4979932  ... -0.88888675 -0.2035569
+ -0.36777148]"
+1597,"Fonctionnement du moteur en charge plutôt qu'à vide, Transporteur à bande, Manutention","[ 3.7597053   1.2774665   0.5453693  ... -0.24780083 -0.5818628
+  1.3072422 ]"
+1598,"Chaudière biomasse, Chaudière, Séchage silo","[ 2.9416397  -1.0806642  -0.07776856 ...  1.3485827  -1.6242576
+ -0.6432573 ]"
+1599,"ETM en cycle fermé, Energie Thermique des Mers - ETM, Energies marines renouvelables, Nouvelles énergies","[ 2.1576397   1.012443    0.8193718  ...  0.826076   -0.25618097
+ -0.42939052]"
+1600,"ETM en cycle ouvert, Energie Thermique des Mers - ETM, Energies marines renouvelables, Nouvelles énergies","[ 1.8058363   0.88753134  0.47687182 ...  0.81902087 -0.50023794
+ -0.44479185]"
+1601,"ETM en cycle hybride, Energie Thermique des Mers - ETM, Energies marines renouvelables, Nouvelles énergies","[ 2.6236815   1.1690611   0.7320612  ...  0.69662434 -0.02579897
+ -0.6234379 ]"
+1602,"Eolienne offshore flottante, Eolien offshore, Energies marines renouvelables, Nouvelles énergies",[2.0811052  0.7820091  0.25363296 ... 0.78834105 0.09493984 0.9303899 ]
+1603,"Fondations des éoliennes offshores posées, Eolien offshore, Energies marines renouvelables, Nouvelles énergies",[1.9429438  0.71469575 0.29939646 ... 1.0865957  0.9071442  0.816574  ]
+1604,"Hydrolienne flottante, Hydroliennes, Energies marines renouvelables, Nouvelles énergies","[ 2.529134    0.11252932 -0.01301364 ...  0.8801799  -0.3781932
+  0.26167017]"
+1605,"Hydrolienne à flux axial, Hydroliennes, Energies marines renouvelables, Nouvelles énergies","[ 3.094296    0.03190804 -0.01275827 ...  0.6244186   0.12955369
+  0.02370378]"
+1606,"Colonne d'eau oscillante côtière, Energie houlomotrice, Energies marines renouvelables, Nouvelles énergies","[ 2.18236     0.6525836   0.6818065  ...  0.653079   -0.18847974
+  1.1654088 ]"
+1607,"Colonne d'eau oscillante immergée, Energie houlomotrice, Energies marines renouvelables, Nouvelles énergies","[ 2.5645368   0.76310784  0.36763546 ...  0.17293559 -0.44695836
+  1.521906  ]"
+1608,"Houlomoteur à déferlement, Energie houlomotrice, Energies marines renouvelables, Nouvelles énergies","[ 2.6197016   0.3009877  -0.32571828 ...  0.37541813  0.07048912
+  0.8101076 ]"
+1609,"Système oscillant à translation, Energie houlomotrice, Energies marines renouvelables, Nouvelles énergies","[ 2.7707195   0.5538231   0.13818651 ...  0.59877175 -0.07512771
+  1.6718795 ]"
+1610,"Système oscillant à rotation ou « serpent de mer », Energie houlomotrice, Energies marines renouvelables, Nouvelles énergies","[ 2.7178178   0.84968704  0.7811759  ...  0.44708923 -0.43342456
+  1.5403701 ]"
+1611,"Simple bassin de retenue, Energie marémotrice, Energies marines renouvelables, Nouvelles énergies",[1.7196113  0.5689808  0.78533036 ... 0.85556895 0.26326415 0.89139825]
+1612,"Double bassin de retenue, Energie marémotrice, Energies marines renouvelables, Nouvelles énergies",[2.1635604  0.56431824 0.90695184 ... 0.9410527  0.48103324 1.0729651 ]
+1613,"SWAC en boucle fermée, Climatisation à l'Eau Naturellement Froide (SWAC), Energies marines renouvelables, Nouvelles énergies","[ 1.966429   -1.2934312   0.35143143 ... -0.01417792 -1.2330989
+ -0.10167885]"
+1614,"SWAC en boucle ouverte, Climatisation à l'Eau Naturellement Froide (SWAC), Energies marines renouvelables, Nouvelles énergies","[ 1.92992    -1.5614681   0.1802231  ...  0.07423913 -1.5119475
+ -0.06967476]"
+1615,"Choix du fluide frigorigène, Maintenance, Utilités","[ 2.1149163  -0.02020469  0.9017718  ...  0.36956012 -1.3963002
+  0.06446492]"
+1616,"Stockage de froid par chaleur sensible, Stockage, Froid, Utilités","[ 3.0149822  -0.9856326  -1.8577434  ...  0.3456387  -0.847427
+  0.08486004]"
+1617,"Stockage de froid par chaleur latente, Stockage, Froid, Utilités","[ 3.249034   -1.1315972  -1.391449   ...  0.87126637 -0.75424373
+  0.5858897 ]"
+1618,"Stockage de froid par voie termochimique, Stockage, Froid, Utilités","[ 2.5361056  -0.39727294 -1.4486319  ...  0.39177078 -0.55422676
+ -0.15936361]"
+1619,"Remplacer le compresseur par un éjecteur, Machines frigorifiques, Utilités","[ 1.6750449   0.23598623  0.4090955  ...  0.38946387 -0.5777755
+ -0.3347417 ]"
+1620,"Isolation thermique par rideau d'air, Chambre froide, Froid, Utilités","[ 0.60588646 -0.09064095 -0.5348809  ...  0.8212101  -1.8863882
+  0.9466399 ]"
+1621,"Machine frigorifique à compression, Machines frigorifiques, Utilités","[ 3.0799043  -0.3872913  -0.9957619  ...  0.81179315 -1.5914593
+  1.0678443 ]"
+1622,"Machine frigorifique à compression bi-étagée, Machines frigorifiques, Utilités","[ 2.6957474   0.20947193 -0.61982703 ...  0.19203629 -1.5794789
+  1.0956216 ]"
+1623,"Plafond rayonnant à eau chaude, Chauffage, CVC, Bâtiment","[ 1.9365768  -1.3697165  -0.27383092 ... -0.77354926 -2.8875103
+ -0.08085132]"
+1624,"Plafond rayonnant réversible, Chauffage, CVC, Bâtiment","[ 1.4044898  -0.14241788  0.1673609  ... -1.0078202  -1.8060179
+ -0.87158364]"
+1627,"Déshumidification de l'air par groupe à absorption indirect, Climatisation, CVC, Bâtiment","[ 1.2685088  -1.3880543   2.3045297  ... -0.67767894 -1.8534899
+ -0.4471349 ]"
+1628,"Ventilateur de plafond réversible, Ventilation, CVC, Bâtiment","[ 0.50740427 -0.23707278 -0.43482527 ... -0.19175585 -1.2067016
+ -0.19447343]"
+1629,"Peinture à haute efficacité énergétique, Isolation, Enveloppe, Bâtiment","[-0.56970394  0.19992065  1.4444941  ... -0.4978103   0.2548498
+  0.36409384]"
+1630,"Thermofrigopompe, Récupération de chaleur, Froid, Utilités","[ 3.9783266  -0.70123553  0.8258374  ...  1.9078525  -0.5061506
+ -0.35680065]"
+1631,"Garde-Corps, Appareils électriques, Bâtiment","[ 2.5541286   0.00909876 -0.17225187 ...  0.54589623  0.6294848
+ -0.25049135]"
+1632,"Panneaux solaires thermiques, Capteur, Solaire thermique, Nouvelles énergies","[ 2.8422623  -0.44034514  0.7053683  ...  1.4061598   1.0893576
+ -0.507568  ]"
+1633,"Remplacement des aérothermes vétustes par des nouveaux aérothermes à eau chaude, Chauffage, CVC, Bâtiment","[ 1.8294964  -0.10898524  1.1826044  ...  0.88743484 -1.5955503
+ -0.849338  ]"
+1634,"Remplacement des aérothermes vétustes par des nouveaux aérothermes à vapeur, Chauffage, CVC, Bâtiment","[ 1.6776204   0.6238358   1.3988026  ...  0.9959016  -1.1355513
+ -0.92983395]"
+1635,"Chauffe-Eau Solaire Collectif Individualisé (CESCI), Production, Eau Chaude Sanitaire, Eau","[ 2.7645535  -2.7021792   1.1128539  ...  0.24912906 -2.3674839
+ -0.07105175]"
+1636,"Chauffe-Eau Solaire Collectif avec Appoint Individualisé (CESCAI), Production, Eau Chaude Sanitaire, Eau",[ 2.3533282 -2.440043   0.8422512 ...  0.5643791 -2.2764397 -0.426822 ]
+1637,"Variation de température sur le réseau de chaleur, Ajustement production/besoin, Réseau de chaleur, Technologies énergétiques","[ 2.466477   -1.8025708   1.4447886  ...  1.0555876  -0.10030366
+  0.29582554]"
+1638,"Sur isolation du réseau de chaleur, Production, Réseau de chaleur, Technologies énergétiques","[ 3.0342453  -0.87348324  0.6769298  ...  2.2252076  -0.8679382
+  0.16359866]"
+1639,"Variation électronique de vitesse sur un réseau de chaleur, Ajustement production/besoin, Réseau de chaleur, Technologies énergétiques","[ 2.9077387  -1.3752165   1.129059   ...  0.21057121  0.11731416
+  0.13879815]"
+1640,"Suivi de la performance du réseau de chaleur, Production, Réseau de chaleur, Technologies énergétiques","[ 2.7871957  -1.5255047   0.01758934 ...  1.7007332  -1.4939563
+ -0.40271586]"
+1641,"Sous station collective performante, Ajustement production/besoin, Réseau de chaleur, Technologies énergétiques","[ 2.7699666  -1.5409491   0.56808996 ...  0.5219779   0.79407156
+  0.97166854]"
+1642,"Fourniture d'énergie partielle à certains clients, Ajustement production/besoin, Réseau de chaleur, Technologies énergétiques","[ 2.6906495  -0.87680155  0.1975539  ...  0.75769514 -0.08080757
+  0.10438428]"
+1643,"Ballon d'hydro accumulation pour optimiser l'utilisation du bois, Biomasse, Nouvelles énergies","[ 2.919046   -1.8507602   0.4248875  ...  0.8938915   0.33968133
+ -0.3989893 ]"
+1644,"Solaire thermique centralisé pour un réseau de chaleur, Production, Réseau de chaleur, Technologies énergétiques","[ 3.8899279  -1.7465703   0.9831484  ...  2.2820802  -0.94297045
+ -0.56391907]"
+1645,"Optimisation du tracé du réseau de chaleur, Production, Réseau de chaleur, Technologies énergétiques","[ 3.595274   -0.96869886  0.8671175  ...  1.6803118  -0.6666722
+ -0.49482113]"
+1646,"Chaudière à vapeur basse pression, Chaudière, Vapeur, Utilités","[ 3.4247274  -1.1372886   0.19331853 ...  1.0101342  -1.8590415
+  0.4644165 ]"
+1647,"Conception pointue du réseau de diffusion d’air, Réseau aéraulique, Ventilation de refroidissement","[ 1.8234099  -1.3870128   0.78706586 ... -0.05312159 -0.99093366
+ -0.16802602]"
+1648,"Suivi de l’étanchéité du réseau et nettoyage des gaines, Réseau aéraulique, Ventilation de refroidissement","[ 2.1696808  -1.0406938   0.98465097 ... -0.18589742 -1.5607102
+  0.09480207]"
+1649,"Dimensionnement du diamètre des nourrices, Réseau aéraulique, Ventilation de refroidissement","[ 1.2951931   0.37755972  0.2549046  ...  0.17756903 -0.9435134
+  0.55347496]"
+1650,"Dimensionnement du groupe moto-ventilateur, Ventilateur de refroidissement, Ventilation de refroidissement","[ 1.0963087  -0.4445786   0.27521804 ... -0.2324809  -1.1076509
+  1.314948  ]"
+1651,"Ventilation assistée par groupe froid, Groupe froid, Ventilation de refroidissement","[ 1.0834297  -1.3200899  -0.57401717 ... -0.19314978 -1.8750112
+  1.0882797 ]"
+1653,"Variateur de vitesse sur le ventilateur de refroidissement, Ventilateur de refroidissement, Ventilation de refroidissement","[ 1.0109142  -0.46261144  0.6054451  ... -0.55636567 -0.38896206
+  0.8617113 ]"
+1654,"Bonnes pratiques pour mieux ventiler, en évitant le bridage du ventilateur, Silencieux, Ventilation de refroidissement","[ 0.8877673  -0.2066685   0.20191276 ... -0.20529878 -1.1574633
+ -0.25458533]"
+1655,"Ventilation par aspiration, Ventilateur de refroidissement, Ventilation de refroidissement","[ 0.7917786  -0.9479222   0.09139197 ... -0.27171433 -0.7326499
+  1.5540444 ]"
+1656,"Utilisation d’un cahier de suivi de ventilation, Suivi des performances, Ventilation de refroidissement","[ 0.7968318  -1.364446    0.2324276  ... -0.1596555  -0.64721096
+  0.62912315]"
+1657,"Gestion des arrivages/allotements des lots en fonction de leur humidité, Pilotage, Séchage silo","[ 2.3935993  -0.7164783   0.71946305 ... -1.0428314  -0.42597952
+ -1.0766815 ]"
+1658,"Réduire les erreurs de tri des déchets, Tri, Déchets","[ 2.2548223   0.49772474  0.7692568  ...  1.2341533  -0.7575391
+ -0.66943437]"
+1661,"Bénéficier d'une exonération partielle de la TICFE (ou CSPE), Contrat, Gestion des énergies, Management (ISO 50 001)","[ 0.45337337 -0.10825225  1.8772776  ... -0.36713147 -1.4664876
+ -0.933795  ]"
+1664,"Négocier la récupération des palettes/fûts avec le prestataire de déchets, Stockage de déchets, Déchets","[ 3.5371478   1.6372104   0.2642582  ...  0.6224429  -0.17447704
+ -0.4864432 ]"
+1665,"Bénéficier d'une exonération de la TICGN, Contrat, Gestion des énergies, Management (ISO 50 001)","[ 0.30196783 -0.22629088  1.1640015  ... -0.22783042 -1.5010388
+ -1.0025424 ]"
+1666,"Optimiser les flux déchets, Stockage de déchets, Déchets","[ 2.4752417   1.957213    0.44603857 ...  0.804592    1.1562955
+ -0.74241924]"
+1667,"Négocier les contrats déchets avec le prestataire actuel, Stockage de déchets, Déchets","[ 2.1971548   1.9736751   0.02239488 ...  1.4613283  -0.29544693
+ -0.42361706]"
+1668,"Lancer un appel d’offres, Tri, Déchets","[ 1.0191358  -0.33915874 -0.81693673 ... -0.38370153 -0.5628206
+ -0.3514899 ]"
+1669,"Optimiser les taxes associées à la gestion des déchets, Tri, Déchets","[ 1.7834063   0.7668109   0.3404639  ...  0.5158464  -0.03357976
+ -1.2275419 ]"
+1670,"Optimiser le stockage des déchets, Stockage de déchets, Déchets","[ 2.7466464   2.3938558   0.83003515 ...  1.5362855   0.8116505
+ -0.8634172 ]"
+1671,"Surveiller que le traitement facturé correspond bien au poids net sans les contenants, Stockage de déchets, Déchets","[ 1.6456901   1.4001445   0.1354858  ... -0.45388705 -0.4985406
+ -1.5030717 ]"
+1672,"Optimiser les fréquences des enlèvements des contenants des déchets, Stockage de déchets, Déchets",[ 2.3435123  1.299179   1.1287714 ...  1.2872092 -0.4725907 -0.9908808]
+1673,"Surveiller que le tonnage racheté correspond bien au poids réel dans mon contenant, Stockage de déchets, Déchets","[ 2.1878126   0.59898263 -0.30675274 ... -1.1285868  -0.10442882
+ -0.0736207 ]"
+1674,"Séparer un déchet pour une meilleure valorisation, Valorisation, Déchets","[ 2.0942564   1.107289    0.1168791  ...  0.41276187  0.4723261
+ -0.5638975 ]"
+1675,"Mettre en place le tri des papiers, Tri, Déchets","[ 2.2559738   0.11343268  0.10060715 ...  0.8933145  -1.4301912
+ -1.3342278 ]"
+1677,"Deshydrater un déchet pour réduire le volume stocké, transporté et traité, Stockage de déchets, Déchets","[ 3.5157545   0.7364126   0.14643137 ... -0.50927025  0.5201869
+  0.05728875]"
+1678,"Réduire le gaspillage alimentaire en mettant en place le don, Valorisation, Déchets","[ 2.6478498   0.5227634  -0.01814901 ... -0.68228084 -0.12559132
+ -0.67535335]"
+1679,"Mettre en place le don (hors alimentaire), Valorisation, Déchets",[ 1.8287038  0.6373481 -1.0059887 ... -1.1165645 -0.8038024 -1.352069 ]
+1680,"Etudier de nouvelles chaînes de valorisation des déchets de bois (y compris les palettes) en cherchant une valeur ajoutée pour l'entreprise., Valorisation, Déchets","[ 1.7833568   0.32087865 -0.16159055 ...  0.6728953   0.9082506
+ -0.53327113]"
+1681,"Valoriser les boues et les eaux polluées, Valorisation, Déchets","[ 2.7912464   0.5457335  -0.30242723 ...  0.03027683  0.46132243
+ -1.0395565 ]"
+1682,"Mettre en place un économiseur d'eau sur les sanitaires, Réseau, Eau","[ 2.674176   -2.115345    0.32662454 ... -0.36662748 -1.5725359
+  0.0127375 ]"
+1683,"Réduire la quantité d'eau consommée lors des phases de nettoyage, Eau Chaude Sanitaire, Eau",[ 3.1619422 -2.8434312 -0.6642201 ... -1.2063187 -1.8520812  1.528474 ]
+1684,"Mettre en place un circuit fermé de refroidissement, Réseau, Eau","[ 3.1841006  -1.0632956   1.5982819  ... -0.19081476 -1.9086742
+ -0.0225047 ]"
+1685,"Asservir l'usage de l'eau au process, Eau de procédés, Eau","[ 3.9510798  -1.7631445  -0.76556647 ... -1.4202752  -2.1089015
+ -0.43799824]"
+1686,"Optimisation contrat eau / Taxes d'assainissement, Assainissement, Eau","[ 1.9672682  -1.1210582   1.3176564  ... -0.40729424  0.8966726
+ -1.9605693 ]"
+1687,"Préchauffer l'air neuf entrant, Chauffage, CVC, Bâtiment","[ 1.0082552  -0.03091127  0.41836756 ...  0.15132044 -2.526193
+  0.7623359 ]"
+1688,"Réduire la température de l'air en entrée dans les équipements d'air comprimé, Gestion et pilotage, Air comprimé, Utilités","[ 2.4798634  -0.72597045  0.04698392 ... -0.29606974 -1.9872999
+  0.10976686]"
+1689,"Mettre des bennes fermées pour limiter l'humidité, Stockage de déchets, Déchets","[ 3.4661155   0.01678553 -0.19442576 ... -0.42929915  0.07607534
+ -0.62796867]"
+1690,"Optimiser une filière de valorisation déchet existante, Valorisation, Déchets","[ 2.3763864   0.14822899  0.14120604 ...  0.2680539   0.0624284
+ -0.15782733]"
+1691,"Optimiser le tri des inertes, Tri, Déchets","[ 2.483122    1.9332184   0.12020236 ...  1.7036495  -1.3020686
+  0.12769143]"
+1692,"Réemployer / réutiliser les matériaux inertes sur le même chantier ou sur un autre chantier, Recyclage, Déchets","[ 1.1958854   0.38885227  1.0710609  ... -0.5375444   0.38234302
+  0.42070612]"
+1693,"Remplacer les groupes froids, Maintenance, Froid, Utilités","[ 0.84131813 -0.309685   -1.370636   ...  0.93142724 -1.1951475
+  0.04089114]"
+1694,"Optimisation de la consommation d'énergie sur les chantiers, Gestion et pilotage, Transport, Technologies énergétiques","[ 1.3487628   0.62527645  0.8556975  ... -0.2348347   1.3077567
+ -0.2636227 ]"
+1695,"Remplacer un équipement par un équivalent plus performant, Gestion et pilotage, Utilités","[ 1.0221806  -0.9853537   0.62590206 ... -0.07240503  0.6494763
+ -0.6945156 ]"
+1697,"Mettre en place des bacs de récupération sous les fûts et AD Blue, Stockage de déchets, Déchets","[ 2.5809588   1.1642432   0.8272431  ...  0.5432141  -0.66871417
+ -0.77668786]"
+1698,"Mettre en place un bac de décantation avant rejet à la nature, Traitement, Déchets","[ 2.0981162   0.07459872  0.04682307 ... -0.35552666 -1.502947
+ -1.0971932 ]"
+1699,"Risque de pollution des sols sur les stockages derrière les ateliers, Stockage de déchets, Déchets","[ 2.3902786   0.5609998  -0.18610187 ...  0.9133882   1.1036471
+ -1.1539332 ]"
+1700,"Location du support de sachet plastique, Valorisation, Déchets","[ 2.9702842  -0.7574469   0.43450868 ...  0.43111965 -1.4402752
+ -1.0869434 ]"
+1701,"Etudier la faisabilité et la rentabilité du regroupement des compteurs électriques et l'optimisation des puissances souscrites, Contrat, Gestion des énergies, Management (ISO 50 001)","[ 0.0229021  -0.4732405   0.8211483  ...  0.4181262  -1.5349313
+ -0.19266644]"
+1702,"Utilisation d'huiles et additifs pour réduire les frottements et la consommation de carburant., Gestion et pilotage, Utilités","[ 2.8212767   0.02544334  1.929617   ...  2.2274685   0.48590732
+ -0.280694  ]"
+1703,"Etudier l'optimisation de l'installation de chauffage (allonger la gaine de soufflage, passer à une centrale double flux avec préchauffage de l'air entrant), Chauffage, CVC, Bâtiment",[ 0.7970855  0.6198127  1.0544946 ...  0.7250253 -1.5481296 -1.1464578]
+1704,"Remplacer les chariots élévateurs ""propane"" par des électriques, Matériel roulant, Transport, Technologies énergétiques","[ 1.967875    0.15477934  0.46204558 ...  0.00220769  0.23997584
+ -0.42330238]"
+1705,"Suivre la consommation des véhicules du parc automobile, Gestion et pilotage, Transport, Technologies énergétiques","[ 2.629789   -0.2893232   0.5928572  ... -0.16924603 -0.9551495
+ -0.15430954]"
+1706,"Remplacer les PAC, Chauffage, CVC, Bâtiment","[ 0.9256582  -0.2590359   1.6622177  ...  1.0551411  -0.06259175
+ -2.0653133 ]"
+1707,"Arrêter l'utilisation de la chaudière gaz pour utiliser les PAC, Chauffage, CVC, Bâtiment","[ 2.72002    -0.4500241   0.9468925  ...  0.97569877 -1.2238985
+ -1.2179602 ]"
+1708,"Changer les ordinateurs fixes par des ordinateurs portables, Bureautique, Bâtiment","[-0.6742451  -1.7170684  -0.2115751  ...  0.12270425  0.25694934
+ -0.66543967]"
+1709,"Faire une étude carbone des préconisations, Capture, Capture et stockage du CO2, Technologies énergétiques","[ 1.7486361  -1.3001298   0.49803004 ...  1.9546349  -0.2938404
+  0.36898977]"
+1710,"Favoriser la communication digitale au catalogue papier, Valorisation, Déchets","[ 1.3673718   0.12783164 -1.2991767  ...  0.27181005 -0.05754478
+ -1.7842337 ]"
+1711,"Remplacer le chauffage des bains au gaz par une solution de production d’eau chaude ENR, Capteur, Solaire photovoltaïque, Nouvelles énergies","[ 2.6668575  -1.984285    0.48282364 ...  0.9796135  -0.96805793
+ -0.53648174]"
+1712,"Mettre en place des portes sectionnelles pour garder la chaleur dans l’usine, Etanchéité et infiltrations, Enveloppe, Bâtiment","[ 1.184271    0.04910786 -0.1056632  ... -1.5198028  -0.8958471
+ -0.99553746]"
+1713,"Films anti-chaleur sur les baies vitrées, Vitrage, Enveloppe, Bâtiment","[ 1.4645662  -0.07051609  1.6754202  ...  0.05423722 -0.12740515
+ -1.1015621 ]"
+1714,"Optimiser la production d'eau traitée (osmosé, filtration), Production, Eau","[ 3.271143   -1.4918892  -0.01949859 ... -0.7547821  -1.3297057
+ -1.2915081 ]"
